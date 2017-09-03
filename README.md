@@ -6,3 +6,5 @@ The script will extract data from:
 * https://domain.com.au/auction-results/sydney
 
 to 2 CSV files with columns Suburb, Address, Bedroom, Type, Price, Link
+
+Requirement: /usr/bin/tesseract (installed via tesseract-ocr package)
