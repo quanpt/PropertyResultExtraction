@@ -3,6 +3,6 @@ Extract weekly NSW property result from Domain and Realestate websites into CSV 
 
 The script will extract data from:
 * https://www.realestate.com.au/auction-results/nsw
-* domain.com.au/auction-results/sydney
+* https://domain.com.au/auction-results/sydney
 
 to 2 CSV files with columns Suburb, Address, Bedroom, Type, Price, Link
