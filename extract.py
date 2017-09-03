@@ -42,6 +42,8 @@ def write_domain_csv(file_name):
 
 
 def img2room(href):
+    if href.find('convert/LQ') > 0:
+        return 0
     if href.find('convert/MQ') > 0:
         return 1
     if href.find('convert/Mg') > 0:
