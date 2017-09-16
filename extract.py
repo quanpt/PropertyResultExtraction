@@ -18,7 +18,7 @@ def write_domain_csv(file_name):
     property_type_expr = './/span[@class="auction-details__property-type"]'
     price_expr = './/span[@class="auction-details__price"]'
     href_expr = './@href'
-    print_format = '"{}","{}",{},"{}",{},"{}"\n'
+    print_format = '"{}"\t"{}"\t{}\t"{}"\t{}\t"{}"\n'
 
     html_parser = etree.HTMLParser(encoding='utf-8', recover=True,
                                    strip_cdata=True)
