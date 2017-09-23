@@ -59,15 +59,20 @@ def img2room(href):
     return 7
 
 
+def getXpath(element, xpath, default):
+    res = element.xpath(xpath)
+    return res[0] if len(res) > 0 else default
+
+
 # extract data from realestate page to csv
 def write_realestate_csv(file_name):
     suburb_expr = '//div[@class="rui-table-responsive suburb" and descendant::div[@class="col-suburb-name"]]'
     suburb_text_expr = './/div[@class="col-suburb-name"]'
     property_link_expr = './/tbody/tr'
     address_expr = '(.//a[@class="col-address"]/text() | .//div[@class="col-address"]/text())'
-    bedroom_expr = './/div[@class="col-num-beds noscrape"]/img/@src'
+    bedroom_expr = './/div[contains(@class,"col-num-beds")]/text()'
     property_type_expr = './/div[@class="col-property-type"]/text()'
-    price_expr = './/div[@class="col-property-price noscrape"]/img/@src'
+    price_expr = './/div[@class="col-property-price"]/text()'
     href_expr = './/a[@class="col-address"]/@href'
     print_format = '"{}","{}",{},"{}",{},"{}"\n'
 
@@ -79,14 +84,9 @@ def write_realestate_csv(file_name):
         for e in document.xpath(suburb_expr):
             suburb_name = e.xpath(suburb_text_expr)[0].text
             for property_link in e.xpath(property_link_expr):
-                bedroom = img2room(property_link.xpath(bedroom_expr)[0])
+                bedroom = getXpath(property_link, bedroom_expr, 0.5)
                 price_text = property_link.xpath(price_expr)[0]
-                with open('tmp.png', 'wb') as f:
-                    f.write(base64.b64decode(price_text[22:]))
-                subprocess.run('/usr/bin/tesseract tmp.png tmp'.split(' '))
-                with open('tmp.txt') as f:
-                    price_text = f.readline()
-                price = price_text[1:-1].replace(',','')[:-3]
+                price = price_text[1:].replace(',','')
                 href = property_link.xpath(href_expr)
                 href = ('https://www.realestate.com.au' + href[0]) if len(href) > 0 else ''
                 output.write(print_format.format(suburb_name,
