@@ -1,0 +1,501 @@
+"Suburb"	"Address"	Bedroom	"Type"	Price	"Link"	Distance
+"ABBOTSBURY"	"15 Lanceley Pl"	5	"House"	1480.0	"http://www.domain.com.au/2013896637"	31.3
+"ALEXANDRIA"	"228 Belmont St"	3	"House"	1750.0	"http://www.domain.com.au/2013901905"	3.5
+"ALEXANDRIA"	"10/62-72 Botany Rd"	1	"Unit"	680.0	"http://www.domain.com.au/2013902943"	3.5
+"ALEXANDRIA"	"151/362 Mitchell Rd"	1	"Unit"	751.0	"http://www.domain.com.au/2013903898"	3.5
+"ALEXANDRIA"	"14/7-17 Newton St"	2	"Unit"	725.0	"http://www.domain.com.au/2013878776"	3.5
+"ALFORDS POINT"	"84 Brushwood Dr"	4	"House"	1620.0	"http://www.domain.com.au/2013873189"	21.9
+"ALFORDS POINT"	"20 Watergum Pl"	4	"House"	Passed In	"http://www.domain.com.au/2013903834"	21.9
+"ALLAMBIE HEIGHTS"	"6 Buna Pl"	3	"House"	1500.0	"http://www.domain.com.au/2013871602"	12
+"ALLAMBIE HEIGHTS"	"98 Smith Av"	3	"House"	1476.0	"http://www.domain.com.au/2013902534"	12
+"ARNCLIFFE"	"14 Mount St"	4	"House"	Price withheld	"http://www.domain.com.au/2013892660"	9.5
+"ARTARMON"	"37/1 Jersey Rd"	2	"Unit"	Price withheld	"http://www.domain.com.au/2013902325"	6.7
+"ASHFIELD"	"6/105-107 Alt St"	2	"Unit"	739.0	"http://www.domain.com.au/2013895149"	7.9
+"ASHFIELD"	"1/5 Blackwood Av"	1	"Unit"	365.0	"http://www.domain.com.au/2013885376"	7.9
+"ASHFIELD"	"5/15 Cecil St"	2	"Unit"	770.0	"http://www.domain.com.au/2013899437"	7.9
+"ASHFIELD"	"7/49 Charlotte St"	2	"Unit"	741.0	"http://www.domain.com.au/2013883615"	7.9
+"ASHFIELD"	"11/29 Elizabeth St"	2	"Unit"	Withdrawn	"http://www.domain.com.au/2013880746"	7.9
+"AUBURN"	"52 Gordon Rd"	4	"House"	920.0	"http://www.domain.com.au/2013878824"	16.2
+"AUBURN"	"3/13 Normanby Rd"	2	"Unit"	Withdrawn	"http://www.domain.com.au/2013898308"	16.2
+"AVALON BEACH"	"7 Burrendong Pl"	4	"House"	Price withheld	"http://www.domain.com.au/2013895169"	28.1
+"AVALON BEACH"	"3 Neweena Pl"	3	"House"	1850.0	"http://www.domain.com.au/2013879986"	28.1
+"AVALON BEACH"	"127 Palmgrove Rd"	4	"House"	2300.0	"http://www.domain.com.au/2013869470"	28.1
+"AVALON BEACH"	"15 Patrick St"	4	"House"	1455.0	"http://www.domain.com.au/2013902519"	28.1
+"AVOCA BEACH"	"11 Matong La"	4	"Duplex"	742.5	"http://www.domain.com.au/2013890168"	49.3
+"BALGOWLAH"	"15 Nield Av"	2	"House"	1591.0	"http://www.domain.com.au/2013891747"	9.6
+"BALMAIN"	"17 Pashley St"	2	"House"	1310.0	"http://www.domain.com.au/2013892904"	2.9
+"BALMAIN"	"4/2 Rosebery Pl"	2	"Unit"	Price withheld	"http://www.domain.com.au/2013901531"	2.9
+"BALMAIN"	"2/6 Turner St"	2	"Unit"	Passed In	"http://www.domain.com.au/2013897424"	2.9
+"BANGOR"	"9 Anzac Rd"	4	"House"	Passed In	"http://www.domain.com.au/2013907339"	23.5
+"BANKSIA"	"5 Oakleigh Av"	3	"House"	1240.0	"http://www.domain.com.au/2013891353"	10.7
+"BASS HILL"	"33 Adeline St"	3	"House"	820.0	"http://www.domain.com.au/2013896032"	19.9
+"BASS HILL"	"129 Johnston Rd"	4	"Semi"	Price withheld	"http://www.domain.com.au/2013897980"	19.9
+"BAULKHAM HILLS"	"35 Burrell Cr"	3	"House"	Price withheld	"http://www.domain.com.au/2013907261"	23.2
+"BAULKHAM HILLS"	"3 Magnolia Av"	3	"House"	1279.0	"http://www.domain.com.au/2013893570"	23.2
+"BAULKHAM HILLS"	"12 Marina Rd"	4	"House"	Passed In	"http://www.domain.com.au/2013892614"	23.2
+"BAULKHAM HILLS"	"196 Seven Hills Rd"	4	"House"	1300.0	"http://www.domain.com.au/2013912182"	23.2
+"BAYVIEW"	"2011 Pittwater Rd"	3	"House"	2250.0	"http://www.domain.com.au/2013883160"	24.5
+"BEACON HILL"	"12 Cooper Cl"	4	"House"	2300.0	"http://www.domain.com.au/2013887133"	13.7
+"BEAUMONT HILLS"	"9 Spur St"	4	"House"	1050.0	"http://www.domain.com.au/2013904886"	30.2
+"BEECROFT"	"47 Wongala Cr"	3	"House"	2300.0	"http://www.domain.com.au/2013899375"	18.6
+"BELFIELD"	"15 Clarence St"	3	"House"	1490.0	"http://www.domain.com.au/2013880030"	12
+"BELLA VISTA"	"10 Wardington Ri"	4	"House"	Passed In	"http://www.domain.com.au/2013897482"	27.4
+"BENSVILLE"	"53 Wards Rd"	4	"House"	Passed In	"http://www.domain.com.au/2013798357"	99
+"BERALA"	"23 First Av"	2	"House"	Price withheld	"http://www.domain.com.au/2013892778"	16.3
+"BEVERLY HILLS"	"158 Morgan St"	3	"House"	982.0	"http://www.domain.com.au/2013895335"	14.7
+"BEXLEY"	"6 John St"	5	"House"	Passed In	"http://www.domain.com.au/2013892566"	11.7
+"BEXLEY"	"13 Westminster St"	7	"House"	2000.0	"http://www.domain.com.au/2013898605"	11.7
+"BILGOLA PLATEAU"	"13 Daly St"	3	"House"	1450.0	"http://www.domain.com.au/2013898739"	38
+"BLACKTOWN"	"50 Anthony St"	4	"House"	Passed In	"http://www.domain.com.au/2013898603"	29.6
+"BLACKTOWN"	"49 Joseph St"	3	"House"	Passed In	"http://www.domain.com.au/2013899973"	29.6
+"BLACKTOWN"	"22 Stella Pl"	3	"House"	Passed In	"http://www.domain.com.au/2013855647"	29.6
+"BLUE HAVEN"	"27 Belyando Cr"	4	"House"	Withdrawn	"http://www.domain.com.au/2013896406"	91
+"BLUE HAVEN"	"107 Roper Rd"	4	"House"	516.0	"http://www.domain.com.au/2013896398"	91
+"BONNET BAY"	"23 Tudar Rd"	5	"House"	Passed In	"http://www.domain.com.au/2013905024"	21.2
+"BONNYRIGG HEIGHTS"	"42 Delgarno Rd"	4	"House"	Withdrawn	"http://www.domain.com.au/2013898810"	31.4
+"BOSSLEY PARK"	"1 Murrumbidgee St"	4	"House"	900.0	"http://www.domain.com.au/2013896635"	29.8
+"BOTANY"	"25/125 Banksia St"	2	"Unit"	Passed In	"http://www.domain.com.au/2013901104"	8.7
+"BOTANY"	"183 Bay St"	5	"House"	Passed In	"http://www.domain.com.au/2013889978"	8.7
+"BOTANY"	"84 Tenterden Rd"	5	"House"	1970.0	"http://www.domain.com.au/2013879055"	8.7
+"BROOKLYN"	"103A Brooklyn Rd"	4	"House"	Passed In	"http://www.domain.com.au/2013886116"	35.5
+"BURWOOD"	"19 Lucas Rd"	3	"House"	Passed In	"http://www.domain.com.au/2013878989"	9.6
+"BUSBY"	"20 Galloway St"	3	"House"	675.0	"http://www.domain.com.au/2013891242"	31
+"BUSBY"	"15 Wendouree St"	5	"House"	Price withheld	"http://www.domain.com.au/2013901131"	31
+"CABARITA"	"157 Cabarita Rd"	3	"House"	Passed In	"http://www.domain.com.au/2013888179"	8.9
+"CABRAMATTA WEST"	"61 High St"	3	"House"	Price withheld	"http://www.domain.com.au/2013911418"	27
+"CABRAMATTA WEST"	"142 St Johns Rd"	3	"House"	Passed In	"http://www.domain.com.au/2013900141"	27
+"CAMDEN"	"10 Forrest Cr"	4	"House"	775.0	"http://www.domain.com.au/2013884603"	unknown
+"CAMMERAY"	"7A/10 Abbott St"	2	"Unit"	1100.0	"http://www.domain.com.au/2013903848"	5
+"CAMMERAY"	"7/24 Cammeray Rd"	2	"Unit"	995.0	"http://www.domain.com.au/2013901841"	5
+"CAMMERAY"	"36 Churchill Cr"	5	"House"	Passed In	"http://www.domain.com.au/2013902563"	5
+"CAMMERAY"	"50/331 Miller St"	2	"Unit"	1320.0	"http://www.domain.com.au/2013898636"	5
+"CAMMERAY"	"7/37 Rosalind St"	3	"Unit"	Price withheld	"http://www.domain.com.au/2013897030"	5
+"CAMPERDOWN"	"5/32-40 Gibbens St"	2	"Unit"	1380.0	"http://www.domain.com.au/2013892807"	3.6
+"CAMPERDOWN"	"403/1 Layton St"	2	"Unit"	1268.0	"http://www.domain.com.au/2013892828"	3.6
+"CANLEY HEIGHTS"	"16 Chelsea Dr"	5	"House"	Withdrawn	"http://www.domain.com.au/2013869045"	26.2
+"CANLEY HEIGHTS"	"16 Mark St"	6	"House"	Passed In	"http://www.domain.com.au/2013892129"	26.2
+"CANLEY VALE"	"116 Cardwell St"	3	"House"	Passed In	"http://www.domain.com.au/2013872984"	24.5
+"CANLEY VALE"	"29 Parker St"	3	"House"	Passed In	"http://www.domain.com.au/2013878201"	24.5
+"CANTERBURY"	"8/118-122 Canterbury Rd"	2	"Unit"	610.0	"http://www.domain.com.au/2013892947"	9.3
+"CARINGBAH"	"65A Woodfield Bvd"	3	"Semi"	Withdrawn	"http://www.domain.com.au/2013905659"	21
+"CARINGBAH SOUTH"	"160B Gannons Rd"	6	"House"	Withdrawn	"http://www.domain.com.au/2013892281"	28
+"CARLINGFORD"	"29 Benghazi Rd"	3	"House"	1410.0	"http://www.domain.com.au/2013898619"	17.4
+"CARLINGFORD"	"161A Pennant Hills Rd"	4	"House"	1450.0	"http://www.domain.com.au/2013896276"	17.4
+"CARLTON"	"11/6 Buchanan St"	2	"Unit"	850.0	"http://www.domain.com.au/2013892955"	13.6
+"CARLTON"	"10/13 Nielsen Av"	3	"Unit"	835.0	"http://www.domain.com.au/2013904552"	13.6
+"CARSS PARK"	"23 Carwar Av"	3	"House"	Price withheld	"http://www.domain.com.au/2013895839"	15.6
+"CARTWRIGHT"	"56 Mawson Dr"	3	"House"	645.0	"http://www.domain.com.au/2013896089"	30
+"CASTLE COVE"	"50 Cammaray Rd"	5	"House"	Withdrawn	"http://www.domain.com.au/2013898790"	9.2
+"CASTLE HILL"	"219 Excelsior Av"	4	"House"	1950.0	"http://www.domain.com.au/2013892057"	23.9
+"CASULA"	"5 Baguette Cl"	3	"House"	Passed In	"http://www.domain.com.au/2013888287"	29
+"CASULA"	"11 Erin Pl"	3	"House"	Passed In	"http://www.domain.com.au/2013891246"	29
+"CENTENNIAL PARK"	"1/80-84 Cook Rd"	1	"Unit"	710.0	"http://www.domain.com.au/2013886884"	3.8
+"CHAIN VALLEY BAY"	"Lot 22 Chain Valley Bay Rd"	4	"House"	Passed In	"http://www.domain.com.au/2013860855"	unknown
+"CHARMHAVEN"	"147 Panorama Av"	2	"House"	705.0	"http://www.domain.com.au/2013896393"	unknown
+"CHATSWOOD"	"31 Alleyne St"	6	"House"	Passed In	"http://www.domain.com.au/2013778173"	8.2
+"CHATSWOOD"	"202/1 Cambridge La"	1	"Unit"	Price withheld	"http://www.domain.com.au/2013906894"	8.2
+"CHATSWOOD"	"28 Eddy Rd"	4	"House"	2000.0	"http://www.domain.com.au/2013901972"	8.2
+"CHATSWOOD"	"18 Hercules St"	3	"House"	2990.0	"http://www.domain.com.au/2013901502"	8.2
+"CHATSWOOD"	"49 Lamette St"	3	"House"	Passed In	"http://www.domain.com.au/2013904341"	8.2
+"CHATSWOOD"	"46 Nicholson St"	4	"House"	Price withheld	"http://www.domain.com.au/2013898617"	8.2
+"CHATSWOOD"	"3 Peckham Av"	5	"House"	Passed In	"http://www.domain.com.au/2013898615"	8.2
+"CHATSWOOD"	"44/75 Stanley St"	2	"Unit"	Passed In	"http://www.domain.com.au/2013904026"	8.2
+"CHATSWOOD"	"42 Victoria Av"	2	"House"	Passed In	"http://www.domain.com.au/2013905270"	8.2
+"CHERRYBROOK"	"9 Clifton Pl"	4	"House"	1865.0	"http://www.domain.com.au/2013902526"	22.1
+"CHESTER HILL"	"41 Nyora St"	4	"House"	1135.0	"http://www.domain.com.au/2013892963"	19.1
+"CLOVELLY"	"28 Arden St"	5	"House"	Withdrawn	"http://www.domain.com.au/2013898144"	7.2
+"COLLAROY"	"6 Parkes Rd"	5	"House"	1521.5	"http://www.domain.com.au/2013904997"	16.6
+"COMO"	"23 Bonnet Av"	5	"House"	Passed In	"http://www.domain.com.au/2013900440"	19.9
+"CONCORD"	"4 Cormiston Av"	4	"House"	2200.0	"http://www.domain.com.au/2013898866"	9.6
+"CONDELL PARK"	"35 Wren St"	3	"House"	Passed In	"http://www.domain.com.au/2013884546"	19
+"COOGEE"	"2/160-162 Beach St"	2	"Unit"	1635.0	"http://www.domain.com.au/2013883152"	7.4
+"COOGEE"	"3/91 Brook St"	3	"Unit"	1276.0	"http://www.domain.com.au/2013903530"	7.4
+"COOGEE"	"2/72 Dolphin St"	3	"Unit"	1570.0	"http://www.domain.com.au/2013906165"	7.4
+"COOGEE"	"88 Melody St"	4	"House"	2390.0	"http://www.domain.com.au/2013886033"	7.4
+"CREMORNE"	"25 Earle St"	2	"House"	2720.0	"http://www.domain.com.au/2013891897"	4.8
+"CREMORNE POINT"	"6/2 Kareela Rd"	1	"Unit"	715.0	"http://www.domain.com.au/2013898630"	3.2
+"CROMER"	"17 Toronto Av"	4	"House"	Withdrawn	"http://www.domain.com.au/2013902540"	15.6
+"CRONULLA"	"9/3-5 Giddings Av"	3	"Unit"	1252.5	"http://www.domain.com.au/2013645852"	21.1
+"CRONULLA"	"7/16-18 Gosport St"	2	"Unit"	Price withheld	"http://www.domain.com.au/2013902538"	21.1
+"CROWS NEST"	"43 Huntington St"	2	"House"	Passed In	"http://www.domain.com.au/2013902530"	4.6
+"CROWS NEST"	"15/6 Trafalgar St"	1	"Unit"	680.0	"http://www.domain.com.au/2013901484"	4.6
+"CROWS NEST"	"1/8 Trafalgar St"	1	"Unit"	Withdrawn	"http://www.domain.com.au/2013904253"	4.6
+"CROYDON"	"11 Albert Cr"	2	"House"	900.0	"http://www.domain.com.au/2013892649"	8.7
+"CROYDON"	"5/31-35 Croydon Av"	2	"Townhouse"	1000.0	"http://www.domain.com.au/2013887209"	8.7
+"CROYDON"	"133 Edwin St"	2	"House"	1386.0	"http://www.domain.com.au/2013892945"	8.7
+"CROYDON PARK"	"16/41-47 Clyde St"	2	"Unit"	717.0	"http://www.domain.com.au/2013875050"	9.6
+"CROYDON PARK"	"16/135-139 Croydon Av"	2	"Unit"	617.0	"http://www.domain.com.au/2013897895"	9.6
+"CROYDON PARK"	"29/158-160 Croydon Av"	2	"Unit"	Passed In	"http://www.domain.com.au/2013945115"	9.6
+"CROYDON PARK"	"2/6 Dunmore St"	2	"Unit"	721.0	"http://www.domain.com.au/2013895417"	9.6
+"CROYDON PARK"	"1 Mitchell St"	3	"House"	Price withheld	"http://www.domain.com.au/2013879606"	9.6
+"CROYDON PARK"	"14 Seymour St"	4	"House"	Withdrawn	"http://www.domain.com.au/2013892942"	9.6
+"DARLING POINT"	"1/7 Goomerah Cr"	2	"Unit"	Price withheld	"http://www.domain.com.au/2013897213"	2.8
+"DARLINGHURST"	"108/241-247 Crown St"	1	"Unit"	Passed In	"http://www.domain.com.au/2013902161"	1.8
+"DARLINGHURST"	"7/185-189 Darlinghurst Rd"	2	"Unit"	1390.0	"http://www.domain.com.au/2013876565"	1.8
+"DARLINGHURST"	"2/347 Liverpool St"	0	"Studio"	440.0	"http://www.domain.com.au/2013901743"	1.8
+"DARLINGTON"	"402/181 Lawson St"	3	"Unit"	Withdrawn	"http://www.domain.com.au/2013902305"	3.1
+"DEE WHY"	"7/83 Howard Av"	2	"Unit"	850.0	"http://www.domain.com.au/2013901808"	14.6
+"DEE WHY"	"10/30A The Crescent "	2	"Townhouse"	Withdrawn	"http://www.domain.com.au/2013888417"	14.6
+"DEE WHY"	"113 Victor Rd"	5	"House"	3000.0	"http://www.domain.com.au/2013900540"	14.6
+"DOLLS POINT"	"6/10 Oldham Cr"	3	"Villa"	Price withheld	"http://www.domain.com.au/2013890456"	15.1
+"DRUMMOYNE"	"10/9 Napier St"	2	"Unit"	1093.0	"http://www.domain.com.au/2013890134"	5.2
+"DRUMMOYNE"	"51/59 Wrights Rd"	2	"Unit"	1100.0	"http://www.domain.com.au/2013884368"	5.2
+"DULWICH HILL"	"23/49-51 Frazer St"	2	"Unit"	727.0	"http://www.domain.com.au/2013885899"	7.2
+"DULWICH HILL"	"21/363-367 New Canterbury Rd"	2	"Unit"	642.0	"http://www.domain.com.au/2013892647"	7.2
+"DULWICH HILL"	"9/7 Williams Pde"	2	"Unit"	900.0	"http://www.domain.com.au/2013892876"	7.2
+"DURAL"	"22 Derriwong Rd"	5	"House"	4450.0	"http://www.domain.com.au/2013892144"	26.4
+"DURAL"	"2 Lockyer Cl"	4	"House"	Passed In	"http://www.domain.com.au/2013874477"	26.4
+"EARLWOOD"	"16/3-3A Bass Rd"	3	"Townhouse"	890.0	"http://www.domain.com.au/2013882730"	9.9
+"EARLWOOD"	"220 Bexley Rd"	4	"House"	Withdrawn	"http://www.domain.com.au/2013867253"	9.9
+"EARLWOOD"	"55 Homer St"	3	"House"	2605.0	"http://www.domain.com.au/2013877314"	9.9
+"EARLWOOD"	"45 River St"	2	"House"	1550.0	"http://www.domain.com.au/2013890354"	9.9
+"EARLWOOD"	"16/90-94 Riverview Rd"	2	"Unit"	1225.0	"http://www.domain.com.au/2013897697"	9.9
+"EARLWOOD"	"80 William St"	4	"House"	1830.0	"http://www.domain.com.au/2013877938"	9.9
+"EAST GOSFORD"	"22 Sierra Cr"	3	"House"	715.0	"http://www.domain.com.au/2013901398"	49.6
+"EAST HILLS"	"482 Henry Lawson Dr"	4	"House"	1100.0	"http://www.domain.com.au/2013892645"	23
+"EAST LINDFIELD"	"73 Chelmsford Av"	5	"House"	Passed In	"http://www.domain.com.au/2013900226"	11.4
+"EAST RYDE"	"74 Elliott Av"	4	"House"	1815.0	"http://www.domain.com.au/2013898641"	8.6
+"EASTGARDENS"	"8 Boonah Av"	2	"House"	1480.0	"http://www.domain.com.au/2013891159"	8.9
+"EASTLAKES"	"7/8-10 Maloney St"	2	"Unit"	665.0	"http://www.domain.com.au/2013891356"	6.5
+"EASTWOOD"	"13 Auld Av"	4	"House"	Withdrawn	"http://www.domain.com.au/2013902543"	14.5
+"EASTWOOD"	"31 Wentworth Rd"	5	"House"	3600.0	"http://www.domain.com.au/2013888198"	14.5
+"ELANORA HEIGHTS"	"21 Bungoona Av"	3	"House"	1875.0	"http://www.domain.com.au/2013886597"	20.3
+"ENFIELD"	"2 King St"	3	"House"	3210.0	"http://www.domain.com.au/2013899701"	10.8
+"ENGADINE"	"68 Anzac Av"	3	"House"	970.0	"http://www.domain.com.au/2013900386"	28.4
+"ENGADINE"	"41 Forbes Cr"	3	"House"	Withdrawn	"http://www.domain.com.au/2013905968"	28.4
+"ENGADINE"	"111 Kingswood Rd"	5	"House"	Withdrawn	"http://www.domain.com.au/2013903370"	28.4
+"ENGADINE"	"27 Lochiel Rd"	3	"House"	Price withheld	"http://www.domain.com.au/2013924221"	28.4
+"ENGADINE"	"23 Tinakill Av"	4	"House"	982.0	"http://www.domain.com.au/2013890457"	28.4
+"EPPING"	"29 Boronia Av"	3	"House"	2000.0	"http://www.domain.com.au/2013888954"	15.6
+"EPPING"	"64 Somerset St"	4	"House"	1350.0	"http://www.domain.com.au/2013898521"	15.6
+"EPPING"	"47 Willoughby St"	5	"Duplex"	1780.0	"http://www.domain.com.au/2013897584"	15.6
+"ERMINGTON"	"18 Cleveland St"	3	"House"	Passed In	"http://www.domain.com.au/2013898525"	15.3
+"ERMINGTON"	"31 Trumble Av"	3	"House"	1350.0	"http://www.domain.com.au/2013893724"	15.3
+"ERSKINEVILLE"	"60 Charles St"	3	"House"	2100.0	"http://www.domain.com.au/2013896192"	4.2
+"ERSKINEVILLE"	"1D Goddard St"	3	"House"	1495.0	"http://www.domain.com.au/2013900372"	4.2
+"ERSKINEVILLE"	"5 Turtle La"	3	"House"	Passed In	"http://www.domain.com.au/2013903538"	4.2
+"FAIRFIELD"	"36 Ace Av"	3	"House"	Passed In	"http://www.domain.com.au/2013918450"	23.2
+"FAIRFIELD"	"26 Codrington St"	4	"House"	875.0	"http://www.domain.com.au/2013896423"	23.2
+"FAIRFIELD"	"33 Riverview Rd"	3	"House"	890.0	"http://www.domain.com.au/2013910446"	23.2
+"FAIRFIELD"	"529 The Horsley Dr"	3	"House"	Withdrawn	"http://www.domain.com.au/2013898008"	23.2
+"FAIRFIELD"	"7 Wood St"	3	"House"	Passed In	"http://www.domain.com.au/2013909894"	23.2
+"FAIRLIGHT"	"3/5 Bellevue St"	3	"Unit"	Passed In	"http://www.domain.com.au/2013902560"	9.8
+"FAIRLIGHT"	"84 Griffiths St"	4	"House"	2655.0	"http://www.domain.com.au/2013904713"	9.8
+"FAIRLIGHT"	"1 Jamieson Av"	4	"House"	Passed In	"http://www.domain.com.au/2013898748"	9.8
+"FIVE DOCK"	"24 York Av"	4	"House"	Passed In	"http://www.domain.com.au/2013902352"	7.1
+"FOREST LODGE"	"138 Hereford St"	4	"House"	2250.0	"http://www.domain.com.au/2013908059"	2.9
+"FOREST LODGE"	"27 Ross St"	4	"House"	1485.0	"http://www.domain.com.au/2013892827"	2.9
+"FOREST LODGE"	"208C St Johns Rd"	2	"House"	Price withheld	"http://www.domain.com.au/2013901586"	2.9
+"FORESTVILLE"	"41 Milham Cr"	4	"House"	Passed In	"http://www.domain.com.au/2013870654"	11.7
+"FRENCHS FOREST"	"22 Epping Dr"	5	"House"	1618.0	"http://www.domain.com.au/2013896063"	13
+"FRENCHS FOREST"	"7 Noorong Av"	5	"House"	1890.0	"http://www.domain.com.au/2013902271"	13
+"FRENCHS FOREST"	"25 Warili Rd"	4	"House"	1730.0	"http://www.domain.com.au/2013913593"	13
+"FRESHWATER"	"50 Brighton St"	5	"House"	3055.0	"http://www.domain.com.au/2013904873"	18
+"FRESHWATER"	"7/67 Evans St"	2	"Unit"	865.0	"http://www.domain.com.au/2013903248"	18
+"FRESHWATER"	"9/75 Evans St"	2	"Unit"	2009.9999999999998	"http://www.domain.com.au/2013901641"	18
+"GEORGES HALL"	"5 Amaroo Av"	3	"House"	Passed In	"http://www.domain.com.au/2013897527"	20.6
+"GEORGES HALL"	"40 Lincoln Rd"	3	"House"	850.0	"http://www.domain.com.au/2013896885"	20.6
+"GEORGES HALL"	"39 Talinga Av"	3	"House"	867.0	"http://www.domain.com.au/2013892648"	20.6
+"GIRRAWEEN"	"4 Teague St"	3	"House"	Passed In	"http://www.domain.com.au/2013911353"	25.1
+"GLADESVILLE"	"8 Clare St"	5	"House"	2450.0	"http://www.domain.com.au/2013884735"	8.1
+"GLADESVILLE"	"30 Osgathorpe Rd"	3	"House"	1800.0	"http://www.domain.com.au/2013904098"	8.1
+"GLADESVILLE"	"5/27 Wharf Rd"	2	"Unit"	620.0	"http://www.domain.com.au/2013901205"	8.1
+"GLEBE"	"206 Glebe Point Rd"	3	"House"	2975.0	"http://www.domain.com.au/2013895593"	2.3
+"GLENHAVEN"	"4 Badenoch Av"	4	"House"	Passed In	"http://www.domain.com.au/2013893344"	26
+"GORDON"	"42A Holford Cr"	3	"House"	Passed In	"http://www.domain.com.au/2013902728"	13.4
+"GORDON"	"56 McIntosh St"	3	"House"	Price withheld	"http://www.domain.com.au/2013890065"	13.4
+"GRANVILLE"	"52 Sixth St"	4	"House"	870.0	"http://www.domain.com.au/2013897933"	18.5
+"GREENWICH"	"2 Edwin St"	5	"House"	3225.0	"http://www.domain.com.au/2013887860"	4.4
+"GREENWICH"	"153 Greenwich Rd"	3	"House"	2200.0	"http://www.domain.com.au/2013888951"	4.4
+"GREENWICH"	"7/2 Landenburg Pl"	2	"Unit"	Price withheld	"http://www.domain.com.au/2013885064"	4.4
+"GREENWICH"	"1/252 Pacific Hwy"	2	"Unit"	845.0	"http://www.domain.com.au/2013922218"	4.4
+"GREYSTANES"	"104 Adler Pde"	3	"House"	941.0	"http://www.domain.com.au/2013895088"	24
+"GUILDFORD"	"43 Adam St"	3	"House"	Withdrawn	"http://www.domain.com.au/2013907098"	20.5
+"GUILDFORD"	"7/524-526 Guildford Rd"	2	"Villa"	505.0	"http://www.domain.com.au/2013900882"	20.5
+"GUILDFORD"	"10 Maley St"	3	"House"	760.0	"http://www.domain.com.au/2013895194"	20.5
+"HABERFIELD"	"51 Boomerang St"	4	"House"	2960.0	"http://www.domain.com.au/2013892865"	6.5
+"HABERFIELD"	"29 O'Connor St"	4	"House"	Passed In	"http://www.domain.com.au/2013892864"	6.5
+"HARRIS PARK"	"6/112 Harris St"	2	"Unit"	576.0	"http://www.domain.com.au/2013900815"	19
+"HEATHCOTE"	"54 Forest Rd"	3	"House"	1294.0	"http://www.domain.com.au/2013897435"	29.8
+"HENLEY"	"7 Bayview Cr"	4	"House"	2825.0	"http://www.domain.com.au/2013896990"	7.1
+"HINCHINBROOK"	"22 Partridge Av"	4	"House"	Passed In	"http://www.domain.com.au/2013896050"	32.2
+"HOLSWORTHY"	"33 Sabre Cr"	4	"House"	Passed In	"http://www.domain.com.au/2013677087"	25.5
+"HOMEBUSH"	"17/3-5 Burlington Rd"	2	"Unit"	651.0	"http://www.domain.com.au/2013883579"	11.6
+"HORNSBY"	"8 Tarro Cl"	3	"House"	1342.5	"http://www.domain.com.au/2013903325"	20.6
+"HORNSBY HEIGHTS"	"398 Somerville Rd"	3	"House"	1365.0	"http://www.domain.com.au/2013902880"	24.2
+"HUNTERS HILL"	"15 Mary St"	3	"House"	Price withheld	"http://www.domain.com.au/2013898626"	6.3
+"HUNTERS HILL"	"22 Park Rd"	4	"House"	3650.0	"http://www.domain.com.au/2013879287"	6.3
+"HUNTERS HILL"	"97 Park Rd"	5	"House"	Price withheld	"http://www.domain.com.au/2013889976"	6.3
+"HUNTERS HILL"	"63 Pittwater Rd"	4	"House"	1960.0	"http://www.domain.com.au/2013879461"	6.3
+"HUNTLEYS COVE"	"24 Mortimer Lewis Dr"	3	"Townhouse"	Passed In	"http://www.domain.com.au/2013893328"	6.5
+"HURSTVILLE"	"14/7 Bellevue Pde"	1	"Unit"	Withdrawn	"http://www.domain.com.au/2013895199"	14.7
+"HURSTVILLE"	"4/20-24 Dalcassia St"	0	"Unit"	Withdrawn	"http://www.domain.com.au/2013895508"	14.7
+"HURSTVILLE GROVE"	"123 Lansdowne St"	2	"House"	Passed In	"http://www.domain.com.au/2013875872"	16.5
+"ILLAWONG"	"62 Bignell St"	4	"House"	1290.0	"http://www.domain.com.au/2013897689"	21
+"ILLAWONG"	"114 Blaxland Dr"	4	"House"	Passed In	"http://www.domain.com.au/2013904141"	21
+"ILLAWONG"	"57 Gerald Rd"	5	"House"	Passed In	"http://www.domain.com.au/2013897690"	21
+"JANNALI"	"8A Wybalena Pl"	5	"House"	1000.0	"http://www.domain.com.au/2013901975"	21.2
+"KENSINGTON"	"303/150 Doncaster Av"	2	"Unit"	1250.0	"http://www.domain.com.au/2013892552"	4.9
+"KILLARNEY HEIGHTS"	"34 Blarney Av"	4	"House"	2150.0	"http://www.domain.com.au/2013890439"	10.4
+"KINCUMBER"	"11 Tora Av"	4	"House"	Passed In	"http://www.domain.com.au/2013870518"	47.3
+"KINGS LANGLEY"	"12 Brett St"	4	"House"	990.0	"http://www.domain.com.au/2013895454"	29.7
+"KINGSFORD"	"26 Hincks St"	5	"House"	Passed In	"http://www.domain.com.au/2013865188"	6.7
+"KINGSGROVE"	"8 Todd St"	3	"House"	Price withheld	"http://www.domain.com.au/2013877958"	12.8
+"KIRRAWEE"	"27 Tea Tree Pl"	4	"House"	Passed In	"http://www.domain.com.au/2013900452"	22.4
+"KIRRIBILLI"	"4/122 Kirribilli Av"	2	"Unit"	1390.0	"http://www.domain.com.au/2013900255"	2.4
+"KIRRIBILLI"	"8/29 Waruda St"	2	"Unit"	1950.0	"http://www.domain.com.au/2013889124"	2.4
+"KOGARAH"	"201/71-73 Bank La"	3	"Unit"	835.0	"http://www.domain.com.au/2013900841"	12.7
+"KOGARAH"	"15 Rocky Point Rd"	4	"House"	Passed In	"http://www.domain.com.au/2013889963"	12.7
+"KOGARAH"	"48 Scott St"	4	"House"	Passed In	"http://www.domain.com.au/2013892546"	12.7
+"KOGARAH"	"40 Warialda St"	3	"House"	1050.0	"http://www.domain.com.au/2013892544"	12.7
+"KURNELL"	"174 Prince Charles Pde"	3	"House"	Passed In	"http://www.domain.com.au/2013882284"	17.7
+"KYEEMAGH"	"7/49B Mutch Av"	3	"Villa"	Passed In	"http://www.domain.com.au/2013907392"	10.3
+"LAKE HAVEN"	"33 Derwent Dr"	5	"House"	750.0	"http://www.domain.com.au/2013899229"	unknown
+"LALOR PARK"	"33 Danny Rd"	3	"House"	Passed In	"http://www.domain.com.au/2013910841"	28.1
+"LANE COVE"	"6A Bridge St"	4	"House"	Passed In	"http://www.domain.com.au/2013903191"	6.8
+"LANE COVE"	"55A Finlayson St"	3	"House"	Price withheld	"http://www.domain.com.au/2013905062"	6.8
+"LANE COVE NORTH"	"25 Kara St"	5	"House"	Passed In	"http://www.domain.com.au/2013885060"	7.4
+"LANE COVE NORTH"	"5/31-39 Mindarie St"	1	"Unit"	Price withheld	"http://www.domain.com.au/2013901091"	7.4
+"LANE COVE NORTH"	"8/400 Mowbray Rd W"	2	"Unit"	Passed In	"http://www.domain.com.au/2013908247"	7.4
+"LANE COVE NORTH"	"13/4 Murray St"	2	"Unit"	700.0	"http://www.domain.com.au/2013904092"	7.4
+"LANE COVE NORTH"	"16/506-512 Pacific Hwy"	2	"Unit"	770.0	"http://www.domain.com.au/2013910896"	7.4
+"LANE COVE NORTH"	"2/22 Willandra St"	3	"Townhouse"	Price withheld	"http://www.domain.com.au/2013905064"	7.4
+"LANE COVE WEST"	"11 Yethonga Av"	4	"House"	2450.0	"http://www.domain.com.au/2013902557"	8.4
+"LAWSON"	"60 Hay St"	2	"House"	360.0	"http://www.domain.com.au/2013882611"	88
+"LEICHHARDT"	"24 Arthur St"	2	"House"	Passed In	"http://www.domain.com.au/2013895136"	5
+"LIDCOMBE"	"29 Martin St"	3	"House"	1360.0	"http://www.domain.com.au/2013857167"	15.1
+"LIDCOMBE"	"55 Ostend St"	5	"House"	1908.0	"http://www.domain.com.au/2013894940"	15.1
+"LIDCOMBE"	"62 Raymond St"	4	"House"	1000.0	"http://www.domain.com.au/2013892190"	15.1
+"LIDCOMBE"	"47 Wayland Av"	6	"House"	Withdrawn	"http://www.domain.com.au/2013894941"	15.1
+"LILYFIELD"	"69 White St"	4	"House"	2420.0	"http://www.domain.com.au/2013901409"	3.9
+"LINDFIELD"	"49 Cocupara Av"	4	"House"	Passed In	"http://www.domain.com.au/2013900886"	10.7
+"LINDFIELD"	"34/234 Pacific Hwy"	3	"Unit"	Price withheld	"http://www.domain.com.au/2013889053"	10.7
+"LIVERPOOL"	"84 Alderson Av"	4	"House"	830.0	"http://www.domain.com.au/2013869816"	26.9
+"LONGUEVILLE"	"14 Kenneth St"	6	"House"	6000.0	"http://www.domain.com.au/2013896587"	5.4
+"LONGUEVILLE"	"85 William Edward St"	5	"House"	Price withheld	"http://www.domain.com.au/2013902410"	5.4
+"LUGARNO"	"7 Boronia Pde"	3	"House"	1920.0	"http://www.domain.com.au/2013896682"	19.6
+"LUGARNO"	"2A Illawong St"	5	"House"	Passed In	"http://www.domain.com.au/2013896692"	19.6
+"LUGARNO"	"31 Lugarno Pde"	3	"House"	1316.0	"http://www.domain.com.au/2013901900"	19.6
+"LUGARNO"	"11 Tallowwood Av"	4	"House"	Passed In	"http://www.domain.com.au/2013898647"	19.6
+"LURNEA"	"4 Clingan Av"	3	"House"	755.0	"http://www.domain.com.au/2013891245"	29.6
+"MANLY"	"2/41 Ashburner St"	2	"Unit"	1720.0	"http://www.domain.com.au/2013901488"	10.8
+"MANLY"	"17/17 Balgowlah Rd"	3	"Unit"	1450.0	"http://www.domain.com.au/2013902251"	10.8
+"MANLY"	"5/87 Birkley Rd"	3	"Unit"	1375.0	"http://www.domain.com.au/2013899207"	10.8
+"MANLY"	"32 Denison St"	2	"House"	1950.0	"http://www.domain.com.au/2013904296"	10.8
+"MANLY"	"3/10 Griffin St"	2	"Unit"	Passed In	"http://www.domain.com.au/2013890312"	10.8
+"MANLY"	"8 Herbert St"	4	"House"	Withdrawn	"http://www.domain.com.au/2013901703"	10.8
+"MANLY"	"5 Lawson Pl"	1	"House"	1510.0	"http://www.domain.com.au/2013901709"	10.8
+"MANLY"	"18/51 Pittwater Rd"	1	"Unit"	905.0	"http://www.domain.com.au/2013903247"	10.8
+"MANLY"	"4/66 Whistler St"	2	"Unit"	991.2	"http://www.domain.com.au/2013622895"	10.8
+"MAROUBRA"	"1001 Anzac Pde"	3	"House"	Passed In	"http://www.domain.com.au/2013856564"	9.4
+"MAROUBRA"	"9 Bowen Pl"	3	"House"	1830.0	"http://www.domain.com.au/2013893326"	9.4
+"MAROUBRA"	"19/425 Malabar Rd"	3	"Townhouse"	Passed In	"http://www.domain.com.au/2013897845"	9.4
+"MAROUBRA"	"59 Torrington Rd"	3	"House"	2700.0	"http://www.domain.com.au/2013890508"	9.4
+"MARRICKVILLE"	"15 South St"	3	"House"	Price withheld	"http://www.domain.com.au/2013883157"	6.7
+"MARRICKVILLE"	"12/295 Victoria Rd"	2	"Unit"	875.0	"http://www.domain.com.au/2013893068"	6.7
+"MARRICKVILLE"	"43 Wemyss St"	4	"House"	Passed In	"http://www.domain.com.au/2013904175"	6.7
+"MARSFIELD"	"23 Blundell St"	4	"House"	2200.0	"http://www.domain.com.au/2013898545"	13.9
+"MASCOT"	"4 Frogmore St"	3	"Semi"	1357.0	"http://www.domain.com.au/2013893526"	7.2
+"MASCOT"	"16/635 Gardeners Rd"	2	"Unit"	775.0	"http://www.domain.com.au/2013891116"	7.2
+"MATRAVILLE"	"451 Bunnerong Rd"	3	"House"	1661.0	"http://www.domain.com.au/2013893528"	10.3
+"MATRAVILLE"	"45a Meehan St"	4	"House"	1965.0	"http://www.domain.com.au/2013879996"	10.3
+"MATRAVILLE"	"125 Perry St"	3	"Semi"	1250.0	"http://www.domain.com.au/2013890383"	10.3
+"MATRAVILLE"	"21 Pozieres Av"	3	"House"	2381.0	"http://www.domain.com.au/2013891528"	10.3
+"MATRAVILLE"	"72/22-24 Wassell St"	3	"Unit"	933.0	"http://www.domain.com.au/2013888554"	10.3
+"MEADOWBANK"	"8/1 Bay Dr"	3	"Unit"	Passed In	"http://www.domain.com.au/2013899891"	12.2
+"MELROSE PARK"	"165 Cobham Av"	3	"House"	1702.0	"http://www.domain.com.au/2013898705"	13.3
+"MENAI"	"6 McCabe Pl"	3	"House"	Passed In	"http://www.domain.com.au/2013877665"	24
+"MERRYLANDS"	"5 Charlotte St"	6	"House"	Price withheld	"http://www.domain.com.au/2013878814"	21.3
+"MERRYLANDS"	"33 Chelsea St"	2	"House"	1010.0	"http://www.domain.com.au/2013898139"	21.3
+"MERRYLANDS"	"35 Chelsea St"	3	"House"	1014.9999999999999	"http://www.domain.com.au/2013898140"	21.3
+"MERRYLANDS"	"106 Farnell St"	2	"House"	630.5	"http://www.domain.com.au/2013914973"	21.3
+"MERRYLANDS"	"11 Vincent St"	3	"House"	1130.0	"http://www.domain.com.au/2013897770"	21.3
+"MERRYLANDS WEST"	"65 Eddy St"	4	"House"	Passed In	"http://www.domain.com.au/2013830265"	22
+"MILLER"	"64 Cartwright Av"	3	"House"	651.0	"http://www.domain.com.au/2013891240"	30.3
+"MIRANDA"	"2 Crookwell Av"	4	"House"	2205.0	"http://www.domain.com.au/2013892899"	21
+"MIRANDA"	"7/276 Port Hacking Rd"	3	"Townhouse"	Passed In	"http://www.domain.com.au/2013892567"	21
+"MIRANDA"	"67 Wyralla Rd"	3	"House"	Price withheld	"http://www.domain.com.au/2013904248"	21
+"MORTDALE"	"10 Roberts Av"	3	"House"	Passed In	"http://www.domain.com.au/2013902570"	16.9
+"MOSMAN"	"65 Belmont Rd"	4	"House"	Withdrawn	"http://www.domain.com.au/2013898633"	5.4
+"MOSMAN"	"3/94 Muston St"	3	"Townhouse"	Withdrawn	"http://www.domain.com.au/2013893276"	5.4
+"MOUNT PRITCHARD"	"56 South Pacific Av"	3	"House"	Passed In	"http://www.domain.com.au/2013896527"	28.2
+"NAREMBURN"	"4 Bongalong St"	4	"House"	3100.0	"http://www.domain.com.au/2013898616"	5.6
+"NAREMBURN"	"5 Martin St"	2	"House"	Passed In	"http://www.domain.com.au/2013902529"	5.6
+"NAREMBURN"	"14/18 Northcote St"	2	"Unit"	Passed In	"http://www.domain.com.au/2013906163"	5.6
+"NARRABEEN"	"1/1235 Pittwater Rd"	2	"Unit"	Withdrawn	"http://www.domain.com.au/2013902533"	17.6
+"NARRABEEN"	"9/2 Wetherill St"	2	"Unit"	960.0	"http://www.domain.com.au/2013880767"	17.6
+"NARWEE"	"42 Glendale Av"	3	"House"	950.0	"http://www.domain.com.au/2013784302"	15.6
+"NEUTRAL BAY"	"1/1 High View Av"	2	"Unit"	1420.0	"http://www.domain.com.au/2013898637"	4.2
+"NEUTRAL BAY"	"7/17 Wyagdon St"	3	"Unit"	Passed In	"http://www.domain.com.au/2013904150"	4.2
+"NEWPORT"	"2/377-383 Barrenjoey Rd"	2	"Unit"	Withdrawn	"http://www.domain.com.au/2013900599"	24.9
+"NEWPORT"	"8A King St"	3	"Semi"	1425.0	"http://www.domain.com.au/2013895395"	24.9
+"NEWTOWN"	"204 Church St"	3	"House"	1625.0	"http://www.domain.com.au/2013898906"	4.1
+"NEWTOWN"	"30 Fitzroy St"	3	"House"	1640.0	"http://www.domain.com.au/2013898097"	4.1
+"NEWTOWN"	"18 Fulham St"	3	"House"	1470.0	"http://www.domain.com.au/2013903508"	4.1
+"NEWTOWN"	"54 Margaret St"	2	"House"	1310.0	"http://www.domain.com.au/2013898965"	4.1
+"NORTH CURL CURL"	"21 Bellevue Pde"	4	"House"	2720.0	"http://www.domain.com.au/2013897780"	14.3
+"NORTH ROCKS"	"8/193-195 North Rocks Rd"	3	"Townhouse"	905.0	"http://www.domain.com.au/2013893548"	19.8
+"NORTH ROCKS"	"14 Northam Dr"	4	"House"	1581.0	"http://www.domain.com.au/2013893831"	19.8
+"NORTH ROCKS"	"2/18 Tallwood Dr"	3	"House"	1050.0	"http://www.domain.com.au/2013892560"	19.8
+"NORTH ROCKS"	"7 Wentworth Av"	3	"House"	Passed In	"http://www.domain.com.au/2013898387"	19.8
+"NORTH RYDE"	"9 Beatrice St"	3	"House"	1710.0	"http://www.domain.com.au/2013897363"	10.9
+"NORTH RYDE"	"51 Cooney St"	4	"House"	Withdrawn	"http://www.domain.com.au/2013921413"	10.9
+"NORTH RYDE"	"23 Ford St"	3	"House"	Price withheld	"http://www.domain.com.au/2013902572"	10.9
+"NORTH RYDE"	"44a Ford St"	4	"Duplex"	1730.0	"http://www.domain.com.au/2013898640"	10.9
+"NORTH STRATHFIELD"	"12 Nelson Rd"	3	"House"	2535.0	"http://www.domain.com.au/2013887967"	10.7
+"NORTH WAHROONGA"	"19 Barton Cr"	4	"House"	1946.0	"http://www.domain.com.au/2013902586"	19.9
+"NORTHBRIDGE"	"9 Namoi Rd"	4	"House"	4600.0	"http://www.domain.com.au/2013889711"	6.3
+"NORTHMEAD"	"19 Bevan St"	3	"House"	Passed In	"http://www.domain.com.au/2013895861"	21.7
+"OAKDALE"	"4 Janette Pl"	4	"House"	642.5	"http://www.domain.com.au/2013897719"	unknown
+"OATLANDS"	"2 Gibbons St"	3	"House"	1730.0	"http://www.domain.com.au/2013896819"	18.5
+"OATLANDS"	"1 Holmes Av"	6	"House"	2000.0	"http://www.domain.com.au/2013895373"	18.5
+"OATLEY"	"42A Llewellyn St"	4	"House"	2450.0	"http://www.domain.com.au/2013898800"	17.2
+"OLD GUILDFORD"	"36 Taralga St"	7	"House"	Passed In	"http://www.domain.com.au/2013881379"	20.2
+"OYSTER BAY"	"13 Connell Rd"	4	"House"	1600.0	"http://www.domain.com.au/2013901084"	19.4
+"PADDINGTON"	"19/13 Oatley Rd"	2	"Unit"	1425.0	"http://www.domain.com.au/2013888479"	2.7
+"PADSTOW"	"46 Adelaide Rd"	5	"Semi"	1270.0	"http://www.domain.com.au/2013897757"	18.3
+"PARRAMATTA"	"6/46-48 Morton St"	4	"Townhouse"	Passed In	"http://www.domain.com.au/2013883903"	19.6
+"PEAKHURST"	"8/88-90 Belmore Rd"	3	"Villa"	1155.0	"http://www.domain.com.au/2013892912"	16.9
+"PEAKHURST"	"9 Church St"	2	"House"	1365.0	"http://www.domain.com.au/2013896453"	16.9
+"PEAKHURST"	"43 Jacques Av"	3	"House"	Passed In	"http://www.domain.com.au/2013896451"	16.9
+"PEARL BEACH"	"14 Pearl Pde"	4	"House"	2150.0	"http://www.domain.com.au/2013879131"	37.6
+"PEMULWUY"	"26 Daruga Av"	5	"House"	Passed In	"http://www.domain.com.au/2013882088"	27
+"PENNANT HILLS"	"47 Loftus Rd"	5	"House"	Withdrawn	"http://www.domain.com.au/2013803651"	19
+"PENSHURST"	"74 Pacific Av"	3	"House"	1581.0	"http://www.domain.com.au/2013889573"	15.4
+"PETERSHAM"	"10/43 Livingstone Rd"	2	"Unit"	770.0	"http://www.domain.com.au/2013901492"	5.9
+"PETERSHAM"	"86 Palace St"	6	"House"	2706.0	"http://www.domain.com.au/2013892850"	5.9
+"PETERSHAM"	"415/1 Phillip St"	1	"Unit"	Withdrawn	"http://www.domain.com.au/2013895320"	5.9
+"PICNIC POINT"	"69 Kennedy St"	3	"House"	Withdrawn	"http://www.domain.com.au/2013896771"	22.8
+"POTTS POINT"	"801/9 Bayswater Rd"	2	"Unit"	Withdrawn	"http://www.domain.com.au/2013902547"	1.7
+"PUNCHBOWL"	"2 Augusta St"	3	"House"	831.0	"http://www.domain.com.au/2013879169"	15.5
+"PUNCHBOWL"	"32 Matthews St"	4	"House"	Passed In	"http://www.domain.com.au/2013881425"	15.5
+"PYMBLE"	"15 Golfers Pde"	3	"House"	2095.0	"http://www.domain.com.au/2013882090"	15
+"PYMBLE"	"56 Golfers Pde"	3	"House"	1575.0	"http://www.domain.com.au/2013887175"	15
+"PYMBLE"	"49 Livingstone Av"	4	"House"	Price withheld	"http://www.domain.com.au/2013904353"	15
+"PYRMONT"	"3/104 Miller St"	1	"Unit"	Price withheld	"http://www.domain.com.au/2013897010"	1.3
+"PYRMONT"	"603/22 Point St"	2	"Unit"	2850.0	"http://www.domain.com.au/2013904839"	1.3
+"QUEENS PARK"	"23 Birrell St"	3	"House"	2400.0	"http://www.domain.com.au/2013895799"	5.5
+"QUEENSCLIFF"	"3/40 Dalley St"	2	"Unit"	856.0	"http://www.domain.com.au/2013904145"	11.8
+"QUEENSCLIFF"	"3/100 Queenscliff Rd"	2	"Unit"	1203.0	"http://www.domain.com.au/2013922439"	11.8
+"RAMSGATE"	"23 Clarkes Rd"	3	"House"	Passed In	"http://www.domain.com.au/2013890333"	14.5
+"RANDWICK"	"605/34-52 Alison Rd"	3	"Unit"	Passed In	"http://www.domain.com.au/2013902814"	6
+"RANDWICK"	"9 Burton St"	5	"House"	Price withheld	"http://www.domain.com.au/2013886048"	6
+"RANDWICK"	"13/6A Cowper St"	2	"Unit"	943.0	"http://www.domain.com.au/2013906179"	6
+"RANDWICK"	"4/100 Fern St"	1	"Unit"	908.0	"http://www.domain.com.au/2013890091"	6
+"RANDWICK"	"25/2-20 Gumara St"	1	"Unit"	755.0	"http://www.domain.com.au/2013891802"	6
+"RANDWICK"	"44-46 Wentworth St"	4	"House"	6205.0	"http://www.domain.com.au/2013897994"	6
+"REDFERN"	"210/1-9 Marian St"	3	"Unit"	1475.0	"http://www.domain.com.au/2013886768"	2.9
+"REDFERN"	"15/99 Marriott St"	2	"Unit"	Passed In	"http://www.domain.com.au/2013888671"	2.9
+"REDFERN"	"14.04/157 Redfern St"	2	"Unit"	1067.5	"http://www.domain.com.au/2013892991"	2.9
+"REDFERN"	"1/126 Regent St"	3	"Unit"	1900.0	"http://www.domain.com.au/2013895569"	2.9
+"REVESBY"	"84 Vega St"	3	"House"	1451.0	"http://www.domain.com.au/2013892644"	19.9
+"REVESBY HEIGHTS"	"143 Sandakan Rd"	4	"House"	965.0	"http://www.domain.com.au/2013899767"	21
+"RIVERVIEW"	"4 Yallambee Rd"	5	"House"	Passed In	"http://www.domain.com.au/2013867691"	6.4
+"RIVERWOOD"	"8/11 Webb St"	2	"Unit"	650.0	"http://www.domain.com.au/2013898646"	17
+"RIVERWOOD"	"48 Weemala Av"	3	"House"	Passed In	"http://www.domain.com.au/2013857623"	17
+"ROCKDALE"	"9/18-22 Chapel St"	2	"Unit"	658.0	"http://www.domain.com.au/2013890847"	11.5
+"ROSEBERY"	"8/2A Harris St"	2	"Unit"	Withdrawn	"http://www.domain.com.au/2013885293"	5.9
+"ROSELANDS"	"1 Berenice St"	4	"House"	1200.0	"http://www.domain.com.au/2013885617"	14.4
+"ROSELANDS"	"21 Leigh Av"	3	"House"	1400.0	"http://www.domain.com.au/2013880542"	14.4
+"ROSEVILLE"	"15 Addison Av"	5	"House"	3480.0	"http://www.domain.com.au/2013922132"	9.6
+"ROSEVILLE"	"10 Echo St"	3	"House"	2385.0	"http://www.domain.com.au/2013904055"	9.6
+"ROSEVILLE"	"33 Lord St"	5	"House"	Price withheld	"http://www.domain.com.au/2013903796"	9.6
+"ROZELLE"	"13 Springside St"	3	"House"	Passed In	"http://www.domain.com.au/2013892944"	3.4
+"RUSHCUTTERS BAY"	"10/29-31 Waratah St"	2	"Unit"	1750.0	"http://www.domain.com.au/2013890426"	2.2
+"RYDALMERE"	"81a Antoine St"	4	"Duplex"	Passed In	"http://www.domain.com.au/2013902702"	16.4
+"RYDE"	"27 Dorothy St"	4	"House"	1930.0	"http://www.domain.com.au/2013901556"	11.2
+"RYDE"	"5/18-20 Price St"	2	"Unit"	Withdrawn	"http://www.domain.com.au/2013904628"	11.2
+"SAN REMO"	"362 Scenic Dr"	3	"House"	398.0	"http://www.domain.com.au/2013899342"	115
+"SANS SOUCI"	"8/27-37 Ida St"	2	"Villa"	870.0	"http://www.domain.com.au/2013900435"	15.3
+"SANS SOUCI"	"12 Toyer Av"	4	"Semi"	2115.0	"http://www.domain.com.au/2013895846"	15.3
+"SEAFORTH"	"19 Acacia Rd"	4	"House"	2340.0	"http://www.domain.com.au/2013900269"	8.8
+"SEAFORTH"	"5 Alto Av"	5	"House"	2850.0	"http://www.domain.com.au/2013901725"	8.8
+"SILVERWATER"	"6/25-29 Melton St N"	3	"Townhouse"	960.0	"http://www.domain.com.au/2013897593"	15.1
+"SOUTH GRANVILLE"	"8 Dellwood St"	2	"House"	755.0	"http://www.domain.com.au/2013904336"	18.6
+"SOUTH GRANVILLE"	"36 Randolph St"	3	"House"	675.0	"http://www.domain.com.au/2013911678"	18.6
+"ST CLAIR"	"13 Trout Pl"	3	"House"	690.0	"http://www.domain.com.au/2013912072"	39.3
+"ST HUBERTS ISLAND"	"22 Beachfront Pde"	4	"House"	Withdrawn	"http://www.domain.com.au/2013898687"	43.2
+"ST IVES CHASE"	"199 Warrimoo Av"	5	"House"	Passed In	"http://www.domain.com.au/2013888449"	18.2
+"ST JOHNS PARK"	"5 Bowtell Av"	4	"House"	Price withheld	"http://www.domain.com.au/2013902151"	27.9
+"ST JOHNS PARK"	"6 Concord Pl"	3	"House"	Passed In	"http://www.domain.com.au/2013900091"	27.9
+"ST JOHNS PARK"	"71 St Kilda St"	4	"House"	Passed In	"http://www.domain.com.au/2013886717"	27.9
+"ST LEONARDS"	"312/1 Sergeants La"	2	"Unit"	Passed In	"http://www.domain.com.au/2013906162"	5
+"STANHOPE GARDENS"	"22 Roxburgh Cr"	4	"House"	936.0	"http://www.domain.com.au/2013917447"	30.6
+"STANMORE"	"7/2-6 Bridge Rd"	1	"Unit"	698.0	"http://www.domain.com.au/2013897805"	5.1
+"STANMORE"	"33 Lincoln St"	3	"House"	1850.0	"http://www.domain.com.au/2013899967"	5.1
+"STRATHFIELD"	"17F/30-34 Churchill Av"	2	"Unit"	745.0	"http://www.domain.com.au/2013898802"	10.5
+"STRATHFIELD"	"5 Emu St"	4	"House"	2221.0	"http://www.domain.com.au/2013883685"	10.5
+"STRATHFIELD"	"11/9 Everton Rd"	2	"Unit"	681.0	"http://www.domain.com.au/2013890486"	10.5
+"STRATHFIELD"	"31 Fraser St"	4	"House"	2850.0	"http://www.domain.com.au/2013870812"	10.5
+"STRATHFIELD"	"5 Mount St"	4	"House"	Price withheld	"http://www.domain.com.au/2013846949"	10.5
+"STRATHFIELD"	"86 Nicholson St"	6	"House"	6600.0	"http://www.domain.com.au/2013889046"	10.5
+"STRATHFIELD"	"11/14-20 Russell St"	3	"Unit"	938.5	"http://www.domain.com.au/2013902398"	10.5
+"SUMMER HILL"	"7/62 Grosvenor Cr"	2	"Unit"	Passed In	"http://www.domain.com.au/2013898627"	7
+"SURRY HILLS"	"G10/431-433 Bourke St"	1	"Unit"	950.0	"http://www.domain.com.au/2013901897"	2.5
+"SURRY HILLS"	"10 Davies St"	2	"House"	1850.0	"http://www.domain.com.au/2013905733"	2.5
+"SURRY HILLS"	"64/507-515 Elizabeth St"	2	"Unit"	Passed In	"http://www.domain.com.au/2013876074"	2.5
+"SYDNEY"	"265/27 Park St"	1	"Unit"	Withdrawn	"http://www.domain.com.au/2013898255"	1
+"SYLVANIA"	"28 Corea St"	4	"House"	1625.0	"http://www.domain.com.au/2013898700"	18.3
+"SYLVANIA"	"13/2 Mowbray St"	2	"Townhouse"	770.0	"http://www.domain.com.au/2013897158"	18.3
+"SYLVANIA"	"44 Rocklea Cr"	5	"House"	Passed In	"http://www.domain.com.au/2013898650"	18.3
+"SYLVANIA"	"114 The Esplanade "	3	"House"	Price withheld	"http://www.domain.com.au/2013864369"	18.3
+"TAMARAMA"	"17/20 Illawong Av"	4	"Unit"	2225.0	"http://www.domain.com.au/2013889973"	6.9
+"TAMARAMA"	"32 Tamarama St"	3	"House"	2180.0	"http://www.domain.com.au/2013885104"	6.9
+"TELOPEA"	"11 Chestnut Av"	4	"House"	Withdrawn	"http://www.domain.com.au/2013895875"	16.9
+"TEMPE"	"10 View St"	2	"House"	900.0	"http://www.domain.com.au/2013892906"	7.7
+"TENNYSON POINT"	"58 Champion Rd"	5	"House"	Price withheld	"http://www.domain.com.au/2013883158"	9.2
+"TENNYSON POINT"	"13 Kemp St"	5	"House"	Price withheld	"http://www.domain.com.au/2013871435"	9.2
+"TERRIGAL"	"63 Barnhill Rd"	3	"House"	1014.9999999999999	"http://www.domain.com.au/2013900467"	94
+"TERRIGAL"	"10 Charles Kay Dr"	3	"House"	850.0	"http://www.domain.com.au/2013873692"	94
+"THORNLEIGH"	"23 Loch Maree Av"	4	"House"	Price withheld	"http://www.domain.com.au/2013905297"	19.1
+"TOONGABBIE"	"92 Bungaree Rd"	3	"House"	Passed In	"http://www.domain.com.au/2013895279"	25.2
+"TOONGABBIE"	"72 Cornelia Rd"	3	"House"	Passed In	"http://www.domain.com.au/2013892543"	25.2
+"TOONGABBIE"	"171 Fitzwilliam Rd"	5	"House"	Passed In	"http://www.domain.com.au/2013906393"	25.2
+"TOUKLEY"	"49 Second Av"	3	"House"	595.0	"http://www.domain.com.au/2013880343"	unknown
+"TUGGERAH"	"7/1 Gavenlock Rd"	3	"Unit"	430.0	"http://www.domain.com.au/2013887176"	unknown
+"TURRAMURRA"	"100 Merrivale La"	3	"House"	2060.0	"http://www.domain.com.au/2013905459"	16.5
+"TURRELLA"	"9 Mary St"	5	"House"	Passed In	"http://www.domain.com.au/2013899675"	9.3
+"TURRELLA"	"32 Walker St"	3	"House"	1294.0	"http://www.domain.com.au/2013886891"	9.3
+"TURRELLA"	"52 Walker St"	3	"House"	1388.0	"http://www.domain.com.au/2013892545"	9.3
+"VILLAWOOD"	"2 Alcoomie St"	3	"House"	871.0	"http://www.domain.com.au/2013903221"	21.4
+"WAHROONGA"	"37 Highlands Av"	4	"House"	Passed In	"http://www.domain.com.au/2013896648"	18.7
+"WAHROONGA"	"4 Killawarra Pl"	5	"House"	Withdrawn	"http://www.domain.com.au/2013898655"	18.7
+"WAHROONGA"	"542/2C Munderah St"	3	"Unit"	1350.0	"http://www.domain.com.au/2013904487"	18.7
+"WAITARA"	"62/6 Park Av"	1	"Unit"	Withdrawn	"http://www.domain.com.au/2013902634"	19.9
+"WARRAWEE"	"1 Mitchell Cr"	4	"House"	1850.0	"http://www.domain.com.au/2013901879"	17.7
+"WARRAWEE"	"23/1389-1397 Pacific Hwy"	1	"Unit"	585.0	"http://www.domain.com.au/2013898654"	17.7
+"WARRIEWOOD"	"10 Bella Vista Ct"	5	"House"	Withdrawn	"http://www.domain.com.au/2013902536"	20.6
+"WATERLOO"	"41/370 George St"	2	"Unit"	1135.0	"http://www.domain.com.au/2013877899"	3.7
+"WAVERLEY"	"10/1A MacPherson St"	2	"Unit"	900.0	"http://www.domain.com.au/2013886334"	5.4
+"WAVERTON"	"17 Crows Nest Rd"	2	"House"	2088.0	"http://www.domain.com.au/2013886533"	3.2
+"WAVERTON"	"54/2-12 Crows Nest Rd"	3	"Unit"	1615.0	"http://www.domain.com.au/2013903336"	3.2
+"WAVERTON"	"30 Larkin St"	5	"House"	7168.0	"http://www.domain.com.au/2013878886"	3.2
+"WENTWORTH POINT"	"203/2 The Piazza "	2	"Unit"	658.0	"http://www.domain.com.au/2013891148"	20.1
+"WENTWORTHVILLE"	"57 Craddock St"	3	"House"	Withdrawn	"http://www.domain.com.au/2013896975"	22.9
+"WENTWORTHVILLE"	"64 Lower Mount St"	5	"House"	1200.0	"http://www.domain.com.au/2013892998"	22.9
+"WEST PENNANT HILLS"	"12 Oakes Rd"	5	"House"	2600.0	"http://www.domain.com.au/2013902321"	20
+"WEST PYMBLE"	"17 Warrowa Av"	4	"House"	2052.0	"http://www.domain.com.au/2013902343"	14
+"WEST RYDE"	"3/93 Adelaide St"	2	"Villa"	1020.0	"http://www.domain.com.au/2013901654"	12.8
+"WEST RYDE"	"43 Falconer St"	4	"House"	1820.0	"http://www.domain.com.au/2013896096"	12.8
+"WEST RYDE"	"4/56 Linton Av"	2	"Villa"	937.0	"http://www.domain.com.au/2013891412"	12.8
+"WILEY PARK"	"13/15 Alice St N"	1	"Unit"	Passed In	"http://www.domain.com.au/2013890826"	18
+"WILEY PARK"	"4/6-7 Clio St"	2	"Unit"	480.0	"http://www.domain.com.au/2013890827"	18
+"WILLOUGHBY"	"3 Stephen St"	4	"House"	Price withheld	"http://www.domain.com.au/2013896177"	7.3
+"WINSTON HILLS"	"34 Caroline Chisholm Dr"	5	"House"	1740.0	"http://www.domain.com.au/2013893524"	22.6
+"WINSTON HILLS"	"198 Junction Rd"	3	"House"	851.0	"http://www.domain.com.au/2013894802"	22.6
+"WOLLI CREEK"	"1504/1 Brodie Spark Dr"	3	"Unit"	1035.0	"http://www.domain.com.au/2013876683"	8.5
+"WOLLI CREEK"	"204/12 Brodie Spark Dr"	1	"Unit"	650.0	"http://www.domain.com.au/2013876736"	8.5
+"WOLLI CREEK"	"506/20 Brodie Spark Dr"	2	"Unit"	783.0	"http://www.domain.com.au/2013882620"	8.5
+"WOLLSTONECRAFT"	"86/41 Rocklands Rd"	2	"Unit"	1100.0	"http://www.domain.com.au/2013905220"	4.4
+"WOLLSTONECRAFT"	"1B/74 Shirley Rd"	3	"Unit"	Passed In	"http://www.domain.com.au/2013855483"	4.4
+"WOODCROFT"	"21 Pattern Pl"	4	"House"	Passed In	"http://www.domain.com.au/2013895129"	32.7
+"WOOLLAHRA"	"5/3 Ocean St"	2	"Unit"	Withdrawn	"http://www.domain.com.au/2013809670"	3.6
+"WOOLLOOMOOLOO"	"41/27-51 Palmer St"	2	"Unit"	1070.0	"http://www.domain.com.au/2013891642"	1.3
+"WOOLLOOMOOLOO"	"1103/22-40 Sir John Young Cr"	2	"Unit"	1180.0	"http://www.domain.com.au/2013891800"	1.3
+"WOOLOOWARE"	"706/1 Foreshore Bvd"	2	"Unit"	Passed In	"http://www.domain.com.au/2013902576"	21
+"WOY WOY BAY"	"43 Taylor St"	3	"House"	Withdrawn	"http://www.domain.com.au/2013907115"	43.6
+"WYONGAH"	"12 Springall Av"	3	"House"	450.0	"http://www.domain.com.au/2013901457"	unknown
+"YAGOONA"	"48 Alan St"	3	"House"	875.0	"http://www.domain.com.au/2013889557"	17.3
+"YAGOONA"	"71 Horton St"	4	"House"	1157.0	"http://www.domain.com.au/2013886577"	17.3
+"YAGOONA"	"8 The Crescent "	6	"House"	1170.0	"http://www.domain.com.au/2013892694"	17.3
+"ZETLAND"	"18/92-112 Joynton Av"	1	"Unit"	748.0	"http://www.domain.com.au/2013902318"	4.8
