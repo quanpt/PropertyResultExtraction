@@ -1,0 +1,448 @@
+"Suburb"	"Address"	Bedroom	"Type"	Price	"Link"	Distance
+"ABBOTSFORD"	"397 Great North Rd"	7	"House"	Passed In	"https://www.domain.com.au/397-great-north-road-abbotsford-nsw-2046-2013931801"	7.4
+"ABBOTSFORD"	"1/17 Rokeby Rd"	2	"Unit"	910.0	"https://www.domain.com.au/1-17-rokeby-road-abbotsford-nsw-2046-2013963654"	7.4
+"ALEXANDRIA"	"288 Belmont St"	4	"House"	2050.0	"https://www.domain.com.au/288-belmont-street-alexandria-nsw-2015-2013976839"	3.5
+"ALFORDS POINT"	"127 Brushwood Dr"	5	"House"	1605.0	"https://www.domain.com.au/127-brushwood-drive-alfords-point-nsw-2234-2013950989"	21.9
+"ALLAMBIE HEIGHTS"	"44 Churchill Cr"	5	"House"	2350.0	"https://www.domain.com.au/44-churchill-crescent-allambie-heights-nsw-2100-2013974851"	12
+"ALLAWAH"	"96A Bellevue Pde"	4	"House"	1250.0	"https://www.domain.com.au/96a-bellevue-parade-allawah-nsw-2218-2013966038"	14.3
+"ANNANDALE"	"16/143 Trafalgar St"	2	"Townhouse"	Price withheld	"https://www.domain.com.au/16-143-trafalgar-street-annandale-nsw-2038-2013966595"	3.7
+"ARTARMON"	"3/148 Hampden Rd"	2	"Unit"	Passed In	"https://www.domain.com.au/3-148-hampden-road-artarmon-nsw-2064-2013962822"	6.7
+"ASHBURY"	"2 Melville St"	3	"House"	1260.0	"https://www.domain.com.au/2-melville-street-ashbury-nsw-2193-2013971472"	9
+"ASHBURY"	"6a Whitfield Av"	4	"Duplex"	Passed In	"https://www.domain.com.au/6a-whitfield-avenue-ashbury-nsw-2193-2013953984"	9
+"ASHFIELD"	"7/74 Alt St"	1	"Unit"	530.0	"https://www.domain.com.au/7-74-alt-street-ashfield-nsw-2131-2013967328"	7.9
+"ASHFIELD"	"2/4 Church St"	2	"Unit"	640.0	"https://www.domain.com.au/2-4-church-street-ashfield-nsw-2131-2013984151"	7.9
+"ASHFIELD"	"807/268-270 Liverpool Rd"	1	"Unit"	682.5	"https://www.domain.com.au/807-268-270-liverpool-road-ashfield-nsw-2131-2013976684"	7.9
+"ASHFIELD"	"25/403 Liverpool Rd"	2	"Unit"	648.0	"https://www.domain.com.au/25-403-liverpool-road-ashfield-nsw-2131-2013954348"	7.9
+"ASHFIELD"	"31/58-70 Orpington St"	2	"Unit"	675.0	"https://www.domain.com.au/31-58-orpington-street-ashfield-nsw-2131-2013967343"	7.9
+"ASHFIELD"	"80 Victoria St"	4	"House"	Passed In	"https://www.domain.com.au/80-victoria-street-ashfield-nsw-2131-2013954478"	7.9
+"AVOCA BEACH"	"12 Warren Avenue "	5	"House"	Withdrawn	"https://www.domain.com.au/12-warren-avenue-avoca-beach-nsw-2251-2013928473"	49.3
+"BALGOWLAH"	"7 Angle St"	4	"House"	Withdrawn	"https://www.domain.com.au/7-angle-street-balgowlah-nsw-2093-2013971330"	9.6
+"BALGOWLAH"	"1/104 Condamine St"	2	"Unit"	Passed In	"https://www.domain.com.au/1-104-condamine-street-balgowlah-nsw-2093-2013978120"	9.6
+"BALGOWLAH"	"1/179 Condamine St"	3	"Semi"	1800.0	"https://www.domain.com.au/1-179-condamine-street-balgowlah-nsw-2093-2013973095"	9.6
+"BALGOWLAH"	"9/8 Orchard St"	3	"Townhouse"	1440.0	"https://www.domain.com.au/9-8-orchard-street-balgowlah-nsw-2093-2013967381"	9.6
+"BALGOWLAH HEIGHTS"	"10 Curban St"	5	"House"	Passed In	"https://www.domain.com.au/10-curban-street-balgowlah-heights-nsw-2093-2013962033"	8.7
+"BALMAIN"	"30 High St"	4	"House"	Price withheld	"https://www.domain.com.au/30-high-street-balmain-nsw-2041-2013978303"	2.9
+"BALMAIN EAST"	"5 Hart St"	4	"House"	Price withheld	"https://www.domain.com.au/5-hart-street-balmain-east-nsw-2041-2013969484"	1.8
+"BANGOR"	"116 Yanderra Av"	4	"House"	Price withheld	"https://www.domain.com.au/116-yanderra-avenue-bangor-nsw-2234-2013965126"	23.5
+"BANKSTOWN"	"68 Fenwick St"	4	"House"	1860.0	"https://www.domain.com.au/68-fenwick-street-bankstown-nsw-2200-2013951998"	16.9
+"BANKSTOWN"	"359 Hume Hwy"	3	"House"	770.0	"https://www.domain.com.au/359-hume-highway-bankstown-nsw-2200-2013964308"	16.9
+"BARDWELL PARK"	"156 Slade Rd"	4	"House"	1225.0	"https://www.domain.com.au/156-slade-road-bardwell-park-nsw-2207-2013960359"	10.4
+"BASS HILL"	"275 Hector St"	3	"House"	Price withheld	"https://www.domain.com.au/275-hector-street-bass-hill-nsw-2197-2013971061"	19.9
+"BASS HILL"	"18 Hitter Av"	2	"House"	755.0	"https://www.domain.com.au/18-hitter-avenue-bass-hill-nsw-2197-2013971794"	19.9
+"BAULKHAM HILLS"	"5 Cropley Dr"	4	"House"	Price withheld	"https://www.domain.com.au/5-cropley-drive-baulkham-hills-nsw-2153-2013965303"	23.2
+"BAULKHAM HILLS"	"12 Peter St"	3	"House"	Passed In	"https://www.domain.com.au/12-peter-street-baulkham-hills-nsw-2153-2013978438"	23.2
+"BEACON HILL"	"7 Margaret St"	3	"House"	1560.0	"https://www.domain.com.au/7-margaret-street-beacon-hill-nsw-2100-2013972403"	13.7
+"BEACONSFIELD"	"46 Victoria St"	2	"House"	Price withheld	"https://www.domain.com.au/46-victoria-street-beaconsfield-nsw-2015-2013959190"	5
+"BELFIELD"	"19 Jay Av"	3	"House"	1400.0	"https://www.domain.com.au/19-jay-avenue-belfield-nsw-2191-2013954446"	12
+"BELMORE"	"63 Nelson Av"	5	"House"	Withdrawn	"https://www.domain.com.au/63-nelson-avenue-belmore-nsw-2192-2013955605"	12.3
+"BELROSE"	"3 Birru Pl"	3	"House"	Withdrawn	"https://www.domain.com.au/3-birru-place-belrose-nsw-2085-2013971015"	14.2
+"BERKELEY VALE"	"12 Wirigi St"	3	"House"	725.0	"https://www.domain.com.au/12-wirigi-street-berkeley-vale-nsw-2261-2013971325"	92.6
+"BEVERLY HILLS"	"2 Yoorami Rd"	3	"House"	1630.0	"https://www.domain.com.au/2-yoorami-road-beverly-hills-nsw-2209-2013975492"	14.7
+"BEXLEY"	"3/47 Beaconsfield St"	2	"Villa"	760.0	"https://www.domain.com.au/3-47-beaconsfield-street-bexley-nsw-2207-2013954989"	11.7
+"BEXLEY"	"7 Beaconsfield St"	3	"House"	2100.0	"https://www.domain.com.au/7-beaconsfield-street-bexley-nsw-2207-2013946661"	11.7
+"BEXLEY"	"83 Dunmore St S"	5	"House"	1189.0	"https://www.domain.com.au/83-dunmore-street-bexley-nsw-2207-2013964603"	11.7
+"BEXLEY"	"9/73-75 Queen Victoria St"	2	"Unit"	610.0	"https://www.domain.com.au/9-73-75-queen-victoria-street-bexley-nsw-2207-2013971458"	11.7
+"BEXLEY"	"117 St Georges Rd"	5	"House"	1726.0	"https://www.domain.com.au/117-st-georges-road-bexley-nsw-2207-2013979353"	11.7
+"BIRCHGROVE"	"10 Ferdinand St"	2	"House"	1414.0	"https://www.domain.com.au/10-ferdinand-street-birchgrove-nsw-2041-2013971523"	2.9
+"BLACKTOWN"	"32 Archer St"	3	"House"	750.0	"https://www.domain.com.au/32-archer-street-blacktown-nsw-2148-2013949855"	29.6
+"BLACKTOWN"	"78 Bungarribee Rd"	3	"House"	706.0	"https://www.domain.com.au/78-bungarribee-road-blacktown-nsw-2148-2013951627"	29.6
+"BLAKEHURST"	"5 Church St"	3	"House"	Withdrawn	"https://www.domain.com.au/5-church-street-blakehurst-nsw-2221-2013956603"	16.1
+"BONDI"	"35/20 Edward St"	2	"Unit"	Passed In	"https://www.domain.com.au/35-20-edward-street-bondi-beach-nsw-2026-2013971310"	5.9
+"BONDI BEACH"	"17/112-134 Hall St"	2	"Unit"	1290.0	"https://www.domain.com.au/17-112-134-hall-street-bondi-beach-nsw-2026-2013979266"	6.8
+"BONDI JUNCTION"	"807/80 Ebley St"	1	"Unit"	Price withheld	"https://www.domain.com.au/807-80-ebley-street-bondi-junction-nsw-2022-2013922860"	4.7
+"BONDI JUNCTION"	"2 Radford Av"	3	"House"	1940.0	"https://www.domain.com.au/2-radford-avenue-bondi-junction-nsw-2022-2013978638"	4.7
+"BOSSLEY PARK"	"47 Prairie Vale Rd"	5	"House"	840.0	"https://www.domain.com.au/47-prairie-vale-road-bossley-park-nsw-2176-2013985727"	29.8
+"BOSSLEY PARK"	"15 Quarry Rd"	3	"House"	760.0	"https://www.domain.com.au/15-quarry-rd-bossley-park-nsw-2176-2013967234"	29.8
+"BOSSLEY PARK"	"5 Tallowood Cr"	5	"House"	1600.0	"https://www.domain.com.au/5-tallowood-crescent-bossley-park-nsw-2176-2013966516"	29.8
+"BOTANY"	"2 Brighton St"	3	"House"	1290.0	"https://www.domain.com.au/2-brighton-street-botany-nsw-2019-2013966397"	8.7
+"BOTANY"	"1/25 Chelmsford Av"	2	"Unit"	Withdrawn	"https://www.domain.com.au/1-25-chelmsford-avenue-botany-nsw-2019-2013942150"	8.7
+"BOTANY"	"10/2 Daniel St"	2	"Unit"	950.0	"https://www.domain.com.au/10-2-daniel-street-botany-nsw-2019-2013983946"	8.7
+"BRIGHTON-LE-SANDS"	"10 Cashman Rd"	3	"House"	Passed In	"https://www.domain.com.au/10-cashman-road-brighton-le-sands-nsw-2216-2013961534"	11.4
+"BRIGHTON-LE-SANDS"	"23 Reading Rd"	4	"House"	2100.0	"https://www.domain.com.au/23-reading-road-brighton-le-sands-nsw-2216-2013970265"	11.4
+"BRIGHTON-LE-SANDS"	"6/50 The Grand Pde"	2	"Unit"	730.0	"https://www.domain.com.au/6-50-the-grand-parade-brighton-le-sands-nsw-2216-2013980041"	11.4
+"BRONTE"	"10/36 Pacific St"	2	"Unit"	1605.0	"https://www.domain.com.au/10-36-pacific-street-bronte-nsw-2024-2013964255"	6.5
+"BURWOOD"	"8/18A-22 Wyatt Av"	3	"Townhouse"	1465.0	"https://www.domain.com.au/8-18a-22-wyatt-avenue-burwood-nsw-2134-2013976530"	9.6
+"CABRAMATTA"	"1/3 Bridge St"	1	"Unit"	270.0	"https://www.domain.com.au/1-3-bridge-street-cabramatta-nsw-2166-2013963873"	25.2
+"CABRAMATTA"	"45/118 Longfield St"	2	"Unit"	Passed In	"https://www.domain.com.au/45-118-longfield-street-cabramatta-nsw-2166-2013966365"	25.2
+"CAMDEN"	"40 Menangle Rd"	4	"House"	Price withheld	"https://www.domain.com.au/40-menangle-road-camden-nsw-2570-2013964705"	unknown
+"CAMPERDOWN"	"11 Kingston Rd"	3	"House"	Passed In	"https://www.domain.com.au/11-kingston-road-camperdown-nsw-2050-2013968591"	3.6
+"CAMPSIE"	"34 Fourth Av"	3	"House"	1140.0	"https://www.domain.com.au/34-fourth-avenue-campsie-nsw-2194-2013955924"	10.7
+"CAMPSIE"	"38 Marlowe St"	3	"House"	Passed In	"https://www.domain.com.au/38-marlowe-st-campsie-nsw-2194-2013963529"	10.7
+"CAMPSIE"	"4 Viking St"	5	"House"	Withdrawn	"https://www.domain.com.au/4-viking-st-campsie-nsw-2194-2013160352"	10.7
+"CANLEY VALE"	"90 The Avenue "	3	"House"	980.0	"https://www.domain.com.au/90-the-avenue-canley-vale-nsw-2166-2013975739"	24.5
+"CANTERBURY"	"83 Northcote St"	6	"House"	Withdrawn	"https://www.domain.com.au/83-northcote-street-canterbury-nsw-2193-2013959737"	9.3
+"CANTERBURY"	"6 Wearne St"	5	"House"	2175.0	"https://www.domain.com.au/6-wearne-street-canterbury-nsw-2193-2013964296"	9.3
+"CARINGBAH"	"8/12 Wallumatta Rd"	3	"Townhouse"	Passed In	"https://www.domain.com.au/8-12-wallumatta-road-caringbah-nsw-2229-2013958070"	21
+"CARINGBAH SOUTH"	"2 Cecil St"	4	"House"	2120.0	"https://www.domain.com.au/2-cecil-street-caringbah-south-nsw-2229-2013976562"	28
+"CARINGBAH SOUTH"	"18 David Av"	5	"House"	1762.5	"https://www.domain.com.au/18-david-avenue-caringbah-south-nsw-2229-2013972957"	28
+"CARINGBAH SOUTH"	"48 Grandview Pde"	3	"House"	5620.0	"https://www.domain.com.au/48-grandview-parade-caringbah-south-nsw-2229-2013966270"	28
+"CARINGBAH SOUTH"	"25 La Boheme Av"	4	"House"	Price withheld	"https://www.domain.com.au/25-la-boheme-avenue-caringbah-south-nsw-2229-2013971312"	28
+"CARINGBAH SOUTH"	"65 Taren Rd"	4	"House"	1711.0	"https://www.domain.com.au/65-taren-road-caringbah-south-nsw-2229-2013964674"	28
+"CARLINGFORD"	"16 Bradley Dr"	4	"House"	1630.0	"https://www.domain.com.au/16-bradley-drive-carlingford-nsw-2118-2013971317"	17.4
+"CARLINGFORD"	"7 Carolyn Av"	4	"House"	1370.0	"https://www.domain.com.au/7-carolyn-avenue-carlingford-nsw-2118-2013973250"	17.4
+"CARLINGFORD"	"20 Illarangi St"	9	"House"	Passed In	"https://www.domain.com.au/20-illarangi-street-carlingford-nsw-2118-2013910616"	17.4
+"CARLINGFORD"	"18 Kimberley Rd"	3	"House"	1401.0	"https://www.domain.com.au/18-kimberley-road-carlingford-nsw-2118-2013937986"	17.4
+"CARLINGFORD"	"20 Tamboy Av"	4	"House"	1570.0	"https://www.domain.com.au/20-tamboy-avenue-carlingford-nsw-2118-2013973252"	17.4
+"CARLINGFORD"	"43 Yarralumla Dr"	5	"House"	Passed In	"https://www.domain.com.au/43-yarralumla-drive-carlingford-nsw-2118-2013963729"	17.4
+"CASTLE HILL"	"12/67-71 Brisbane Rd"	3	"Townhouse"	940.0	"https://www.domain.com.au/12-67-brisbane-road-castle-hill-nsw-2154-2013969004"	23.9
+"CASTLE HILL"	"8/52-54 Kerrs Rd"	3	"House"	934.0	"https://www.domain.com.au/8-52-kerrs-road-castle-hill-nsw-2154-2013963321"	23.9
+"CASTLE HILL"	"52 Telfer Rd"	4	"House"	Passed In	"https://www.domain.com.au/52-telfer-road-castle-hill-nsw-2154-2013967506"	23.9
+"CHATSWOOD"	"108 Greville St"	4	"House"	2720.0	"https://www.domain.com.au/108-greville-street-chatswood-nsw-2067-2013978901"	8.2
+"CHATSWOOD"	"C39/18 Jacques St"	3	"Unit"	1800.0	"https://www.domain.com.au/c39-18-jacques-street-chatswood-nsw-2067-2013915524"	8.2
+"CHELTENHAM"	"12 Chorley Av"	4	"House"	2800.0	"https://www.domain.com.au/12-chorley-avenue-cheltenham-nsw-2119-2013967411"	16.6
+"CHERRYBROOK"	"37 Appletree Dr"	5	"House"	1357.5	"https://www.domain.com.au/37-appletree-drive-cherrybrook-nsw-2126-2013966977"	22.1
+"CHESTER HILL"	"33 Arlewis St"	3	"House"	950.0	"https://www.domain.com.au/33-arlewis-street-chester-hill-nsw-2162-2013954840"	19.1
+"CHESTER HILL"	"13 Woodland Rd"	3	"House"	Withdrawn	"https://www.domain.com.au/13-woodland-road-chester-hill-nsw-2162-2013966576"	19.1
+"CHIPPENDALE"	"18-20 O'Connor St"	3	"House"	1650.0	"https://www.domain.com.au/18-o-connor-street-chippendale-nsw-2008-2013960528"	2.2
+"CHIPPING NORTON"	"164 Longstaff Av"	4	"House"	Passed In	"https://www.domain.com.au/164-longstaff-avenue-chipping-norton-nsw-2170-2013964321"	23.3
+"COLLAROY"	"39 Cumberland Av"	5	"House"	Withdrawn	"https://www.domain.com.au/39-cumberland-avenue-collaroy-nsw-2097-2013975451"	16.6
+"COLLAROY"	"76 Cumberland Av"	4	"House"	Withdrawn	"https://www.domain.com.au/76-cumberland-avenue-collaroy-nsw-2097-2013971309"	16.6
+"COLLAROY"	"30 Westmoreland Av"	3	"House"	Passed In	"https://www.domain.com.au/30-westmoreland-avenue-collaroy-nsw-2097-2013957100"	16.6
+"COLLAROY"	"78 Westmoreland Av"	4	"House"	1525.0	"https://www.domain.com.au/78-westmoreland-avenue-collaroy-nsw-2097-2013975641"	16.6
+"COLLAROY PLATEAU"	"1/64 Edgecliffe Bvd"	3	"Semi"	1904.0	"https://www.domain.com.au/64a-edgecliffe-boulevard-collaroy-plateau-nsw-2097-2013977880"	unknown
+"COMO"	"29 Warraba St"	3	"House"	1180.0	"https://www.domain.com.au/29-warraba-street-como-nsw-2226-2013969524"	19.9
+"COOGEE"	"2/7-9 Alexander St"	3	"Unit"	1500.0	"https://www.domain.com.au/2-7-9-alexander-street-coogee-nsw-2034-2013963631"	7.4
+"COOGEE"	"2/54A Bream St"	2	"Unit"	920.0	"https://www.domain.com.au/2-54a-bream-street-coogee-nsw-2034-2013955126"	7.4
+"COOGEE"	"1/27 Moira Cr"	2	"Unit"	Price withheld	"https://www.domain.com.au/1-27-moira-crescent-coogee-nsw-2034-2013967641"	7.4
+"CRANEBROOK"	"15 Procyon Pl"	3	"House"	705.0	"https://www.domain.com.au/15-procyon-place-cranebrook-nsw-2749-2013970494"	49
+"CROMER"	"202B Fisher Rd N"	4	"House"	1655.0	"https://www.domain.com.au/202b-fisher-road-north-cromer-nsw-2099-2013975455"	15.6
+"CRONULLA"	"4/11 Allison Rd"	1	"Unit"	506.0	"https://www.domain.com.au/4-11-allison-road-cronulla-nsw-2230-2013958758"	21.1
+"CRONULLA"	"21/18-20 Arthur Av"	2	"Unit"	Withdrawn	"https://www.domain.com.au/21-18-arthur-avenue-cronulla-nsw-2230-2013963324"	21.1
+"CRONULLA"	"71 Nicholson Pde"	4	"House"	Price withheld	"https://www.domain.com.au/71-nicholson-parade-cronulla-nsw-2230-2013968863"	21.1
+"CRONULLA"	"3/43-45 Wyanbah Rd"	2	"Unit"	920.0	"https://www.domain.com.au/3-43-45-wyanbah-road-cronulla-nsw-2230-2013952120"	21.1
+"CROWS NEST"	"37/13 Ernest St"	1	"Unit"	701.0	"https://www.domain.com.au/37-13-ernest-street-crows-nest-nsw-2065-2013993642"	4.6
+"CROWS NEST"	"6/140 Ernest St"	3	"Unit"	Price withheld	"https://www.domain.com.au/6-140-ernest-street-crows-nest-nsw-2065-2013974946"	4.6
+"CROWS NEST"	"29/12 Hayberry St"	0	"Unit"	525.0	"https://www.domain.com.au/29-12-hayberry-street-crows-nest-nsw-2065-2013976231"	4.6
+"CROYDON"	"76 John St"	2	"Semi"	Passed In	"https://www.domain.com.au/76-john-street-croydon-nsw-2132-2013970352"	8.7
+"CROYDON PARK"	"6/6 Dunmore St"	2	"Unit"	685.0	"https://www.domain.com.au/6-6-dunmore-street-croydon-park-nsw-2133-2013963854"	9.6
+"CROYDON PARK"	"1 Kembla St"	2	"Semi"	1120.0	"https://www.domain.com.au/1-kembla-street-croydon-park-nsw-2133-2013954176"	9.6
+"CURL CURL"	"48 Curl Curl Pde"	4	"House"	2580.0	"https://www.domain.com.au/48-curl-curl-parade-curl-curl-nsw-2096-2013975627"	13.6
+"CURL CURL"	"36 Gardere Av"	4	"House"	3050.0	"https://www.domain.com.au/36-gardere-avenue-curl-curl-nsw-2096-2011962611"	13.6
+"DALEYS POINT"	"3 Empire Bay Dr St"	4	"House"	Passed In	"https://www.domain.com.au/3-empire-bay-dr-st-daleys-point-nsw-2257-2013385965"	42.3
+"DARLINGHURST"	"6/14 Clapton Pl"	1	"Unit"	Withdrawn	"https://www.domain.com.au/6-14-clapton-place-darlinghurst-nsw-2010-2013822675"	1.8
+"DARLINGHURST"	"244 Forbes St"	4	"House"	Passed In	"https://www.domain.com.au/244-forbes-street-darlinghurst-nsw-2010-2013960133"	1.8
+"DARLINGTON"	"7 Ivy St"	2	"House"	1380.0	"https://www.domain.com.au/7-ivy-street-darlington-nsw-2008-2013972617"	3.1
+"DARLINGTON"	"27/501 Wilson St"	2	"Unit"	970.0	"https://www.domain.com.au/27-501-wilson-street-darlington-nsw-2008-2013976386"	3.1
+"DAVIDSON"	"11 Halloran Av"	5	"House"	1630.0	"https://www.domain.com.au/11-halloran-avenue-davidson-nsw-2085-2013969314"	14.3
+"DAVIDSON"	"1 Maitland St"	4	"House"	1495.0	"https://www.domain.com.au/1-maitland-street-davidson-nsw-2085-2013968791"	14.3
+"DEE WHY"	"23/2 Monash Pde"	2	"Unit"	2050.0	"https://www.domain.com.au/23-2-monash-parade-dee-why-nsw-2099-2013945782"	14.6
+"DEE WHY"	"7/58-60 Oaks Av"	2	"Unit"	945.0	"https://www.domain.com.au/7-58-oaks-avenue-dee-why-nsw-2099-2013975454"	14.6
+"DEE WHY"	"3303/10 Sturdee Pde"	1	"Unit"	Withdrawn	"https://www.domain.com.au/3303-10-sturdee-parade-dee-why-nsw-2099-2013959313"	14.6
+"DENHAM COURT"	"3 Pembury Cl"	6	"House"	Passed In	"https://www.domain.com.au/3-pembury-close-denham-court-nsw-2565-2013961665"	36.1
+"DENISTONE EAST"	"2/2A Brabyn St"	3	"Villa"	1250.0	"https://www.domain.com.au/2-2a-brabyn-street-denistone-east-nsw-2112-2013972447"	12.8
+"DENISTONE EAST"	"28 Rickard St"	3	"House"	1366.5	"https://www.domain.com.au/28-rickard-street-denistone-east-nsw-2112-2013975487"	12.8
+"DOLLS POINT"	"3/169 Russell Av"	2	"Unit"	760.0	"https://www.domain.com.au/3-169-russell-avenue-dolls-point-nsw-2219-2013964497"	15.1
+"DRUMMOYNE"	"4/334 Victoria Pl"	2	"Unit"	1420.0	"https://www.domain.com.au/4-334-336-victoria-place-drummoyne-nsw-2047-2013966759"	5.2
+"DULWICH HILL"	"1 Hill St"	3	"House"	Passed In	"https://www.domain.com.au/1-hill-street-dulwich-hill-nsw-2203-2013964710"	7.2
+"DULWICH HILL"	"10 Nelson St"	2	"House"	1072.0	"https://www.domain.com.au/10-nelson-street-dulwich-hill-nsw-2203-2013967956"	7.2
+"DULWICH HILL"	"17 Ness Av"	3	"House"	1525.0	"https://www.domain.com.au/17-ness-avenue-dulwich-hill-nsw-2203-2013974832"	7.2
+"DULWICH HILL"	"13/149 Wardell Rd"	1	"Unit"	535.0	"https://www.domain.com.au/13-149-wardell-road-dulwich-hill-nsw-2203-2013974563"	7.2
+"DULWICH HILL"	"50 Windsor Rd"	2	"House"	1275.0	"https://www.domain.com.au/50-windsor-road-dulwich-hill-nsw-2203-2013969603"	7.2
+"EARLWOOD"	"21 Finlays Av"	3	"House"	1375.0	"https://www.domain.com.au/21-finlays-avenue-earlwood-nsw-2206-2013975558"	9.9
+"EAST HILLS"	"66 Lucas Rd"	3	"House"	925.0	"https://www.domain.com.au/66-lucas-road-east-hills-nsw-2213-2013972054"	23
+"EAST RYDE"	"5 Rodney St"	4	"House"	Passed In	"https://www.domain.com.au/5-rodney-street-east-ryde-nsw-2113-2013944566"	8.6
+"EASTWOOD"	"1/1A Ball Av"	2	"Unit"	670.0	"https://www.domain.com.au/1-1a-ball-avenue-eastwood-nsw-2122-2013975174"	14.5
+"EASTWOOD"	"1/112 Vimiera Rd"	3	"Townhouse"	Passed In	"https://www.domain.com.au/1-112-vimiera-road-eastwood-nsw-2122-2013931078"	14.5
+"EASTWOOD"	"25 Vimiera Rd"	3	"House"	1630.0	"https://www.domain.com.au/25-vimiera-road-eastwood-nsw-2122-2013979106"	14.5
+"EDENSOR PARK"	"83-85 Swan Rd"	5	"House"	Passed In	"https://www.domain.com.au/83-swan-road-edensor-park-nsw-2176-2013974236"	30.7
+"EDENSOR PARK"	"23 Weeroona Rd"	4	"House"	Price withheld	"https://www.domain.com.au/23-weeroona-road-edensor-park-nsw-2176-2013968609"	30.7
+"EDGECLIFF"	"1011/161 New South Head Rd"	2	"Unit"	1235.0	"https://www.domain.com.au/1011-161-new-south-head-road-edgecliff-nsw-2027-2013976717"	2.9
+"ELANORA HEIGHTS"	"11 Coolangatta Av"	2	"House"	1410.0	"https://www.domain.com.au/11-coolangatta-avenue-elanora-heights-nsw-2101-2013978227"	20.3
+"ELIZABETH BAY"	"14/104 Elizabeth Bay Rd"	3	"Unit"	2900.0	"https://www.domain.com.au/14-104-elizabeth-bay-road-elizabeth-bay-nsw-2011-2013949884"	1.9
+"ELIZABETH BAY"	"103/2 Elizabeth Bay Rd"	2	"Unit"	Withdrawn	"https://www.domain.com.au/103-2-elizabeth-bay-road-elizabeth-bay-nsw-2011-2013973234"	1.9
+"EMPIRE BAY"	"57 Rickard Rd"	4	"House"	Withdrawn	"https://www.domain.com.au/57-rickard-road-empire-bay-nsw-2257-2013965685"	43.9
+"EMPIRE BAY"	"28 Rosella Rd"	3	"House"	720.0	"https://www.domain.com.au/empire-bay-nsw-2257-2013891360"	43.9
+"EPPING"	"8/7 Maida Rd"	2	"Unit"	830.0	"https://www.domain.com.au/8-7-maida-road-epping-nsw-2121-2013957634"	15.6
+"EPPING"	"2 Rockleigh Wy"	4	"Duplex"	Passed In	"https://www.domain.com.au/2-rockleigh-way-epping-nsw-2121-2013977248"	15.6
+"EPPING"	"45A Surrey St"	4	"House"	1720.0	"https://www.domain.com.au/45a-surrey-street-epping-nsw-2121-2013977250"	15.6
+"ERSKINEVILLE"	"20 Union St"	2	"House"	1295.0	"https://www.domain.com.au/20-union-street-erskineville-nsw-2043-2013969893"	4.2
+"ETTALONG BEACH"	"66 Beach St"	2	"House"	672.0	"https://www.domain.com.au/66-beach-street-ettalong-beach-nsw-2257-2013945593"	41
+"FAIRFIELD"	"3 Richardson St"	3	"House"	950.0	"https://www.domain.com.au/3-richardson-street-fairfield-nsw-2165-2013994904"	23.2
+"FAIRFIELD"	"12/8-10 Ulverstone St"	2	"Unit"	485.0	"https://www.domain.com.au/12-8-10-ulverstone-st-fairfield-nsw-2165-2013970706"	23.2
+"FAIRFIELD HEIGHTS"	"212 Ware St"	3	"House"	Passed In	"https://www.domain.com.au/212-ware-street-fairfield-heights-nsw-2165-2013965640"	24.8
+"FAIRLIGHT"	"31 Griffiths St"	3	"House"	Withdrawn	"https://www.domain.com.au/31-griffiths-street-fairlight-nsw-2094-2013955940"	9.8
+"FAIRLIGHT"	"12/28 Lauderdale Av"	2	"Unit"	Passed In	"https://www.domain.com.au/12-28-30-lauderdale-avenue-fairlight-nsw-2094-2013969145"	9.8
+"FIVE DOCK"	"48 Garfield St"	3	"House"	1785.0	"https://www.domain.com.au/48-garfield-street-five-dock-nsw-2046-2013959065"	7.1
+"FIVE DOCK"	"1/14-16 Rodd Rd"	3	"Townhouse"	1630.0	"https://www.domain.com.au/1-14-16-rodd-road-five-dock-nsw-2046-2013950055"	7.1
+"FOREST LODGE"	"126 Wigram Rd"	3	"House"	2250.0	"https://www.domain.com.au/126-wigram-road-forest-lodge-nsw-2037-2013974713"	2.9
+"FORESTVILLE"	"44 Cook St"	4	"House"	1785.0	"https://www.domain.com.au/44-cook-street-forestville-nsw-2087-2013966337"	11.7
+"FRENCHS FOREST"	"148 Blackbutts Rd"	3	"House"	Withdrawn	"https://www.domain.com.au/148-blackbutts-road-frenchs-forest-nsw-2086-2013960252"	13
+"GEORGES HALL"	"16 Lincoln Rd"	4	"House"	Passed In	"https://www.domain.com.au/16-lincoln-road-georges-hall-nsw-2198-2013963487"	20.6
+"GEORGES HALL"	"12 Pennington Av"	3	"House"	885.0	"https://www.domain.com.au/12-pennington-avenue-georges-hall-nsw-2198-2013965675"	20.6
+"GIRRAWEEN"	"101 Girraween Rd"	3	"Townhouse"	842.0	"https://www.domain.com.au/101-girraween-road-girraween-nsw-2145-2013964213"	25.1
+"GLADESVILLE"	"6 Diggers Av"	5	"House"	2227.0	"https://www.domain.com.au/6-diggers-avenue-gladesville-nsw-2111-2013974991"	8.1
+"GLADESVILLE"	"165 Ryde Rd"	3	"House"	1685.0	"https://www.domain.com.au/165-ryde-road-gladesville-nsw-2111-2013965499"	8.1
+"GLADESVILLE"	"20 Thompson St"	6	"House"	2600.0	"https://www.domain.com.au/20-thompson-street-gladesville-nsw-2111-2013953661"	8.1
+"GLEBE"	"5/9 Cook St"	2	"Unit"	1125.0	"https://www.domain.com.au/5-9-cook-street-glebe-nsw-2037-2013956429"	2.3
+"GLENHAVEN"	"114 Glenhaven Rd"	5	"House"	Withdrawn	"https://www.domain.com.au/114-glenhaven-road-glenhaven-nsw-2156-2013961393"	26
+"GLENMORE PARK"	"7 Gemalong Pl"	4	"House"	1000.0	"https://www.domain.com.au/7--gemalong-place-glenmore-park-nsw-2745-2013970485"	unknown
+"GRANVILLE"	"11 Albert St"	5	"House"	1020.0	"https://www.domain.com.au/11-albert-street-granville-nsw-2142-2013965307"	18.5
+"GRANVILLE"	"64 Brunswick St"	3	"House"	Passed In	"https://www.domain.com.au/64-brunswick-street-granville-nsw-2142-2013965653"	18.5
+"GRANVILLE"	"30 Grimwood St"	3	"House"	767.0	"https://www.domain.com.au/30-grimwood-street-granville-nsw-2142-2013964855"	18.5
+"GREEN VALLEY"	"10 Rodeo Dr"	6	"House"	1451.0	"https://www.domain.com.au/10-rodeo-drive-green-valley-nsw-2168-2013953747"	31.7
+"GREENACRE"	"110 Greenacre Rd"	3	"House"	1100.0	"https://www.domain.com.au/110-greenacre-road-greenacre-nsw-2190-2013960631"	14.5
+"GREENACRE"	"24 Margaret St"	5	"House"	1169.0	"https://www.domain.com.au/24-margaret-street-greenacre-nsw-2190-2013965819"	14.5
+"GREENACRE"	"12 Rawson Rd"	4	"Duplex"	Passed In	"https://www.domain.com.au/12-rawson-road-greenacre-nsw-2190-2013837647"	14.5
+"GREENACRE"	"28 Rawson Rd"	5	"House"	Passed In	"https://www.domain.com.au/28-rawson-road-greenacre-nsw-2190-2013972879"	14.5
+"GREENACRE"	"8/99 Rawson Rd"	3	"Townhouse"	Passed In	"https://www.domain.com.au/8-99-rawson-road-greenacre-nsw-2190-2013961654"	14.5
+"GREENWICH"	"39 Carlotta St"	3	"House"	3005.0	"https://www.domain.com.au/39-carlotta-street-greenwich-nsw-2065-2013967654"	4.4
+"GREENWICH"	"151 Greenwich Rd"	5	"House"	Price withheld	"https://www.domain.com.au/151-greenwich-road-greenwich-nsw-2065-2013956423"	4.4
+"GREGORY HILLS"	"1 Village Cct"	5	"House"	1000.0	"https://www.domain.com.au/1-village-circuit-gregory-hills-nsw-2557-2013876604"	59
+"GREYSTANES"	"14 Hillary St"	4	"House"	Passed In	"https://www.domain.com.au/14-hillary-street-greystanes-nsw-2145-2013967386"	24
+"GUILDFORD"	"31 Campbell Hill Rd"	4	"House"	825.0	"https://www.domain.com.au/31-campbell-hill-rd-guildford-nsw-2161-2013977444"	20.5
+"GYMEA"	"434 Princes Hwy"	4	"House"	1050.0	"https://www.domain.com.au/434-princes-highway-gymea-nsw-2227-2013979389"	21.6
+"GYMEA BAY"	"20 Arcadia Av"	4	"House"	Price withheld	"https://www.domain.com.au/20-arcadia-avenue-gymea-bay-nsw-2227-2013965667"	23
+"GYMEA BAY"	"77 Ellesmere Rd"	2	"House"	1308.0	"https://www.domain.com.au/77-ellesmere-road-gymea-bay-nsw-2227-2013966405"	23
+"HILLSDALE"	"12/276 Bunnerong Rd"	2	"Unit"	730.0	"https://www.domain.com.au/12-276-bunnerong-road-hillsdale-nsw-2036-2013968282"	9.8
+"HINCHINBROOK"	"10 Newry Pl"	4	"House"	Passed In	"https://www.domain.com.au/10-newry-close-hinchinbrook-nsw-2168-2013984178"	32.2
+"HOLSWORTHY"	"137 Bardia Pde"	4	"House"	850.0	"https://www.domain.com.au/137-bardia-parade-holsworthy-nsw-2173-2013796689"	25.5
+"HORNSBY"	"7 Carrington Rd"	3	"House"	Price withheld	"https://www.domain.com.au/7-carrington-road-hornsby-nsw-2077-2013973356"	20.6
+"HORNSBY"	"25 Clarinda St"	3	"House"	Passed In	"https://www.domain.com.au/25-clarinda-street-hornsby-nsw-2077-2013993570"	20.6
+"HORNSBY"	"1/66-68 Florence St"	2	"Unit"	650.0	"https://www.domain.com.au/1-66-florence-street-hornsby-nsw-2077-2013976835"	20.6
+"HORNSBY"	"4 Homewood Av"	3	"House"	Passed In	"https://www.domain.com.au/4-homewood-avenue-hornsby-nsw-2077-2013940826"	20.6
+"HORNSBY"	"1 Ida St"	5	"House"	1380.0	"https://www.domain.com.au/1-ida-street-hornsby-nsw-2077-2013975606"	20.6
+"HORNSBY"	"57A Manor Rd"	5	"House"	Withdrawn	"https://www.domain.com.au/57a-manor-road-hornsby-nsw-2077-2013973161"	20.6
+"HORNSBY"	"2/26 Old Berowra Rd"	4	"House"	Price withheld	"https://www.domain.com.au/2-26-old-berowra-road-hornsby-nsw-2077-2013977478"	20.6
+"HORNSBY"	"9 Pulbrook Pde"	4	"House"	Price withheld	"https://www.domain.com.au/9-pulbrook-parade-hornsby-nsw-2077-2013974745"	20.6
+"HORNSBY"	"10 Rosemead Rd"	4	"House"	1666.0	"https://www.domain.com.au/10-rosemead-road-hornsby-nsw-2077-2013975747"	20.6
+"HUNTLEYS COVE"	"108/12-18 Karrabee Av"	3	"Unit"	Passed In	"https://www.domain.com.au/108-12-karrabee-avenue-huntleys-cove-nsw-2111-2013956793"	6.5
+"HURLSTONE PARK"	"2/27-31 Crinan St"	2	"Unit"	Passed In	"https://www.domain.com.au/2-27-31-crinan-street-hurlstone-park-nsw-2193-2013966262"	8.4
+"HURLSTONE PARK"	"88 Garnet St"	2	"House"	1450.0	"https://www.domain.com.au/88-garnet-street-hurlstone-park-nsw-2193-2013965511"	8.4
+"HURLSTONE PARK"	"8/16 Melford St"	1	"Unit"	Passed In	"https://www.domain.com.au/8-16-melford-street-hurlstone-park-nsw-2193-2013979693"	8.4
+"HURSTVILLE"	"15/438 Forest Rd"	2	"Unit"	Passed In	"https://www.domain.com.au/15-438-forest-road-hurstville-nsw-2220-2013954531"	14.7
+"HURSTVILLE"	"54/41 Wright St"	2	"Unit"	783.0	"https://www.domain.com.au/54-41-wright-street-hurstville-nsw-2220-2013963341"	14.7
+"JANNALI"	"5 Mary St"	3	"House"	Passed In	"https://www.domain.com.au/5-mary-street-jannali-nsw-2226-2013974248"	21.2
+"KAREELA"	"59 Freya St"	4	"House"	1250.0	"https://www.domain.com.au/59-freya-street-kareela-nsw-2232-2013974934"	20
+"KELLYVILLE"	"19 Blackham Rd"	5	"House"	Withdrawn	"https://www.domain.com.au/19-blackham-road-kellyville-nsw-2155-2013975256"	28.7
+"KELLYVILLE"	"22 Emily Clarke Dr"	5	"House"	Price withheld	"https://www.domain.com.au/22-emily-clarke-drive-kellyville-nsw-2155-2013947773"	28.7
+"KELLYVILLE"	"33 Tom Scanlon Cl"	5	"House"	Passed In	"https://www.domain.com.au/33-tom-scanlon-close-kellyville-nsw-2155-2013906787"	28.7
+"KELLYVILLE RIDGE"	"10 Cavenah Wy"	4	"House"	935.0	"https://www.domain.com.au/10-cavenah-way-kellyville-ridge-nsw-2155-2013970790"	31.7
+"KELLYVILLE RIDGE"	"4 Wollemi Cl"	4	"House"	Passed In	"https://www.domain.com.au/4-wollemi-close-kellyville-ridge-nsw-2155-2013977021"	31.7
+"KENSINGTON"	"216/3 Ascot St"	1	"Unit"	835.0	"https://www.domain.com.au/216-3-ascot-street-kensington-nsw-2033-2013969322"	4.9
+"KENSINGTON"	"4/11 Todman Av"	2	"Unit"	Price withheld	"https://www.domain.com.au/4-11-todman-avenue-kensington-nsw-2033-2013968401"	4.9
+"KENTHURST"	"20 Orana Rd"	5	"House"	Price withheld	"https://www.domain.com.au/20-orana-road-kenthurst-nsw-2156-2013976247"	29.6
+"KILLARA"	"28 Wattle St"	5	"House"	Passed In	"https://www.domain.com.au/28-wattle-street-killara-nsw-2071-2013959672"	12
+"KINGSGROVE"	"50 Caroline St"	4	"House"	2210.0	"https://www.domain.com.au/50-caroline-street-kingsgrove-nsw-2208-2013947248"	12.8
+"KINGSGROVE"	"27 Dunkirk Av"	4	"House"	1700.0	"https://www.domain.com.au/27-dunkirk-avenue-kingsgrove-nsw-2208-2013965418"	12.8
+"KOGARAH"	"49 Barton St"	4	"House"	Passed In	"https://www.domain.com.au/49-barton-street-kogarah-nsw-2217-2013963965"	12.7
+"KOGARAH"	"30 Scott St"	3	"House"	1305.0	"https://www.domain.com.au/30-scott-street-kogarah-nsw-2217-2013963964"	12.7
+"KURNELL"	"180 Prince Charles Pde"	4	"House"	1963.0	"https://www.domain.com.au/180-prince-charles-parade-kurnell-nsw-2231-2013974864"	17.7
+"LAKE HAVEN"	"2/1 Japonica Cl"	3	"House"	457.0	"https://www.domain.com.au/2-1-japonica-close-lake-haven-nsw-2263-2013968165"	unknown
+"LANE COVE"	"605/1 Pottery La"	2	"Unit"	Withdrawn	"https://www.domain.com.au/605-1-pottery-lane-lane-cove-nsw-2066-2013989283"	6.8
+"LANE COVE NORTH"	"A701/7-13 Centennial Av"	3	"Unit"	1276.0	"https://www.domain.com.au/a701-7-13-centennial-avenue-lane-cove-nsw-2066-2013971678"	7.4
+"LANE COVE NORTH"	"44 Elizabeth Pde"	4	"House"	Withdrawn	"https://www.domain.com.au/44-elizabeth-parade-lane-cove-nsw-2066-2013973917"	7.4
+"LANE COVE NORTH"	"48/15-21 Mindarie St"	1	"Unit"	Price withheld	"https://www.domain.com.au/48-15-21-mindarie-street-lane-cove-nsw-2066-2013972932"	7.4
+"LANE COVE NORTH"	"G06/544-550 Mowbray Rd W"	2	"Unit"	1010.0	"https://www.domain.com.au/g06-544-550-mowbray-road-lane-cove-nsw-2066-2013995791"	7.4
+"LANE COVE NORTH"	"8 Pinaroo Pl"	4	"House"	1480.0	"https://www.domain.com.au/8-pinaroo-place-lane-cove-nsw-2066-2013972935"	7.4
+"LANE COVE WEST"	"15/299 Burns Bay Rd"	3	"Unit"	850.0	"https://www.domain.com.au/15-299-burns-bay-road-lane-cove-nsw-2066-2013977768"	8.4
+"LANE COVE WEST"	"17 Lihon St"	5	"House"	Price withheld	"https://www.domain.com.au/17-lihon-street-lane-cove-nsw-2066-2013953939"	8.4
+"LEICHHARDT"	"100/69 Allen St"	2	"House"	1300.0	"https://www.domain.com.au/100-69-allen-street-leichhardt-nsw-2040-2013972396"	5
+"LEICHHARDT"	"89/23 Norton St"	3	"Unit"	1056.0	"https://www.domain.com.au/89-23-norton-street-leichhardt-nsw-2040-2013967970"	5
+"LEWISHAM"	"66 Denison Rd"	3	"Semi"	1440.0	"https://www.domain.com.au/66-denison-road-lewisham-nsw-2049-2013953198"	6.6
+"LIDCOMBE"	"29 Swete St"	4	"House"	2155.0	"https://www.domain.com.au/29-swete-street-lidcombe-nsw-2141-2013965657"	15.1
+"LILYFIELD"	"280 Balmain Rd"	3	"House"	1500.0	"https://www.domain.com.au/280-balmain-road-lilyfield-nsw-2040-2013970655"	3.9
+"LILYFIELD"	"365 Balmain Rd"	3	"House"	Withdrawn	"https://www.domain.com.au/365-balmain-road-lilyfield-nsw-2040-2013979165"	3.9
+"LILYFIELD"	"11 Garnet Av"	3	"House"	1830.0	"https://www.domain.com.au/11-garnet-avenue-lilyfield-nsw-2040-2013967631"	3.9
+"LINDFIELD"	"15/231 Pacific Hwy"	2	"Unit"	Passed In	"https://www.domain.com.au/15-231-pacific-highway-lindfield-nsw-2070-2013941392"	10.7
+"LITTLE BAY"	"9/2 Gull St"	2	"Unit"	Passed In	"https://www.domain.com.au/9-2-gull-street-little-bay-nsw-2036-2013964301"	13.1
+"LUGARNO"	"5 Tallowwood Av"	5	"House"	Passed In	"https://www.domain.com.au/5-tallowwood-avenue-lugarno-nsw-2210-2013958361"	19.6
+"MACQUARIE PARK"	"5/29 Fontenoy Rd"	2	"Unit"	Price withheld	"https://www.domain.com.au/5-29-fontenoy-road-macquarie-park-nsw-2113-2013973907"	11.8
+"MANLY"	"4/136 Addison Rd"	2	"Unit"	Price withheld	"https://www.domain.com.au/4-136-addison-road-manly-nsw-2095-2013956426"	10.8
+"MANLY"	"1/35 Stuart St"	3	"Unit"	1920.0	"https://www.domain.com.au/1-35-stuart-street-manly-nsw-2095-2013939334"	10.8
+"MANLY"	"7/97-107 Sydney Rd"	2	"Unit"	Withdrawn	"https://www.domain.com.au/7-97-107-sydney-road-manly-nsw-2095-2013978564"	10.8
+"MANLY"	"9/13 Wood St"	2	"Unit"	1370.0	"https://www.domain.com.au/9-13-wood-street-manly-nsw-2095-2013978027"	10.8
+"MANLY VALE"	"20 Arana St"	5	"House"	2225.0	"https://www.domain.com.au/20-arana-street-manly-vale-nsw-2093-2013980983"	10.8
+"MANLY VALE"	"133/8 Koorala St"	2	"Unit"	965.0	"https://www.domain.com.au/133-8-koorala-street-manly-vale-nsw-2093-2013979242"	10.8
+"MANLY VALE"	"31 Parkes St"	2	"House"	1757.0	"https://www.domain.com.au/31-parkes-street-manly-vale-nsw-2093-2013977746"	10.8
+"MAROUBRA"	"1/127 Duncan St"	3	"Townhouse"	Price withheld	"https://www.domain.com.au/1-127-duncan-street-maroubra-nsw-2035-2013960028"	9.4
+"MAROUBRA"	"3/2 Maxwell Av"	2	"Unit"	1120.0	"https://www.domain.com.au/3-2-maxwell-avenue-maroubra-nsw-2035-2013965314"	9.4
+"MAROUBRA"	"4/93 Yorktown Pde"	3	"House"	1135.0	"https://www.domain.com.au/4-93-yorktown-parade-maroubra-nsw-2035-2013969960"	9.4
+"MARRICKVILLE"	"11 Alfred St"	5	"House"	2525.0	"https://www.domain.com.au/11-alfred-street-marrickville-nsw-2204-2013962220"	6.7
+"MARRICKVILLE"	"34 Francis St"	4	"House"	Passed In	"https://www.domain.com.au/34-francis-street-marrickville-nsw-2204-2013961779"	6.7
+"MARRICKVILLE"	"10/38 George St"	2	"Unit"	Price withheld	"https://www.domain.com.au/10-38-george-street-marrickville-nsw-2204-2013974260"	6.7
+"MARRICKVILLE"	"5/3 Roach St"	2	"Unit"	1080.0	"https://www.domain.com.au/5-3-roach-street-marrickville-nsw-2204-2013972787"	6.7
+"MARSFIELD"	"4/106 Crimea Rd"	2	"Unit"	700.0	"https://www.domain.com.au/4-106-crimea-road-marsfield-nsw-2122-2013958134"	13.9
+"MASCOT"	"B301/19-21 Church Av"	1	"Unit"	Withdrawn	"https://www.domain.com.au/b301-19-21-church-avenue-mascot-nsw-2020-2013975746"	7.2
+"MASCOT"	"24 Dransfield Av"	3	"House"	Passed In	"https://www.domain.com.au/24-dransfield-avenue-mascot-nsw-2020-2013964637"	7.2
+"MASCOT"	"303/581 Gardeners Rd"	2	"Unit"	Withdrawn	"https://www.domain.com.au/303-581-587-gardeners-road-mascot-nsw-2020-2013975695"	7.2
+"MASCOT"	"402/581 Gardeners Rd"	1	"Unit"	Withdrawn	"https://www.domain.com.au/402-581-587-gardeners-road-mascot-nsw-2020-2013975727"	7.2
+"MASCOT"	"27/22 Tunbridge St"	2	"Unit"	691.0	"https://www.domain.com.au/27-22-tunbridge-street-mascot-nsw-2020-2013968648"	7.2
+"MENAI"	"11/82-90 Allison Cr"	3	"Unit"	Passed In	"https://www.domain.com.au/11-82-allison-crescent-menai-nsw-2234-2013973238"	24
+"MENAI"	"32 Rosewall Dr"	3	"House"	852.5	"https://www.domain.com.au/32-rosewall-drive-menai-nsw-2234-2013977458"	24
+"MERRYLANDS"	"51 Chester St"	4	"House"	951.0	"https://www.domain.com.au/51-chester-street-merrylands-nsw-2160-2013968089"	21.3
+"MILLER"	"50 Cabramatta Av"	4	"House"	660.0	"https://www.domain.com.au/50-cabramatta-avenue-miller-nsw-2168-2013991303"	30.3
+"MILPERRA"	"15 MacTier Av"	3	"House"	Passed In	"https://www.domain.com.au/15-mactier-avenue-milperra-nsw-2214-2013966343"	21.6
+"MINCHINBURY"	"26 McFarlane Dr"	3	"House"	Passed In	"https://www.domain.com.au/26-mcfarlane-drive-minchinbury-nsw-2770-2013953392"	37.6
+"MIRANDA"	"6/118-128 Karimbla Rd"	2	"Unit"	725.0	"https://www.domain.com.au/6-118-karimbla-road-miranda-nsw-2228-2013965666"	21
+"MONA VALE"	"2/28 Darley St"	2	"Unit"	Passed In	"https://www.domain.com.au/2-28-darley-street-mona-vale-nsw-2103-2013979790"	22.8
+"MONA VALE"	"4 Marie Cr"	4	"House"	Price withheld	"https://www.domain.com.au/4-marie-crescent-mona-vale-nsw-2103-2013954806"	22.8
+"MOOREBANK"	"16a Corben Av"	4	"House"	991.0	"https://www.domain.com.au/16a-corben-avenue-moorebank-nsw-2170-2013952247"	24.5
+"MORTDALE"	"6/28A George St"	2	"Unit"	580.0	"https://www.domain.com.au/6-28a-george-street-mortdale-nsw-2223-2013968676"	16.9
+"MORTDALE"	"45 Villiers Av"	3	"House"	1225.0	"https://www.domain.com.au/45-villiers-avenue-mortdale-nsw-2223-2013970094"	16.9
+"MOSMAN"	"29 Cabramatta Rd"	5	"House"	Price withheld	"https://www.domain.com.au/29-cabramatta-road-mosman-nsw-2088-2013975148"	5.4
+"MOSMAN"	"2/830 Military Rd"	2	"Unit"	1960.0	"https://www.domain.com.au/2-830-military-road-mosman-nsw-2088-2013960140"	5.4
+"MOSMAN"	"59 Moruben Rd"	5	"House"	Price withheld	"https://www.domain.com.au/59-moruben-road-mosman-nsw-2088-2013970543"	5.4
+"MOSMAN"	"17/98 Ourimbah Rd"	2	"Unit"	Price withheld	"https://www.domain.com.au/17-98-ourimbah-road-mosman-nsw-2088-2013977490"	5.4
+"MOSMAN"	"5/156-162 Spit Rd"	2	"Unit"	905.0	"https://www.domain.com.au/5-156-spit-road-mosman-nsw-2088-2013973276"	5.4
+"MOUNT COLAH"	"8 Livingstone Pl"	3	"House"	Withdrawn	"https://www.domain.com.au/8-livingstone-place-mount-colah-nsw-2079-2013958179"	23.4
+"MOUNT DRUITT"	"19 Raynor St"	4	"House"	Passed In	"https://www.domain.com.au/19-raynor-st-mount-druitt-nsw-2770-2013969645"	37.7
+"MOUNT KURING-GAI"	"9 Glenview Rd"	4	"House"	1275.0	"https://www.domain.com.au/9-glenview-road-mount-kuring-gai-nsw-2080-2013976609"	25.4
+"NARRABEEN"	"40 Lindley Av"	4	"House"	2335.0	"https://www.domain.com.au/40-lindley-avenue-narrabeen-nsw-2101-2013979366"	17.6
+"NARRAWEENA"	"120 Warringah Rd"	3	"House"	1400.0	"https://www.domain.com.au/120-warringah-road-narraweena-nsw-2099-2013921250"	14.5
+"NEUTRAL BAY"	"13/83 Bent St"	2	"Unit"	Passed In	"https://www.domain.com.au/13-83-bent-street-neutral-bay-nsw-2089-2013975476"	4.2
+"NEUTRAL BAY"	"3/98 Kurraba Rd"	3	"Townhouse"	Passed In	"https://www.domain.com.au/3-98-kurraba-road-neutral-bay-nsw-2089-2013979383"	4.2
+"NEUTRAL BAY"	"13/103-107 Wycombe Rd"	2	"Unit"	1135.0	"https://www.domain.com.au/13-103-107-wycombe-road-neutral-bay-nsw-2089-2013964188"	4.2
+"NEUTRAL BAY"	"8/136 Wycombe Rd"	1	"Unit"	780.0	"https://www.domain.com.au/8-136-wycombe-road-neutral-bay-nsw-2089-2013976317"	4.2
+"NEUTRAL BAY"	"206/29 Yeo St"	2	"Unit"	1055.0	"https://www.domain.com.au/206-29-yeo-street-neutral-bay-nsw-2089-2013978685"	4.2
+"NEWINGTON"	"11 Evans St"	3	"House"	1400.0	"https://www.domain.com.au/11-evans-street-newington-nsw-2127-2013951758"	14.4
+"NEWINGTON"	"11 Thorpe Pl"	4	"House"	1985.0	"https://www.domain.com.au/11-thorpe-place-newington-nsw-2127-2013959601"	14.4
+"NEWTOWN"	"15/20 Fitzgerald St"	1	"Unit"	765.0	"https://www.domain.com.au/15-20-fitzgerald-street-newtown-nsw-2042-2013965561"	4.1
+"NORAVILLE"	"38 Irene Pde"	3	"House"	Withdrawn	"https://www.domain.com.au/38-irene-parade-noraville-nsw-2263-2013973529"	unknown
+"NORTH BALGOWLAH"	"14 Urunga St"	3	"House"	1650.0	"https://www.domain.com.au/14-urunga-street-north-balgowlah-nsw-2093-2013958826"	9.8
+"NORTH BONDI"	"37A Midelton Av"	4	"House"	3000.0	"https://www.domain.com.au/37a-midelton-avenue-north-bondi-nsw-2026-2013942590"	7
+"NORTH EPPING"	"77 Devon St"	4	"House"	Passed In	"https://www.domain.com.au/77-devon-street-north-epping-nsw-2121-2013972344"	16.3
+"NORTH EPPING"	"12 Durham St"	3	"House"	Passed In	"https://www.domain.com.au/12-durham-street-north-epping-nsw-2121-2013969071"	16.3
+"NORTH GOSFORD"	"403 Mann St"	6	"House"	Passed In	"https://www.domain.com.au/403-mann-street-north-gosford-nsw-2250-2013985059"	unknown
+"NORTH NARRABEEN"	"20 Grenfell Av"	4	"House"	Price withheld	"https://www.domain.com.au/20-grenfell-avenue-north-narrabeen-nsw-2101-2013969338"	20
+"NORTH PARRAMATTA"	"9/12 Corry Ct"	3	"Townhouse"	875.0	"https://www.domain.com.au/9-12-corry-court-north-parramatta-nsw-2151-2013967553"	19.7
+"NORTH PARRAMATTA"	"3/20 Iron St"	2	"Townhouse"	710.0	"https://www.domain.com.au/3-20-iron-street-north-parramatta-nsw-2151-2013946416"	19.7
+"NORTH PARRAMATTA"	"27/44-48 Isabella St"	3	"Unit"	Price withheld	"https://www.domain.com.au/27-44-isabella-street-north-parramatta-nsw-2151-2013965477"	19.7
+"NORTH ROCKS"	"32 Meckiff Av"	3	"House"	950.0	"https://www.domain.com.au/32-meckiff-avenue-north-rocks-nsw-2151-2013963869"	19.8
+"NORTH RYDE"	"5/25 Magdala Rd"	2	"Villa"	Passed In	"https://www.domain.com.au/5-25-magdala-road-north-ryde-nsw-2113-2013970292"	10.9
+"NORTH SYDNEY"	"20/171 Walker St"	3	"Unit"	Passed In	"https://www.domain.com.au/20-171-walker-street-north-sydney-nsw-2060-2013978631"	11.8
+"NORTH SYDNEY"	"403/28 West St"	2	"Unit"	Withdrawn	"https://www.domain.com.au/403-28-west-street-north-sydney-nsw-2060-2013979382"	11.8
+"NORTH TURRAMURRA"	"242 Bobbin Head Rd"	5	"House"	Price withheld	"https://www.domain.com.au/242-bobbin-head-road-turramurra-nsw-2074-2013960135"	18
+"NORTH WAHROONGA"	"1 Uralba Pl"	4	"House"	1450.0	"https://www.domain.com.au/1-uralba-place-wahroonga-nsw-2076-2013940921"	19.9
+"NORTHBRIDGE"	"13 Strathallen Av"	4	"House"	Price withheld	"https://www.domain.com.au/13-strathallen-avenue-northbridge-nsw-2063-2013924525"	6.3
+"NORTHMEAD"	"45 Centenary Av"	5	"House"	1200.0	"https://www.domain.com.au/45-centenary-avenue-northmead-nsw-2152-2013967635"	21.7
+"NORTHMEAD"	"4/69 Hammers Rd"	3	"Villa"	835.0	"https://www.domain.com.au/4-69-hammers-road-northmead-nsw-2152-2013969059"	21.7
+"OATLANDS"	"9/49 Bettington Rd"	2	"Townhouse"	800.0	"https://www.domain.com.au/9-49-bettington-rd-oatlands-nsw-2117-2013968921"	18.5
+"OATLANDS"	"40 Greens Av"	4	"House"	1430.0	"https://www.domain.com.au/40-greens-avenue-oatlands-nsw-2117-2013961799"	18.5
+"OATLEY"	"5/33 Letitia St"	2	"Unit"	830.0	"https://www.domain.com.au/5-33-letitia-street-oatley-nsw-2223-2013960147"	17.2
+"OATLEY"	"36 Marine Dr"	4	"House"	Passed In	"https://www.domain.com.au/36-marine-drive-oatley-nsw-2223-2013972574"	17.2
+"OURIMBAH"	"16 Cambridge Cir"	3	"House"	380.0	"https://www.domain.com.au/16-cambridge-circle-ourimbah-nsw-2258-2013953211"	unknown
+"OYSTER BAY"	"86 Green Point Rd"	3	"House"	980.0	"https://www.domain.com.au/86-green-point-road-oyster-bay-nsw-2225-2013975194"	19.4
+"PADDINGTON"	"404/176 Glenmore Rd"	1	"Unit"	735.0	"https://www.domain.com.au/404-176-glenmore-road-paddington-nsw-2021-2013976841"	2.7
+"PADDINGTON"	"55 Stewart St"	3	"Terrace"	2755.0	"https://www.domain.com.au/55-stewart-street-paddington-nsw-2021-2013942300"	2.7
+"PADSTOW"	"4 School Pde"	5	"House"	1085.0	"https://www.domain.com.au/4-school-parade-padstow-nsw-2211-2013991663"	18.3
+"PALM BEACH"	"782 Barrenjoey Rd"	4	"House"	Withdrawn	"https://www.domain.com.au/782-barrenjoey-road-palm-beach-nsw-2108-2013978914"	31.1
+"PANANIA"	"41 Clifford St"	3	"House"	870.5	"https://www.domain.com.au/41-clifford-street-panania-nsw-2213-2013964739"	21.7
+"PARRAMATTA"	"4 Wandsworth St"	2	"House"	910.0	"https://www.domain.com.au/4-wandsworth-street-parramatta-nsw-2150-2013968133"	19.6
+"PEMULWUY"	"28 Dullai Av"	5	"House"	1305.0	"https://www.domain.com.au/28-dullai-avenue-pemulwuy-nsw-2145-2013988793"	27
+"PENSHURST"	"12/13 Cambridge St"	2	"Unit"	Withdrawn	"https://www.domain.com.au/12-11-13-cambridge-street-penshurst-nsw-2222-2013964779"	15.4
+"PETERSHAM"	"270 Stanmore Rd"	2	"House"	1100.0	"https://www.domain.com.au/270-stanmore-road-petersham-nsw-2049-2013972734"	5.9
+"PETERSHAM"	"68 Westbourne St"	2	"House"	1290.0	"https://www.domain.com.au/68-westbourne-street-petersham-nsw-2049-2013953473"	5.9
+"POTTS POINT"	"506/50 MacLeay St"	1	"Unit"	Price withheld	"https://www.domain.com.au/506-50-macleay-street-potts-point-nsw-2011-2013941920"	1.7
+"POTTS POINT"	"5F/6 MacLeay St"	1	"Unit"	1105.0	"https://www.domain.com.au/5f-6-macleay-street-potts-point-nsw-2011-2013969633"	1.7
+"POTTS POINT"	"2/101A Victoria St"	2	"Unit"	Passed In	"https://www.domain.com.au/2-101a-victoria-street-potts-point-nsw-2011-2013965464"	1.7
+"PRESTONS"	"25 Geraldton St"	4	"House"	862.5	"https://www.domain.com.au/25-geraldton-street-prestons-nsw-2170-2013969171"	32
+"PRESTONS"	"18 Turlinjah Cl"	4	"House"	840.0	"https://www.domain.com.au/18-turlinjah-close-prestons-nsw-2170-2013963817"	32
+"PROSPECT"	"9 Lyte Pl"	4	"House"	850.0	"https://www.domain.com.au/9-lyte-place-prospect-nsw-2148-2013952309"	27.8
+"PUNCHBOWL"	"9 Duncan St"	6	"House"	Price withheld	"https://www.domain.com.au/9-duncan-street-punchbowl-nsw-2196-2013964375"	15.5
+"PUNCHBOWL"	"982 Punchbowl Rd"	4	"House"	Price withheld	"https://www.domain.com.au/982-punchbowl-road-punchbowl-nsw-2196-2013982818"	15.5
+"PUTNEY"	"147A Charles St"	5	"House"	4008.0	"https://www.domain.com.au/147a-charles-street-putney-nsw-2112-2013959263"	9.9
+"PUTNEY"	"27 Osborne Av"	5	"House"	3075.0	"https://www.domain.com.au/27-osborne-avenue-putney-nsw-2112-2013961370"	9.9
+"PYMBLE"	"29/4-8 Bobbin Head Rd"	2	"Unit"	1075.0	"https://www.domain.com.au/29-4-8-bobbin-head-road-pymble-nsw-2073-2013965505"	15
+"PYMBLE"	"80 Livingstone Av"	5	"House"	Price withheld	"https://www.domain.com.au/80-livingstone-avenue-pymble-nsw-2073-2013966778"	15
+"PYRMONT"	"702/135 Point St"	3	"Unit"	Withdrawn	"https://www.domain.com.au/702-135-point-street-pyrmont-nsw-2009-2013973988"	1.3
+"PYRMONT"	"11/26-38 Saunders St"	2	"Unit"	1450.0	"https://www.domain.com.au/11-30-saunders-street-pyrmont-nsw-2009-2013929541"	1.3
+"QUEENSCLIFF"	"6/100 Queenscliff Rd"	2	"Unit"	1300.0	"https://www.domain.com.au/6-100-queenscliff-road-queenscliff-nsw-2096-2013977611"	11.8
+"RAMSGATE BEACH"	"1/24-26 Alfred St"	3	"Villa"	1077.0	"https://www.domain.com.au/1-24-alfred-street-ramsgate-beach-nsw-2217-2013964250"	13.8
+"RAMSGATE BEACH"	"4 Alfred St"	3	"House"	Passed In	"https://www.domain.com.au/4-alfred-street-ramsgate-beach-nsw-2217-2013961128"	13.8
+"RAMSGATE BEACH"	"2/93 Alfred St"	2	"Unit"	755.0	"https://www.domain.com.au/2-93-alfred-street-ramsgate-beach-nsw-2217-2013965648"	13.8
+"RANDWICK"	"14/70 Cowper St"	2	"Unit"	1200.0	"https://www.domain.com.au/14-70-cowper-street-randwick-nsw-2031-2013971045"	6
+"RANDWICK"	"6/2A Frenchmans Rd"	3	"Townhouse"	1581.0	"https://www.domain.com.au/6-2a-frenchmans-road-randwick-nsw-2031-2013967653"	6
+"RANDWICK"	"4 Judge St"	4	"House"	2710.0	"https://www.domain.com.au/4-judge-street-randwick-nsw-2031-2013950718"	6
+"RANDWICK"	"13 Kemmis St"	3	"House"	1650.0	"https://www.domain.com.au/13-kemmis-street-randwick-nsw-2031-2013975461"	6
+"RANDWICK"	"12/25 Prince St"	2	"Unit"	Passed In	"https://www.domain.com.au/12-25-prince-street-randwick-nsw-2031-2013975452"	6
+"REDFERN"	"68 Hugo St"	3	"Terrace"	Price withheld	"https://www.domain.com.au/68-hugo-street-redfern-nsw-2016-2013977235"	2.9
+"REGENTS PARK"	"37 Lewis St"	4	"House"	910.0	"https://www.domain.com.au/37-lewis-street-regents-park-nsw-2143-2013978009"	17
+"REVESBY"	"30 Glenview Av"	3	"House"	1190.0	"https://www.domain.com.au/30-glenview-avenue-revesby-nsw-2212-2013962581"	19.9
+"REVESBY HEIGHTS"	"2c Alamein Rd"	5	"Duplex"	Price withheld	"https://www.domain.com.au/2c-alamein-road-revesby-heights-nsw-2212-2013954494"	21
+"RIVERWOOD"	"24A Coorabin Pl"	4	"House"	Passed In	"https://www.domain.com.au/24a-coorabin-place-riverwood-nsw-2210-2013961876"	17
+"ROCKDALE"	"71 Bay St"	3	"Semi"	Passed In	"https://www.domain.com.au/71-bay-street-rockdale-nsw-2216-2013954435"	11.5
+"ROSEBERY"	"46 Dougherty St"	4	"House"	1420.0	"https://www.domain.com.au/46-dougherty-street-rosebery-nsw-2018-2013971404"	5.9
+"ROSEVILLE"	"16 Carnarvon Rd"	4	"House"	Price withheld	"https://www.domain.com.au/16-carnarvon-road-roseville-nsw-2069-2013733505"	9.6
+"ROSEVILLE"	"29 Shirley Rd"	5	"House"	Price withheld	"https://www.domain.com.au/29-shirley-road-roseville-nsw-2069-2013973206"	9.6
+"ROSEVILLE"	"46 Shirley Rd"	3	"House"	Price withheld	"https://www.domain.com.au/46-shirley-road-roseville-nsw-2069-2013975177"	9.6
+"ROZELLE"	"8 Albert St"	2	"House"	Price withheld	"https://www.domain.com.au/8-albert-street-rozelle-nsw-2039-2013939069"	3.4
+"ROZELLE"	"11 Coulon St"	2	"House"	Price withheld	"https://www.domain.com.au/11-coulon-street-rozelle-nsw-2039-2013967715"	3.4
+"ROZELLE"	"9 Springside St"	4	"House"	Price withheld	"https://www.domain.com.au/9-springside-street-rozelle-nsw-2039-2013963636"	3.4
+"ROZELLE"	"14 Toelle St"	3	"House"	Withdrawn	"https://www.domain.com.au/14-toelle-street-rozelle-nsw-2039-2013952142"	3.4
+"RUSSELL LEA"	"9 Speed Av"	4	"House"	Price withheld	"https://www.domain.com.au/9-speed-avenue-russell-lea-nsw-2046-2013980262"	6.2
+"RYDALMERE"	"33 Calder Rd"	4	"House"	1470.0	"https://www.domain.com.au/33-calder-road-rydalmere-nsw-2116-2013965153"	16.4
+"RYDE"	"3 Arnold St"	5	"House"	1899.0	"https://www.domain.com.au/3-arnold-street-ryde-nsw-2112-2013959267"	11.2
+"RYDE"	"86 Bowden St"	3	"House"	1881.0	"https://www.domain.com.au/86-bowden-street-ryde-nsw-2112-2013974473"	11.2
+"RYDE"	"24 Potts St"	3	"House"	1615.0	"https://www.domain.com.au/24-potts-street-ryde-nsw-2112-2013958992"	11.2
+"RYDE"	"34 Watts Rd"	3	"House"	Price withheld	"https://www.domain.com.au/34-watts-road-ryde-nsw-2112-2013959122"	11.2
+"SANS SOUCI"	"12A Toyer Av"	4	"Semi"	2009.9999999999998	"https://www.domain.com.au/12a-toyer-avenue-sans-souci-nsw-2219-2013967138"	15.3
+"SEAFORTH"	"22 Alan Av"	3	"House"	3280.0	"https://www.domain.com.au/22-alan-avenue-seaforth-nsw-2092-2013933555"	8.8
+"SEAFORTH"	"14/33-37 Ethel St"	3	"Unit"	1960.0	"https://www.domain.com.au/14-33-37-ethel-street-seaforth-nsw-2092-2013973309"	8.8
+"SEAFORTH"	"5 Fromelles Av"	5	"House"	Withdrawn	"https://www.domain.com.au/5-fromelles-avenue-seaforth-nsw-2092-2013959948"	8.8
+"SEFTON"	"28 Kara St"	6	"House"	1220.0	"https://www.domain.com.au/28-kara-st-sefton-nsw-2162-2013967240"	18.2
+"SEVEN HILLS"	"10 Carter St"	2	"House"	867.5	"https://www.domain.com.au/10-carter-street-seven-hills-nsw-2147-2013969542"	27.2
+"SEVEN HILLS"	"31 Orana Av"	3	"House"	710.0	"https://www.domain.com.au/31-orana-avenue-seven-hills-nsw-2147-2013973315"	27.2
+"SMITHFIELD"	"4/30-32 Barton St"	3	"Townhouse"	598.0	"https://www.domain.com.au/4-30-32-barton-street-smithfield-nsw-2164-2013985723"	24.7
+"SMITHFIELD"	"46 Bourke St"	3	"House"	733.0	"https://www.domain.com.au/46-bourke-street-smithfield-nsw-2164-2013966506"	24.7
+"SOUTH COOGEE"	"9 Grevillea Pl"	3	"House"	1865.0	"https://www.domain.com.au/9-grevillea-place-south-coogee-nsw-2034-2013971311"	8.4
+"SOUTH GRANVILLE"	"7 Flaherty Bvd"	4	"House"	Passed In	"https://www.domain.com.au/7-flaherty-blvd-granville-nsw-2142-2013991128"	18.6
+"SOUTH GRANVILLE"	"33 Miller St"	4	"House"	735.5	"https://www.domain.com.au/33-miller-street-granville-nsw-2142-2013965510"	18.6
+"SOUTH PENRITH"	"13 Tukara Rd"	3	"House"	785.0	"https://www.domain.com.au/13-tukara-road-south-penrith-nsw-2750-2013956774"	47.8
+"SOUTH TURRAMURRA"	"11 Cove St"	3	"House"	1651.0	"https://www.domain.com.au/11-cove-street-turramurra-nsw-2074-2013979183"	16
+"SOUTH TURRAMURRA"	"6 Paroo Pl"	5	"House"	1850.0	"https://www.domain.com.au/6-paroo-place-south-turramurra-nsw-2074-2013955173"	16
+"ST IVES"	"31 Collins Rd"	4	"House"	2133.0	"https://www.domain.com.au/31-collins-road-st-ives-nsw-2075-2013937592"	15.8
+"ST IVES"	"79 Kitchener St"	4	"House"	Passed In	"https://www.domain.com.au/79-kitchener-street-st-ives-nsw-2075-2013975482"	15.8
+"ST IVES"	"3 Matthew Cl"	5	"House"	4027.9999999999995	"https://www.domain.com.au/3-matthew-close-st-ives-nsw-2075-2013959128"	15.8
+"ST IVES"	"38A Mudies Rd"	3	"House"	1400.0	"https://www.domain.com.au/38a-mudies-road-st-ives-nsw-2075-2013934114"	15.8
+"ST IVES"	"401/36-42 Stanley St"	3	"Unit"	1270.0	"https://www.domain.com.au/401-36-stanley-street-st-ives-nsw-2075-2013958146"	15.8
+"ST JOHNS PARK"	"25 Footscray St"	4	"House"	850.0	"https://www.domain.com.au/25-footscray-street-st-johns-park-nsw-2176-2013965589"	27.9
+"ST LEONARDS"	"214/34-36 Oxley St"	2	"Unit"	Withdrawn	"https://www.domain.com.au/214-34-36-oxley-street-st-leonards-nsw-2065-2013956284"	5
+"ST LEONARDS"	"1902/1 Sergeants La"	3	"Unit"	Price withheld	"https://www.domain.com.au/1902-1-sergeants-lane-st-leonards-nsw-2065-2013948160"	5
+"ST LEONARDS"	"2706/1 Sergeants La"	2	"Unit"	1400.0	"https://www.domain.com.au/2706-1-sergeants-lane-st-leonards-nsw-2065-2013977864"	5
+"STANMORE"	"55 Cardigan St"	3	"House"	Price withheld	"https://www.domain.com.au/55-cardigan-street-stanmore-nsw-2048-2013994391"	5.1
+"STANMORE"	"47 Stanmore Rd"	3	"Terrace"	Withdrawn	"https://www.domain.com.au/47-stanmore-road-stanmore-nsw-2048-2013932483"	5.1
+"STRATHFIELD"	"35 Merley Rd"	3	"House"	2160.0	"https://www.domain.com.au/35-merley-road-strathfield-nsw-2135-2013917434"	10.5
+"STRATHFIELD"	"7 Merley Rd"	5	"House"	3260.0	"https://www.domain.com.au/7-merley-road-strathfield-nsw-2135-2013968589"	10.5
+"STRATHFIELD"	"29 Myrna Rd"	3	"House"	2640.0	"https://www.domain.com.au/29-myrna-road-strathfield-nsw-2135-2013954591"	10.5
+"STRATHFIELD SOUTH"	"40 Anselm St"	5	"House"	2120.0	"https://www.domain.com.au/40-anselm-street-strathfield-south-nsw-2136-2013967085"	11.8
+"STRATHFIELD SOUTH"	"13 Clement St"	4	"House"	1590.0	"https://www.domain.com.au/13-clement-street-strathfield-south-nsw-2136-2013963485"	11.8
+"STRATHFIELD SOUTH"	"31 Manning Av"	4	"House"	1610.0	"https://www.domain.com.au/31-manning-avenue-strathfield-south-nsw-2136-2013954155"	11.8
+"STRATHFIELD SOUTH"	"25 Therry St E"	3	"House"	1305.0	"https://www.domain.com.au/25-therry-street-east-strathfield-south-nsw-2136-2013967002"	11.8
+"SUMMER HILL"	"2/52 Smith St"	1	"Unit"	760.0	"https://www.domain.com.au/2-52-smith-street-summer-hill-nsw-2130-2013972723"	7
+"SURRY HILLS"	"82 Ann St"	3	"Terrace"	Withdrawn	"https://www.domain.com.au/82-ann-street-surry-hills-nsw-2010-2013901461"	2.5
+"SURRY HILLS"	"32 Belvoir St"	3	"House"	Passed In	"https://www.domain.com.au/32-belvoir-street-surry-hills-nsw-2010-2013957429"	2.5
+"SURRY HILLS"	"202/82-92 Cooper St"	1	"Unit"	827.0	"https://www.domain.com.au/202-82-cooper-street-surry-hills-nsw-2010-2013979377"	2.5
+"SURRY HILLS"	"592 Crown St"	4	"House"	1600.0	"https://www.domain.com.au/592-crown-street-surry-hills-nsw-2010-2013955333"	2.5
+"SURRY HILLS"	"47 Ridge St"	3	"House"	2200.0	"https://www.domain.com.au/47-ridge-street-surry-hills-nsw-2010-2013957435"	2.5
+"SUTHERLAND"	"110/68 Eton St"	2	"Unit"	Withdrawn	"https://www.domain.com.au/110-68-eton-street-sutherland-nsw-2232-2013971485"	22.9
+"SYDNEY"	"801/185-211 Liverpool St"	2	"Unit"	1200.0	"https://www.domain.com.au/801-187-liverpool-street-sydney-nsw-2000-2013966298"	1
+"SYLVANIA"	"8/120-122 Port Hacking Rd"	3	"Villa"	Withdrawn	"https://www.domain.com.au/8-120-122-port-hacking-road-sylvania-nsw-2224-2013969247"	18.3
+"THORNLEIGH"	"40 Station St"	4	"House"	1375.0	"https://www.domain.com.au/40-station-street-thornleigh-nsw-2120-2013973417"	19.1
+"TOUKLEY"	"32 Leonard Av"	5	"House"	Passed In	"https://www.domain.com.au/32-leonard-avenue-toukley-nsw-2263-2013956607"	unknown
+"TUMBI UMBI"	"3C Tumbi Rd"	4	"House"	Withdrawn	"https://www.domain.com.au/3c-tumbi-road-tumbi-umbi-nsw-2261-2013961213"	unknown
+"TURRAMURRA"	"21/1292 Pacific Hwy"	3	"Unit"	Price withheld	"https://www.domain.com.au/21-1292-pacific-highway-turramurra-nsw-2074-2013952540"	16.5
+"TURRELLA"	"1 Mary St"	3	"House"	Price withheld	"https://www.domain.com.au/1-mary-street-turrella-nsw-2205-2013964387"	9.3
+"ULTIMO"	"15/460-482 Jones St"	2	"Unit"	Price withheld	"https://www.domain.com.au/15-460-jones-street-ultimo-nsw-2007-2013959648"	1.5
+"UMINA BEACH"	"13 Rosewood Dr"	4	"House"	Withdrawn	"https://www.domain.com.au/13-rosewood-drive-umina-beach-nsw-2257-2013905782"	38.8
+"WAHROONGA"	"4 Fiona Av"	5	"House"	3100.0	"https://www.domain.com.au/4-fiona-avenue-wahroonga-nsw-2076-2013978672"	18.7
+"WAHROONGA"	"1A Highlands Av"	4	"House"	Passed In	"https://www.domain.com.au/1a-highlands-avenue-wahroonga-nsw-2076-2013978676"	18.7
+"WAHROONGA"	"10 Netherby St"	4	"House"	1375.0	"https://www.domain.com.au/10-netherby-street-wahroonga-nsw-2076-2013974454"	18.7
+"WAKELEY"	"31 Innisfail Rd"	3	"House"	800.0	"https://www.domain.com.au/31-innisfail-rd-wakeley-nsw-2176-2013953385"	27.5
+"WAKELEY"	"10 Newcastle St"	4	"House"	Withdrawn	"https://www.domain.com.au/10-newcastle-street-wakeley-nsw-2176-2013965385"	27.5
+"WAMBERAL"	"3 Grove Rd"	4	"House"	1165.0	"https://www.domain.com.au/3-grove-road-wamberal-nsw-2260-2013963342"	unknown
+"WAREEMBA"	"40 Coranto St"	4	"Semi"	Price withheld	"https://www.domain.com.au/40-coranto-street-wareemba-nsw-2046-2013977196"	7.1
+"WARWICK FARM"	"21 Williamson Cr"	4	"House"	750.0	"https://www.domain.com.au/21-williamson-crescent-warwick-farm-nsw-2170-2013968216"	25.8
+"WATERLOO"	"74/9 Broome St"	2	"Unit"	1042.5	"https://www.domain.com.au/74-9-broome-street-waterloo-nsw-2017-2013956819"	3.7
+"WATERLOO"	"10/52-54 McEvoy St"	1	"Unit"	688.0	"https://www.domain.com.au/10-52-mcevoy-street-waterloo-nsw-2017-2013967873"	3.7
+"WAVERLEY"	"30 Henrietta St"	4	"House"	2695.0	"https://www.domain.com.au/30-henrietta-street-waverley-nsw-2024-2013954218"	5.4
+"WAVERTON"	"45 Crows Nest Rd"	6	"House"	4000.0	"https://www.domain.com.au/45-crows-nest-road-waverton-nsw-2060-2013976055"	3.2
+"WENTWORTH POINT"	"319/37 Amalfi Dr"	2	"Unit"	785.0	"https://www.domain.com.au/319-37-amalfi-drive-wentworth-point-nsw-2127-2013979364"	20.1
+"WEST HOXTON"	"93 Harraden Dr"	4	"House"	795.0	"https://www.domain.com.au/93-harraden-drive-west-hoxton-nsw-2171-2013835592"	33.9
+"WEST PENNANT HILLS"	"21 Westmore Dr"	4	"House"	1620.0	"https://www.domain.com.au/21-westmore-drive-west-pennant-hills-nsw-2125-2013985604"	20
+"WEST PYMBLE"	"29 Wallalong Cr"	3	"House"	Passed In	"https://www.domain.com.au/29-wallalong-crescent-west-pymble-nsw-2073-2013993293"	14
+"WEST RYDE"	"4/31 Tramway St"	3	"Villa"	Withdrawn	"https://www.domain.com.au/4-31-tramway-street-west-ryde-nsw-2114-2013971316"	12.8
+"WETHERILL PARK"	"64 Lily St"	4	"House"	970.0	"https://www.domain.com.au/64-lily-street-wetherill-park-nsw-2164-2013971414"	27.2
+"WHALE BEACH"	"145 Whale Beach Rd"	4	"House"	Price withheld	"https://www.domain.com.au/145-whale-beach-road-whale-beach-nsw-2107-2013929371"	30.3
+"WOOLLAHRA"	"9/58 Ocean St"	2	"Unit"	1340.0	"https://www.domain.com.au/9-58-ocean-street-woollahra-nsw-2025-2013971318"	3.6
+"WOOLLAHRA"	"16/6 Trelawney St"	3	"Unit"	2250.0	"https://www.domain.com.au/16-6-trelawney-street-woollahra-nsw-2025-2013946270"	3.6
+"YOWIE BAY"	"48 Wonga Rd"	3	"House"	1275.0	"https://www.domain.com.au/48-wonga-road-yowie-bay-nsw-2228-2013950112"	22.4

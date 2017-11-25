@@ -1,0 +1,816 @@
+"Suburb"	"Address"	Bedroom	"Type"	Price	"Link"	Distance
+"Adamstown"	"43 Belmore St"	4	"House"		""	166
+"Albury"	"619 Lindsay Av"	3	"House"		"https://www.realestate.com.au/126754306"	un_known
+"Albury"	"637 Sackville St"	3	"House"		""	un_known
+"Albury"	"7 Fernhurst Ct"	3	"House"		"https://www.realestate.com.au/126735170"	un_known
+"Albury"	"1/684 Banff Av"	3	"Unit"	770000	"https://www.realestate.com.au/126735026"	un_known
+"Alexandria"	"72 Garden St"	2	"House"	1330000	"https://www.realestate.com.au/126724182"	3.5
+"Alexandria"	"M207/68 Mcevoy St"	2	"Unit"		"https://www.realestate.com.au/126766038"	3.5
+"Alexandria"	"286 Belmont St"	2	"House"		"https://www.realestate.com.au/126776286"	3.5
+"Alfords Point"	"6 Lomandra Pl"	5	"House"		"https://www.realestate.com.au/126770062"	21.9
+"Allawah"	"4/67 Illawarra St"	4	"Unit"	865000	"https://www.realestate.com.au/126795654"	14.3
+"Annandale"	"141 Young St"	2	"House"		"https://www.realestate.com.au/126787494"	3.7
+"Arcadia Vale"	"38 Arcadia St"	4	"House"	670000	"https://www.realestate.com.au/126750486"	un_known
+"Armidale"	"128 Erskine St"	5	"House"		"https://www.realestate.com.au/124975850"	482
+"Armidale"	"17 Sutherland Av"	2	"House"		"https://www.realestate.com.au/125216386"	482
+"Arncliffe"	"34 Roach St"	3	"House"	1260000	"https://www.realestate.com.au/126763954"	9.5
+"Artarmon"	"1006/4 Francis Rd"	2	"Unit"		"https://www.realestate.com.au/126783342"	6.7
+"Artarmon"	"19 Carlos Rd"	3	"House"	2750000	"https://www.realestate.com.au/126805954"	6.7
+"Artarmon"	"23/21 Eric Rd"	2	"Unit"	995000	"https://www.realestate.com.au/126780430"	6.7
+"Artarmon"	"22/21 Eric Rd"	0.5	"House"	995000	""	6.7
+"Ashbury"	"149 Holden St"	3	"House"	1700000	"https://www.realestate.com.au/126741898"	9
+"Ashfield"	"110 Alt St"	3	"House"		"https://www.realestate.com.au/126747334"	7.9
+"Ashfield"	"19 Knocklayde St"	2	"House"	1505000	"https://www.realestate.com.au/126752766"	7.9
+"Ashfield"	"10 Earle Av"	3	"House"	1580000	"https://www.realestate.com.au/126710586"	7.9
+"Auburn"	"29 Cockthorpe Rd"	4	"House"		""	16.2
+"Austinmer"	"31 Buttenshaw Pl"	5	"House"		"https://www.realestate.com.au/126746694"	82
+"Avalon Beach"	"30 Watkins Rd"	4	"House"		"https://www.realestate.com.au/126680862"	28.1
+"Avalon Beach"	"47 Therry St"	4	"House"		""	28.1
+"Avoca Beach"	"181 The Round Dr"	5	"House"	1210000	"https://www.realestate.com.au/126689774"	49.3
+"Avonside"	"70 Iron Pot Creek Rd"	3	"House"		"https://www.realestate.com.au/126778014"	un_known
+"Balgowlah"	"1/223 Condamine St"	4	"House"		"https://www.realestate.com.au/126718262"	9.6
+"Balgowlah"	"164A Woodland St N"	3	"House"	1925000	"https://www.realestate.com.au/126788602"	9.6
+"Balgowlah"	"30 Boyle St"	3	"House"		"https://www.realestate.com.au/126767786"	9.6
+"Balgowlah"	"1/82 Wanganella St"	2	"Unit"	1037000	"https://www.realestate.com.au/126778882"	9.6
+"Balgowlah"	"1/18 Rickard St"	2	"Unit"	795000	"https://www.realestate.com.au/126719590"	9.6
+"Balgowlah"	"18 Violet St"	4	"House"	2665000	"https://www.realestate.com.au/126771794"	9.6
+"Balgownie"	"40A Ryan St"	6	"House"		"https://www.realestate.com.au/126687646"	89
+"Ballina"	"4/21 Tamar St"	4	"House"		"https://www.realestate.com.au/126653382"	un_known
+"Balmain"	"17 Campbell St"	2	"House"		"https://www.realestate.com.au/126711418"	2.9
+"Balmain"	"43 Mort St"	3	"House"		"https://www.realestate.com.au/126780926"	2.9
+"Balmain"	"42 Harris St"	4	"House"		"https://www.realestate.com.au/126756190"	2.9
+"Balmain"	"6/2 Ewenton St"	2	"Unit"		"https://www.realestate.com.au/126649598"	2.9
+"Balmain"	"92 Curtis Rd"	2	"House"		"https://www.realestate.com.au/126789194"	2.9
+"Balmain"	"8 Waite Av"	2	"House"		"https://www.realestate.com.au/126778162"	2.9
+"Bangor"	"1 Towradgi Pl"	3	"House"	1200000	""	23.5
+"Bangor"	"39 Billa Rd"	4	"House"		"https://www.realestate.com.au/126748886"	23.5
+"Bangor"	"3 Yala Rd"	4	"House"		"https://www.realestate.com.au/126750206"	23.5
+"Bankstown"	"107 Jacobs St"	4	"House"	1400000	"https://www.realestate.com.au/126738626"	16.9
+"Bankstown"	"232 Marion St"	3	"House"		"https://www.realestate.com.au/126750502"	16.9
+"Bankstown"	"5 Eldridge Rd"	2	"House"	845000	"https://www.realestate.com.au/126745906"	16.9
+"Bankstown"	"80 Antwerp St"	4	"House"		""	16.9
+"Banora Point"	"6 Firewheel Wy"	4	"House"	597500	"https://www.realestate.com.au/126786490"	un_known
+"Banora Point"	"14 Firestone Dr"	5	"House"		"https://www.realestate.com.au/126699222"	un_known
+"Bar Beach"	"3/15A Wrightson Av"	2	"Unit"	825000	"https://www.realestate.com.au/126778318"	un_known
+"Bardwell Park"	"12 Bernard Av"	4	"House"		"https://www.realestate.com.au/126697218"	10.4
+"Bardwell Valley"	"30D Hannam St"	3	"House"	1245000	"https://www.realestate.com.au/126705286"	10.1
+"Bass Hill"	"2 Hilda St"	3	"House"	800000	"https://www.realestate.com.au/126819674"	19.9
+"Batemans Bay"	"18 Bent St"	3	"House"		"https://www.realestate.com.au/126544258"	un_known
+"Bathurst"	"258 Peel St"	3	"House"		"https://www.realestate.com.au/126731306"	200
+"Bathurst"	"9 Park St"	3	"House"		"https://www.realestate.com.au/126733938"	200
+"Bathurst"	"251 Russell St"	4	"House"		""	200
+"Baulkham Hills"	"19 Carole Av"	3	"House"		""	23.2
+"Baulkham Hills"	"7 Burrandong Cr"	4	"House"		"https://www.realestate.com.au/126768898"	23.2
+"Baulkham Hills"	"5 Browne Pl"	4	"House"	1250000	"https://www.realestate.com.au/126835762"	23.2
+"Baulkham Hills"	"40 Glanmire Rd"	4	"House"		"https://www.realestate.com.au/126752422"	23.2
+"Baulkham Hills"	"60 Burrandong Cr"	4	"House"		"https://www.realestate.com.au/126760802"	23.2
+"Baulkham Hills"	"2 Yaralla Pl"	4	"House"	1187000	"https://www.realestate.com.au/126772314"	23.2
+"Beacon Hill"	"10 Crawford Pl"	4	"House"		"https://www.realestate.com.au/126791734"	13.7
+"Beaconsfield"	"208 Victoria St"	5	"House"		"https://www.realestate.com.au/126640242"	5
+"Beaconsfield"	"301/63 Victoria St"	3	"Unit"		"https://www.realestate.com.au/126679954"	5
+"Beecroft"	"147A Copeland Rd"	5	"House"		"https://www.realestate.com.au/126512766"	18.6
+"Bella Vista"	"12 Middlebrook Ri"	4	"House"	2350000	"https://www.realestate.com.au/126678238"	27.4
+"Bellevue Hill"	"10/2 Birriga Rd"	2	"Unit"		"https://www.realestate.com.au/126690150"	5.3
+"Bellevue Hill"	"4/4 Aston Gdn"	3	"Unit"		"https://www.realestate.com.au/126709534"	5.3
+"Bellevue Hill"	"21 March St"	4	"House"	4900000	"https://www.realestate.com.au/126749806"	5.3
+"Belmore"	"7 Tudor St"	3	"House"	1205000	"https://www.realestate.com.au/126745758"	12.3
+"Berkeley"	"5 Bubb Pl"	4	"House"		"https://www.realestate.com.au/126742506"	un_known
+"Berry"	"48 Queen St"	3	"House"		"https://www.realestate.com.au/126734914"	un_known
+"Beverly Hills"	"15 Edmund St"	4	"House"	1365000	"https://www.realestate.com.au/126733126"	14.7
+"Bexley"	"81 Mimosa St"	6	"House"	1910000	"https://www.realestate.com.au/126661234"	11.7
+"Bexley"	"95 St Georges Rd"	4	"House"	1390000	"https://www.realestate.com.au/126707862"	11.7
+"Bexley"	"202 Stoney Creek Rd"	4	"House"		"https://www.realestate.com.au/126601978"	11.7
+"Bexley"	"29 Abercorn St"	2	"House"		"https://www.realestate.com.au/126740762"	11.7
+"Bexley North"	"60 Shaw St"	3	"House"	1460000	""	11.7
+"Bilbul"	"286 Hamilton Rd"	4	"House"	430000	"https://www.realestate.com.au/126660830"	un_known
+"Birchgrove"	"5/45 Wharf Rd"	3	"Unit"		"https://www.realestate.com.au/126645734"	2.9
+"Birrong"	"26 Wentworth St"	3	"House"	831000	"https://www.realestate.com.au/126771050"	17.2
+"Blacktown"	"134 Kildare Rd"	3	"House"	750000	"https://www.realestate.com.au/126762598"	29.6
+"Blakehurst"	"16 Orana Cr"	6	"House"		"https://www.realestate.com.au/126697674"	16.1
+"Blakehurst"	"141A Stuart St"	3	"House"		"https://www.realestate.com.au/126687338"	16.1
+"Bondi"	"27/35 Ocean St"	3	"Unit"		"https://www.realestate.com.au/126597078"	5.9
+"Bondi"	"40 Avoca St"	4	"House"	2910000	"https://www.realestate.com.au/126727666"	5.9
+"Bondi Beach"	"49 Wellington St"	3	"House"		"https://www.realestate.com.au/126546670"	6.8
+"Bondi Beach"	"1/226 Campbell Pde"	2	"Unit"	1830000	"https://www.realestate.com.au/126708226"	6.8
+"Bondi Beach"	"7/66 Roscoe St"	2	"Unit"	900000	"https://www.realestate.com.au/126590950"	6.8
+"Bondi Beach"	"4/61 Brighton Bvd"	2	"Unit"	1340000	""	6.8
+"Bonnet Bay"	"27 Lincoln Cr"	4	"House"	1400000	"https://www.realestate.com.au/126786478"	21.2
+"Booker Bay"	"2/256 Booker Bay Rd"	4	"House"	1155000	"https://www.realestate.com.au/126729954"	41.5
+"Bossley Park"	"16 Knowles Pl"	4	"House"		"https://www.realestate.com.au/126759378"	29.8
+"Bossley Park"	"47 Prairie Vale Rd"	5	"House"	840000	"https://www.realestate.com.au/126886850"	29.8
+"Bossley Park"	"12 Candlewood St"	4	"House"	1126000	"https://www.realestate.com.au/126766302"	29.8
+"Botany"	"25/125 Banksia St"	2	"Unit"	765000	""	8.7
+"Brighton-le-sands"	"9/134 The Grand Pde"	2	"House"	955500	"https://www.realestate.com.au/126793362"	11.4
+"Brighton-le-sands"	"43 Oneill St"	4	"House"		""	11.4
+"Brightwaters"	"3 Bardon St"	4	"House"	878000	"https://www.realestate.com.au/126708810"	un_known
+"Broadmeadow"	"158 Chatham St"	2	"House"	755000	"https://www.realestate.com.au/126844478"	856
+"Broadmeadow"	"21 Coorumbung Rd"	3	"House"	482000	"https://www.realestate.com.au/126724646"	856
+"Bronte"	"504A Bronte Rd"	4	"House"	11000000	"https://www.realestate.com.au/126618182"	6.5
+"Budgewoi"	"3 Tenth Av"	5	"House"	790000	"https://www.realestate.com.au/126709386"	119
+"Budgewoi"	"27 Delia Av"	2	"House"	375000	"https://www.realestate.com.au/126572942"	119
+"Buff Point"	"22 Yackerboom Av"	4	"House"		"https://www.realestate.com.au/126758546"	118
+"Buff Point"	"208 Buff Point Av"	2	"House"	467000	"https://www.realestate.com.au/126638390"	118
+"Bulli"	"20A Farrell Rd"	5	"House"	1975000	"https://www.realestate.com.au/124942854"	un_known
+"Burraneer"	"24 Shell Rd"	4	"House"		"https://www.realestate.com.au/502399574"	22.9
+"Burraneer"	"180 Woolooware Rd"	5	"House"	2240000	"https://www.realestate.com.au/126740742"	22.9
+"Burwood"	"31 Albert Cr"	4	"House"		""	9.6
+"Burwood"	"64 Lucas Rd"	2	"House"		"https://www.realestate.com.au/126743434"	9.6
+"Burwood"	"2/60A Lucas Rd"	3	"Unit"		"https://www.realestate.com.au/126612514"	9.6
+"Busby"	"42 Busby Rd"	3	"House"		"https://www.realestate.com.au/126437874"	31
+"Byron Bay"	"37 Belongil Cr"	4	"House"		"https://www.realestate.com.au/126798958"	un_known
+"Byron Bay"	"6 Giaour St"	3	"House"		"https://www.realestate.com.au/126695250"	un_known
+"Cabarita"	"61/1 Bayside Tce"	4	"Unit"	3100000	""	8.9
+"Cabramatta"	"16 Smiths Av"	3	"House"		"https://www.realestate.com.au/126724310"	25.2
+"Cabramatta"	"176 Gladstone St"	6	"House"		"https://www.realestate.com.au/126684062"	25.2
+"Cabramatta West"	"13 Annette St"	2	"House"		"https://www.realestate.com.au/126734278"	27
+"Campbelltown"	"1/6 Parkside Cr"	3	"Unit"		"https://www.realestate.com.au/126731066"	42.7
+"Camperdown"	"1602/2 Sterling Cct"	3	"Unit"		"https://www.realestate.com.au/126705502"	3.6
+"Camperdown"	"5/42 Gibbens St"	1	"Unit"		"https://www.realestate.com.au/126714770"	3.6
+"Campsie"	"53 Robertson St"	3	"House"	1675000	"https://www.realestate.com.au/126686774"	10.7
+"Canada Bay"	"5/35 Regatta Rd"	2	"Unit"		"https://www.realestate.com.au/126746182"	8.4
+"Canley Heights"	"2/102 Arbutus St"	3	"Unit"	641000	"https://www.realestate.com.au/126789282"	26.2
+"Canley Heights"	"19 Foxlow St"	5	"House"		"https://www.realestate.com.au/126258242"	26.2
+"Canley Vale"	"33 Fifth Av"	3	"House"		"https://www.realestate.com.au/126741842"	24.5
+"Caringbah"	"15/137 Willarong Rd"	2	"Unit"		"https://www.realestate.com.au/126498910"	21
+"Caringbah"	"43 Carabella Rd"	3	"House"		"https://www.realestate.com.au/126628890"	21
+"Caringbah"	"1/13 Oleander Pde"	3	"Unit"	990000	"https://www.realestate.com.au/126798970"	21
+"Caringbah"	"3/145 Willarong Rd"	2	"Unit"	825000	"https://www.realestate.com.au/126798366"	21
+"Caringbah"	"6 Mirbelia Pl"	4	"House"	1340000	"https://www.realestate.com.au/126752458"	21
+"Caringbah"	"40 Frobisher Av"	4	"House"		"https://www.realestate.com.au/126786442"	21
+"Caringbah South"	"19 Yeramba Av"	3	"House"	1401500	""	28
+"Caringbah South"	"50A Fernleigh Rd"	4	"House"		"https://www.realestate.com.au/126658126"	28
+"Carlingford"	"501/245 Carlingford Rd"	2	"Unit"		"https://www.realestate.com.au/126750214"	17.4
+"Castle Cove"	"49 Deepwater Rd"	5	"House"		"https://www.realestate.com.au/126776518"	9.2
+"Castle Cove"	"23 Headland Rd"	3	"House"		"https://www.realestate.com.au/126775878"	9.2
+"Castle Cove"	"3 Willis Rd"	5	"House"		"https://www.realestate.com.au/126729950"	9.2
+"Castle Hill"	"29/2 Purser Av"	2	"Unit"		"https://www.realestate.com.au/126756802"	23.9
+"Castle Hill"	"118 Darcey Rd"	4	"House"		"https://www.realestate.com.au/126759290"	23.9
+"Castle Hill"	"113 Tuckwell Rd"	4	"House"		"https://www.realestate.com.au/126714906"	23.9
+"Castle Hill"	"5 Candlebush Cr"	3	"House"		"https://www.realestate.com.au/126695022"	23.9
+"Castle Hill"	"22 Ferguson Av"	4	"House"	1215000	"https://www.realestate.com.au/126750266"	23.9
+"Castlecrag"	"113 Edinburgh Rd"	4	"House"	3281000	"https://www.realestate.com.au/126778902"	7.2
+"Catalina"	"7 Ibis Pl"	3	"House"	328000	"https://www.realestate.com.au/126779034"	un_known
+"Cecil Hills"	"10 Richmond Cr"	5	"House"		"https://www.realestate.com.au/126663722"	32.7
+"Centennial Park"	"44/39 Cook Rd"	1	"Unit"	638000	"https://www.realestate.com.au/126791382"	3.8
+"Centennial Park"	"58/57 Cook Rd"	1	"Unit"	850000	"https://www.realestate.com.au/126787054"	3.8
+"Cessnock"	"10 Miller St"	2	"House"		"https://www.realestate.com.au/126787958"	un_known
+"Cessnock"	"20 Regent St"	2	"House"		""	un_known
+"Charlestown"	"70 Crescent Rd"	4	"House"		"https://www.realestate.com.au/126740750"	un_known
+"Chatswood"	"18 Ivy St"	3	"House"	1435000	"https://www.realestate.com.au/126757362"	8.2
+"Chatswood"	"1/30 Archer St"	2	"Unit"	1420000	"https://www.realestate.com.au/126762446"	8.2
+"Chatswood"	"9/524 Pacific Hwy"	2	"Unit"		"https://www.realestate.com.au/126738806"	8.2
+"Chatswood"	"40/552 Pacific Hwy"	1	"Unit"	814000	"https://www.realestate.com.au/126747258"	8.2
+"Chatswood"	"27 View St"	4	"House"		""	8.2
+"Cherrybrook"	"15 Walnut Gr"	4	"House"	1626000	"https://www.realestate.com.au/126751698"	22.1
+"Chester Hill"	"7 Campbell Hill Rd"	5	"House"	1175000	"https://www.realestate.com.au/126736122"	19.1
+"Chifley"	"1289 Anzac Pde"	4	"House"	1600000	"https://www.realestate.com.au/126750810"	12.5
+"Chippendale"	"10/9 Blackfriars St"	2	"Unit"	1250000	"https://www.realestate.com.au/126752922"	2.2
+"Chipping Norton"	"27 Wolverton Av"	5	"House"	1800000	"https://www.realestate.com.au/126675218"	23.3
+"Clareville"	"238 Hudson Pde"	4	"House"	4400000	"https://www.realestate.com.au/126688558"	27.6
+"Clovelly"	"47 Knox St"	4	"House"		""	7.2
+"Clovelly"	"48 Clifton Rd"	4	"House"	3306000	"https://www.realestate.com.au/126768930"	7.2
+"Coal Point"	"2/8 Skye Point Rd"	4	"Unit"		"https://www.realestate.com.au/126729254"	un_known
+"Coledale"	"775 Lawrence Hargrave Dr"	4	"House"	2510000	"https://www.realestate.com.au/126743858"	76
+"Collaroy"	"10/1155 Pittwater Rd"	2	"Unit"	1210000	"https://www.realestate.com.au/126656846"	16.6
+"Collaroy"	"1069 Pittwater Rd"	5	"House"		"https://www.realestate.com.au/126782786"	16.6
+"Concord"	"6 Melville Av"	5	"House"	3475000	"https://www.realestate.com.au/126678926"	9.6
+"Concord"	"16 Rose Av"	4	"House"	2400000	"https://www.realestate.com.au/126685650"	9.6
+"Concord"	"3/247M Burwood Rd"	3	"Unit"		"https://www.realestate.com.au/126728014"	9.6
+"Concord"	"225 Burwood Rd"	3	"House"	2050000	"https://www.realestate.com.au/126790530"	9.6
+"Concord"	"5/114 Majors Bay Rd"	2	"Unit"		"https://www.realestate.com.au/126792674"	9.6
+"Concord West"	"62 Colane St"	3	"House"		"https://www.realestate.com.au/126752682"	11.3
+"Concord West"	"36 Iandra St"	3	"House"		"https://www.realestate.com.au/126773234"	11.3
+"Condell Park"	"306 Marion St"	3	"House"	770000	""	19
+"Condell Park"	"308 Marion St"	3	"House"	770000	"https://www.realestate.com.au/126752230"	19
+"Constitution Hill"	"11 Eildon St"	4	"House"	970000	"https://www.realestate.com.au/126750866"	un_known
+"Coogee"	"36 Arcadia St"	3	"House"		"https://www.realestate.com.au/126696042"	7.4
+"Coogee"	"61 Brook St"	0.5	"House"		""	7.4
+"Coogee"	"8/68 Brook St"	3	"Unit"	1900000	"https://www.realestate.com.au/126792134"	7.4
+"Coogee"	"3/114 Brook St"	3	"Unit"		"https://www.realestate.com.au/126695002"	7.4
+"Coogee"	"68 Beach St"	5	"House"	4500000	"https://www.realestate.com.au/126719974"	7.4
+"Cordeaux Heights"	"2 Booreea Bvd"	4	"House"		"https://www.realestate.com.au/126688622"	un_known
+"Corrimal"	"32 Wilga St"	4	"House"		"https://www.realestate.com.au/126706226"	un_known
+"Corrimal"	"78 Midgley St"	4	"House"		"https://www.realestate.com.au/126708302"	un_known
+"Cranebrook"	"18 Enterprise Rd"	3	"House"		"https://www.realestate.com.au/126751618"	49
+"Cremorne"	"30 Lloyd Av"	4	"House"		"https://www.realestate.com.au/126670598"	4.8
+"Cremorne"	"302/22 Sutherland St"	2	"Unit"		"https://www.realestate.com.au/126747190"	4.8
+"Cromer"	"14 Wambiri Pl"	4	"House"	1533000	"https://www.realestate.com.au/126748282"	15.6
+"Cromer"	"14A Grover Av"	3	"House"	1400000	"https://www.realestate.com.au/126777706"	15.6
+"Cromer"	"8 Dorothy St"	4	"House"	2170000	"https://www.realestate.com.au/126754870"	15.6
+"Cronulla"	"9/3 Nerang Rd"	2	"Unit"	915000	"https://www.realestate.com.au/126699122"	21.1
+"Cronulla"	"1/34 Hume Rd"	2	"Unit"	925000	"https://www.realestate.com.au/126740722"	21.1
+"Cronulla"	"8/66 Kurnell Rd"	3	"Unit"		"https://www.realestate.com.au/126755126"	21.1
+"Cronulla"	"7/24 Flinders Rd"	3	"Unit"	1022750	"https://www.realestate.com.au/126749714"	21.1
+"Cronulla"	"11 Rose St"	4	"House"		"https://www.realestate.com.au/126765626"	21.1
+"Cronulla"	"29 Wilshire Av"	4	"House"		"https://www.realestate.com.au/126765566"	21.1
+"Cronulla"	"8/25 The Esplanade"	2	"Unit"	1475000	"https://www.realestate.com.au/126786486"	21.1
+"Crows Nest"	"6/12 Hayberry St"	1	"Unit"	705000	""	4.6
+"Croydon"	"3/457 Liverpool Rd"	3	"Unit"		"https://www.realestate.com.au/126737966"	8.7
+"Croydon"	"25A Cromwell St"	3	"House"	1445000	"https://www.realestate.com.au/126742314"	8.7
+"Croydon Park"	"18 Fountain Av"	3	"House"	1267000	""	9.6
+"Croydon Park"	"40 Beaufort St"	4	"House"		"https://www.realestate.com.au/126684898"	9.6
+"Culburra Beach"	"13 Greenbank Gr"	4	"House"		"https://www.realestate.com.au/126713202"	un_known
+"Cumberland Reach"	"24 Holmes Dr"	5	"House"		"https://www.realestate.com.au/126742290"	un_known
+"Darling Point"	"7/6 Darling Point Rd"	3	"Unit"		"https://www.realestate.com.au/126749778"	2.8
+"Darling Point"	"18/2 Eastbourne Rd"	3	"Unit"		"https://www.realestate.com.au/126760082"	2.8
+"Darling Point"	"4/81 Darling Point Rd"	3	"Unit"	5500000	"https://www.realestate.com.au/126311638"	2.8
+"Darlinghurst"	"14/74 Mclachlan Av"	2	"Unit"	1250000	"https://www.realestate.com.au/126763146"	1.8
+"Darlinghurst"	"4/241 Darlinghurst Rd"	2	"Unit"		"https://www.realestate.com.au/126793290"	1.8
+"Darlinghurst"	"406/200 Campbell St"	1	"Unit"	745000	"https://www.realestate.com.au/126738778"	1.8
+"Dee Why"	"10/5 Westminster Av"	3	"Unit"		"https://www.realestate.com.au/126784162"	14.6
+"Dee Why"	"2102/10 Sturdee Pde"	2	"Unit"		"https://www.realestate.com.au/126746454"	14.6
+"Dee Why"	"2/18 Redman Rd"	2	"Unit"		"https://www.realestate.com.au/126796614"	14.6
+"Dee Why"	"13 Turner St"	3	"House"		"https://www.realestate.com.au/126745230"	14.6
+"Dee Why"	"11/58 Pacific Pde"	2	"Unit"		"https://www.realestate.com.au/126753970"	14.6
+"Dee Why"	"16/49 Delmar Pde"	2	"Unit"	1025000	"https://www.realestate.com.au/126788410"	14.6
+"Dee Why"	"14 Lewis St"	3	"House"	1591000	"https://www.realestate.com.au/126750842"	14.6
+"Denistone East"	"515 Blaxland Rd"	3	"House"	1230000	"https://www.realestate.com.au/126773850"	12.8
+"Dolls Point"	"2/1 Norman Av"	2	"Unit"	680000	"https://www.realestate.com.au/126815470"	15.1
+"Double Bay"	"2 Epping Rd"	5	"House"		"https://www.realestate.com.au/126687090"	3.6
+"Double Bay"	"5/519A New South Head Rd"	2	"House"		""	3.6
+"Drummoyne"	"3/8 Wolseley St"	3	"Unit"	1081000	"https://www.realestate.com.au/126690806"	5.2
+"Drummoyne"	"3/3 Day St"	3	"Unit"		""	5.2
+"Dubbo"	"133 Bultje St"	3	"House"	353500	""	un_known
+"Dubbo"	"5 Highland Pl"	4	"House"	340000	"https://www.realestate.com.au/126754106"	un_known
+"Dubbo"	"113A Gipps St"	3	"House"	297000	"https://www.realestate.com.au/126754058"	un_known
+"Dubbo"	"11L Oakdene Rd"	3	"House"		"https://www.realestate.com.au/126664058"	un_known
+"Dudley"	"6 George St"	3	"House"	570000	"https://www.realestate.com.au/126612294"	un_known
+"Dulwich Hill"	"19/3 Williams Pde"	2	"Unit"	885000	""	7.2
+"Dulwich Hill"	"121 The Boulevarde"	3	"House"	1760000	"https://www.realestate.com.au/126716622"	7.2
+"Dunbogan"	"126 Camden Head Rd"	4	"House"		"https://www.realestate.com.au/126662646"	un_known
+"Earlwood"	"36 River St"	2	"House"	990000	"https://www.realestate.com.au/126749338"	9.9
+"Earlwood"	"50 Fricourt Av"	4	"House"	2300000	"https://www.realestate.com.au/126747790"	9.9
+"Earlwood"	"48A Woolcott St"	3	"House"		"https://www.realestate.com.au/126755726"	9.9
+"East Albury"	"548 Tara Av"	4	"House"	712500	"https://www.realestate.com.au/126657222"	un_known
+"East Kangaloon"	"1990 Kangaloon Rd"	3	"House"	2475000	"https://www.realestate.com.au/126504702"	un_known
+"East Killara"	"37 Kimberley St"	4	"House"		"https://www.realestate.com.au/126771606"	13.1
+"East Lindfield"	"41 Sylvan Av"	3	"House"		"https://www.realestate.com.au/126726854"	11.4
+"Eastlakes"	"28 Harry St"	4	"House"		"https://www.realestate.com.au/126574994"	6.5
+"Eastwood"	"6 Harrison Av"	3	"House"	1700000	"https://www.realestate.com.au/126784398"	14.5
+"Eastwood"	"17/31 Ethel St"	2	"Unit"		""	14.5
+"Eastwood"	"4/7 May St"	2	"Unit"	710000	"https://www.realestate.com.au/126774978"	14.5
+"Eastwood"	"42 Raymond St"	3	"House"	1658000	"https://www.realestate.com.au/126788298"	14.5
+"Edensor Park"	"3 Braddon Pl"	4	"House"		"https://www.realestate.com.au/126678462"	30.7
+"Edgecliff"	"811/180 Ocean St"	1	"Unit"		"https://www.realestate.com.au/126725038"	2.9
+"Edgecliff"	"15/339 Edgecliff Rd"	3	"Unit"		"https://www.realestate.com.au/126585926"	2.9
+"Edgecliff"	"545 Glenmore Rd"	3	"House"		"https://www.realestate.com.au/126738834"	2.9
+"Eglinton"	"22 Paraweena Pl"	3	"House"	407500	"https://www.realestate.com.au/126722574"	un_known
+"Elanora Heights"	"3/182 Powder Works Rd"	3	"Unit"		"https://www.realestate.com.au/126784610"	20.3
+"Elderslie"	"2 Cruikshank Av"	3	"House"	640000	"https://www.realestate.com.au/126752090"	un_known
+"Elizabeth Bay"	"5F/15 Onslow Av"	2	"Unit"		"https://www.realestate.com.au/126706794"	1.9
+"Empire Bay"	"52 Pomona Rd"	4	"House"		"https://www.realestate.com.au/126855414"	43.9
+"Enmore"	"52 Gladstone St"	2	"House"		"https://www.realestate.com.au/126756538"	4.9
+"Enmore"	"89C Camden St"	2	"House"	1312000	"https://www.realestate.com.au/126761226"	4.9
+"Enmore"	"43 Gladstone St"	2	"House"		"https://www.realestate.com.au/126787006"	4.9
+"Epping"	"8/7 Maida Rd"	2	"Unit"		""	15.6
+"Epping"	"65 Boronia Av"	2	"House"		"https://www.realestate.com.au/126782750"	15.6
+"Ermington"	"25 Bannerman St"	4	"House"		"https://www.realestate.com.au/126768346"	15.3
+"Ermington"	"4 Barton St"	3	"House"	1475000	"https://www.realestate.com.au/126770358"	15.3
+"Fairfield"	"75 Hamilton Rd"	3	"House"	1390000	"https://www.realestate.com.au/126705810"	23.2
+"Fairfield"	"33 East Pde"	3	"House"		"https://www.realestate.com.au/126695278"	23.2
+"Fairfield"	"2 Malabar St"	0.5	"House"		"https://www.realestate.com.au/126679262"	23.2
+"Fairfield Heights"	"50 Percy St"	3	"House"	780000	"https://www.realestate.com.au/126756010"	24.8
+"Fairfield West"	"14 Greenvale St"	3	"House"		"https://www.realestate.com.au/126799146"	26.3
+"Fairfield West"	"139 Maud St"	3	"House"		""	26.3
+"Fairfield West"	"56 Margaret St"	3	"House"	882000	"https://www.realestate.com.au/126780042"	26.3
+"Fairlight"	"6/4A Boyle St"	2	"Unit"	1575000	"https://www.realestate.com.au/126788590"	9.8
+"Fairy Meadow"	"7 Tamblin St"	2	"House"	815000	"https://www.realestate.com.au/126671798"	un_known
+"Farmborough Heights"	"8 Highview Dr"	3	"House"	820000	"https://www.realestate.com.au/126744014"	101
+"Fern Bay"	"3 Ironbark Dr"	5	"House"		"https://www.realestate.com.au/126696066"	un_known
+"Figtree"	"33 Jacaranda Av"	4	"House"	835000	"https://www.realestate.com.au/126765322"	97
+"Fishing Point"	"187 Fishing Point Rd"	4	"House"		"https://www.realestate.com.au/126729250"	un_known
+"Five Dock"	"9/65 Garfield St"	3	"Unit"		"https://www.realestate.com.au/126727966"	7.1
+"Five Dock"	"8/1 Kings Bay Av"	2	"Unit"		"https://www.realestate.com.au/126729406"	7.1
+"Five Dock"	"24 Henley Marine Dr"	4	"House"		"https://www.realestate.com.au/126695606"	7.1
+"Five Dock"	"95 Henley Marine Dr"	3	"House"	2925000	"https://www.realestate.com.au/126684726"	7.1
+"Forbes"	"74 Reymond St"	4	"House"		""	379
+"Forest Lodge"	"2A Coneill Pl"	4	"House"		"https://www.realestate.com.au/126730370"	2.9
+"Frenchs Forest"	"7 Harper Pl"	5	"House"		"https://www.realestate.com.au/126761802"	13
+"Frenchs Forest"	"46 John Oxley Dr"	4	"House"	2400000	"https://www.realestate.com.au/126789258"	13
+"Freshwater"	"4 Brighton St"	4	"House"	2020000	"https://www.realestate.com.au/126717858"	18
+"Georges Hall"	"28 Ashcroft Av"	3	"House"	1050000	"https://www.realestate.com.au/126764102"	20.6
+"Gerringong"	"12 Oconnell Pl"	3	"House"		"https://www.realestate.com.au/126699414"	un_known
+"Gerringong"	"58 Armstrong Av"	4	"House"		"https://www.realestate.com.au/126752926"	un_known
+"Gladesville"	"2/6 Nioka St"	3	"House"	1680000	"https://www.realestate.com.au/126770846"	8.1
+"Gladesville"	"9/4 Pearson St"	2	"Unit"		"https://www.realestate.com.au/126790226"	8.1
+"Gladesville"	"16 Prince Edward St"	2	"House"	1850000	"https://www.realestate.com.au/126766950"	8.1
+"Gladesville"	"11 Venus St"	3	"House"		"https://www.realestate.com.au/126649546"	8.1
+"Glebe"	"5 Darling St"	3	"Unit"	1800000	"https://www.realestate.com.au/126776322"	2.3
+"Glenfield"	"4 Salamaua Pl"	4	"House"	760000	"https://www.realestate.com.au/126758410"	31.1
+"Glenugie"	"23 Eight Mile La"	4	"House"		"https://www.realestate.com.au/126684266"	un_known
+"Gordon"	"330/3 Mcintyre St"	2	"Unit"		"https://www.realestate.com.au/126589598"	13.4
+"Gordon"	"319/8 Merriwa St"	1	"Unit"		"https://www.realestate.com.au/126651914"	13.4
+"Gordon"	"B13/803 Pacific Hwy"	2	"Unit"		"https://www.realestate.com.au/126711850"	13.4
+"Gordon"	"26A Carlotta Av"	4	"House"		""	13.4
+"Grafton"	"7 Bromley St"	3	"House"		""	624
+"Grafton"	"110 Victoria St"	3	"House"		"https://www.realestate.com.au/126684286"	624
+"Grafton"	"133 Fry St"	4	"House"		"https://www.realestate.com.au/126690170"	624
+"Granville"	"12 Queen St"	2	"House"	620000	"https://www.realestate.com.au/126756886"	18.5
+"Granville"	"144 The Avenue"	4	"House"		"https://www.realestate.com.au/126764830"	18.5
+"Granville"	"7 Mimosa St"	5	"House"	795000	"https://www.realestate.com.au/126765862"	18.5
+"Greenacre"	"110 Greenacre Rd"	3	"House"	1100000	""	14.5
+"Greenacre"	"18 Highview Av"	3	"House"		"https://www.realestate.com.au/126759782"	14.5
+"Greenacre"	"7/114 Rawson Rd"	3	"Unit"		"https://www.realestate.com.au/126710570"	14.5
+"Greenfield Park"	"16 Ryder Rd"	3	"House"	870000	"https://www.realestate.com.au/126755758"	29.3
+"Greenwich"	"6/268 Pacific Hwy"	3	"Unit"		"https://www.realestate.com.au/126791878"	4.4
+"Greystanes"	"83 Runyon Av"	3	"House"		"https://www.realestate.com.au/126756726"	24
+"Greystanes"	"69 Ringrose Av"	4	"House"		"https://www.realestate.com.au/126756554"	24
+"Greystanes"	"8 Benaud St"	5	"House"	1400000	"https://www.realestate.com.au/126765714"	24
+"Greystanes"	"121 Kootingal St"	3	"House"	810000	"https://www.realestate.com.au/126758706"	24
+"Griffith"	"76 Ortella St"	4	"House"	263000	"https://www.realestate.com.au/126656758"	574
+"Griffith"	"160 Merrigal St"	3	"House"	250000	"https://www.realestate.com.au/126770642"	574
+"Griffith"	"43 Ortella St"	5	"House"	540000	"https://www.realestate.com.au/126775266"	574
+"Griffith"	"25 Hyandra St"	3	"House"		"https://www.realestate.com.au/126775270"	574
+"Griffith"	"88A Noorilla St"	3	"House"		"https://www.realestate.com.au/126825342"	574
+"Grose Wold"	"61 Ashtons Rd"	6	"House"		"https://www.realestate.com.au/126751562"	un_known
+"Guildford"	"22 Osgood St"	4	"House"	950000	"https://www.realestate.com.au/126688350"	20.5
+"Guildford"	"16 Campbell Hill Rd"	3	"House"	995000	"https://www.realestate.com.au/126748070"	20.5
+"Guildford"	"32 Bangor St"	3	"House"	855000	"https://www.realestate.com.au/126749638"	20.5
+"Guildford West"	"61 Fairfield Rd"	4	"House"		"https://www.realestate.com.au/126747586"	21.8
+"Guildford West"	"81 Queen St"	3	"House"	735000	"https://www.realestate.com.au/126747754"	21.8
+"Gunnedah"	"15 Pike St"	3	"House"		"https://www.realestate.com.au/126542318"	437
+"Gunnedah"	"20 Jensen St"	3	"House"		"https://www.realestate.com.au/126599206"	437
+"Gunnedah"	"19 Hopedale Av"	3	"House"		"https://www.realestate.com.au/126692018"	437
+"Gwynneville"	"31A Foley St"	5	"House"		"https://www.realestate.com.au/126753518"	un_known
+"Gymea Bay"	"23 Bunarba Rd"	3	"House"		"https://www.realestate.com.au/126770790"	23
+"Gymea Bay"	"6 Horns Av"	5	"House"	1800000	""	23
+"Haberfield"	"55 Dalhousie St"	4	"House"	2290000	"https://www.realestate.com.au/126747018"	6.5
+"Haberfield"	"81 Waratah St"	3	"House"		"https://www.realestate.com.au/126740718"	6.5
+"Haberfield"	"121 Waratah St"	3	"House"		"https://www.realestate.com.au/126741910"	6.5
+"Hamilton"	"107 Cleary St"	3	"House"	800000	"https://www.realestate.com.au/126837114"	un_known
+"Heathcote"	"2 Dorset Rd"	3	"House"		"https://www.realestate.com.au/126747462"	29.8
+"Heathcote"	"45 Parklands Av"	4	"House"	1350000	"https://www.realestate.com.au/126731718"	29.8
+"Helensburgh"	"34 Park Av"	3	"House"	900000	"https://www.realestate.com.au/126764842"	41.5
+"Hillsdale"	"3105/39 Rhodes St"	2	"Unit"		"https://www.realestate.com.au/126751702"	9.8
+"Hinchinbrook"	"7 Egret Pl"	3	"House"		"https://www.realestate.com.au/126749646"	32.2
+"Hinchinbrook"	"8 Lyra Pl"	4	"House"		"https://www.realestate.com.au/126737562"	32.2
+"Homebush"	"2/4 Bridge Rd"	2	"Unit"		"https://www.realestate.com.au/126751626"	11.6
+"Homebush West"	"11 Courallie Av"	2	"House"	1120000	"https://www.realestate.com.au/126711330"	12.7
+"Homebush West"	"2/47 Henley Rd"	2	"Unit"	635000	""	12.7
+"Hornsby"	"32 Clarinda St"	4	"House"		"https://www.realestate.com.au/126790258"	20.6
+"Hornsby"	"14A Warandoo St"	3	"House"		"https://www.realestate.com.au/126784414"	20.6
+"Hornsby Heights"	"2 Marine Cr"	5	"House"		"https://www.realestate.com.au/126782806"	24.2
+"Hunters Hill"	"36A Earl St"	3	"House"		"https://www.realestate.com.au/126697646"	6.3
+"Hunters Hill"	"9/47 Gladesville Rd"	3	"Unit"		"https://www.realestate.com.au/126721958"	6.3
+"Hunters Hill"	"26A Alexandra St"	5	"House"		"https://www.realestate.com.au/126688550"	6.3
+"Huntleys Cove"	"24 Mortimer Lewis Dr"	3	"Unit"		""	6.5
+"Hurlstone Park"	"58 Tennent Pde"	4	"House"	1782000	""	8.4
+"Hurstville"	"23/42 West St"	2	"Unit"	750000	"https://www.realestate.com.au/126723294"	14.7
+"Hurstville"	"6/43 Empress St"	2	"Unit"	780000	"https://www.realestate.com.au/126750686"	14.7
+"Hurstville"	"173 Croydon Rd"	3	"House"	1300000	"https://www.realestate.com.au/126740746"	14.7
+"Hurstville Grove"	"19/13 Spalding Cr"	3	"Unit"		"https://www.realestate.com.au/126563158"	16.5
+"Ingleburn"	"89 Lancia Dr"	3	"House"		"https://www.realestate.com.au/126762250"	34.7
+"Inverell"	"9 Deodara Dr"	4	"House"	287000	""	un_known
+"Islington"	"11 Dent St"	1	"House"		"https://www.realestate.com.au/126751714"	un_known
+"Jannali"	"36 Georges River Rd"	3	"House"	1080000	"https://www.realestate.com.au/126728078"	21.2
+"Jannali"	"6 Skillcorn Av"	4	"House"	1550000	"https://www.realestate.com.au/126724682"	21.2
+"Jannali"	"1 Ninth Av"	3	"House"	860000	"https://www.realestate.com.au/126765570"	21.2
+"Jerrabomberra"	"3 Elm Wy"	4	"House"		"https://www.realestate.com.au/126758866"	un_known
+"Jindera"	"64 Dight St"	5	"House"		"https://www.realestate.com.au/126737230"	un_known
+"Junee"	"4 Wardle St"	3	"House"	185000	""	un_known
+"Kahibah"	"2/43 Hexham St"	3	"Unit"	550000	"https://www.realestate.com.au/126692206"	un_known
+"Kangaroo Valley"	"141 Moss Vale Rd"	4	"House"		"https://www.realestate.com.au/126689042"	un_known
+"Kangy Angy"	"15 Schubolt La"	8	"House"	1950000	""	un_known
+"Karabar"	"5 Wild Pl"	3	"House"	495000	"https://www.realestate.com.au/126766230"	un_known
+"Keiraville"	"5 Binda St"	8	"House"		"https://www.realestate.com.au/126744006"	92
+"Kellyville"	"15 Patterson Av"	4	"House"	1110000	"https://www.realestate.com.au/126728102"	28.7
+"Kellyville"	"19 Stynes Av"	5	"House"		"https://www.realestate.com.au/126765226"	28.7
+"Kellyville"	"10 Nangar Cr"	6	"House"	1555000	"https://www.realestate.com.au/126713570"	28.7
+"Kellyville Ridge"	"15 Olea St"	5	"House"		"https://www.realestate.com.au/126779602"	31.7
+"Kellyville Ridge"	"22 Buckingham St"	5	"House"	1850000	"https://www.realestate.com.au/126752642"	31.7
+"Kensington"	"34 Lenthall St"	3	"House"		"https://www.realestate.com.au/126789670"	4.9
+"Kensington"	"103/93 Brompton Rd"	4	"Unit"	2320000	"https://www.realestate.com.au/126766226"	4.9
+"Kensington"	"4 Milroy Av"	4	"House"		"https://www.realestate.com.au/126772570"	4.9
+"Killara"	"20 Spencer Rd"	5	"House"	2262000	"https://www.realestate.com.au/126791558"	12
+"Killarney Heights"	"9 Drumcliff Av"	5	"House"	2350000	"https://www.realestate.com.au/126747598"	10.4
+"Kingsford"	"211 Doncaster Av"	5	"House"	2505000	""	6.7
+"Kingsford"	"1 Barker St"	8	"Unit"	3700000	"https://www.realestate.com.au/126728610"	6.7
+"Kingsford"	"2/48 Rainbow St"	2	"Unit"		"https://www.realestate.com.au/126771770"	6.7
+"Kingsford"	"80 Eastern Av"	3	"House"		"https://www.realestate.com.au/126777526"	6.7
+"Kingsford"	"19A Willis St"	3	"House"		"https://www.realestate.com.au/126795454"	6.7
+"Kingsford"	"4/49 Forsyth St"	2	"Unit"	855000	"https://www.realestate.com.au/126763126"	6.7
+"Kingsgrove"	"8 Edward St"	3	"House"		"https://www.realestate.com.au/126749574"	12.8
+"Kingsgrove"	"29 Dunkirk Av"	4	"House"	1700000	"https://www.realestate.com.au/126715386"	12.8
+"Kingswood"	"18/182 Great Western Hwy"	0.5	"Unit"		"https://www.realestate.com.au/502599006"	46.5
+"Kingswood"	"8 Angophora Av"	5	"House"		"https://www.realestate.com.au/126735430"	46.5
+"Kingswood"	"18 Plunkett Cr"	3	"Unit"	535000	"https://www.realestate.com.au/126710710"	46.5
+"Kirrawee"	"35 Fauna Pl"	1	"House"		""	22.4
+"Kirrawee"	"72 Bligh St"	4	"House"		"https://www.realestate.com.au/126658398"	22.4
+"Kirrawee"	"2 Tea Tree Pl"	4	"House"	1350000	""	22.4
+"Kirrawee"	"5 Deakin Pl"	2	"House"		"https://www.realestate.com.au/126755114"	22.4
+"Kirribilli"	"1/22 Elamang Av"	3	"Unit"		"https://www.realestate.com.au/126789442"	2.4
+"Kirribilli"	"12/3 Waruda St"	2	"Unit"		"https://www.realestate.com.au/126732966"	2.4
+"Kirribilli"	"101 Broughton St"	3	"House"		"https://www.realestate.com.au/126688926"	2.4
+"Kogarah Bay"	"14 Lacey St"	3	"House"		"https://www.realestate.com.au/126767034"	14.7
+"Kotara South"	"39 Dalpura La"	3	"House"	750000	"https://www.realestate.com.au/126768962"	un_known
+"Kotara South"	"47 Blackbutt Pde"	2	"House"	450000	"https://www.realestate.com.au/126782886"	un_known
+"Kurraba Point"	"11/133 Kurraba Rd"	2	"Unit"		"https://www.realestate.com.au/126789526"	6.6
+"Kyeemagh"	"2 Caroma Av"	3	"House"	1350000	"https://www.realestate.com.au/126753002"	10.3
+"Lake Cathie"	"13 Kara Cl"	3	"House"		"https://www.realestate.com.au/126424490"	un_known
+"Lake Haven"	"2/1 Japonica Cl"	3	"House"	457000	""	un_known
+"Lake Heights"	"5 Barina Av"	3	"House"	540000	"https://www.realestate.com.au/126771934"	un_known
+"Lakemba"	"25 Barremma Rd"	4	"House"		""	13.5
+"Lakemba"	"104 Wangee Rd"	2	"House"	960000	"https://www.realestate.com.au/126751650"	13.5
+"Lambton"	"91 Durham Rd"	3	"House"		"https://www.realestate.com.au/126715282"	un_known
+"Lane Cove"	"18/133 Burns Bay Rd"	2	"Unit"	917000	"https://www.realestate.com.au/126779898"	6.8
+"Lane Cove"	"11C/40 Cope St"	2	"Unit"		"https://www.realestate.com.au/126787222"	6.8
+"Lane Cove"	"230 Burns Bay Rd"	3	"House"		"https://www.realestate.com.au/126706406"	6.8
+"Lane Cove"	"54/25 Best St"	3	"Unit"		"https://www.realestate.com.au/126705490"	6.8
+"Lane Cove"	"6/124 Burns Bay Rd"	2	"Unit"		"https://www.realestate.com.au/126778150"	6.8
+"Lane Cove"	"209/8 Waterview Dr"	1	"Unit"		"https://www.realestate.com.au/126779910"	6.8
+"Lane Cove"	"704/532 Mowbray Rd"	3	"Unit"		"https://www.realestate.com.au/126779970"	6.8
+"Lane Cove North"	"411/76 Gordon Cr"	1	"Unit"	640000	"https://www.realestate.com.au/126779862"	7.4
+"Lane Cove North"	"607C/7 Centennial Av"	2	"Unit"	800000	"https://www.realestate.com.au/126779866"	7.4
+"Lane Cove North"	"19 Hart St"	3	"House"		"https://www.realestate.com.au/126710138"	7.4
+"Lane Cove North"	"2/42 Helen St"	3	"Unit"		"https://www.realestate.com.au/126779978"	7.4
+"Lane Cove North"	"308C/7 Centennial Av"	2	"Unit"		"https://www.realestate.com.au/126779850"	7.4
+"Lansvale"	"1 Bruce St"	4	"House"		"https://www.realestate.com.au/126724314"	23.7
+"Largs"	"91 Dalveen Rd"	4	"House"	1300000	"https://www.realestate.com.au/126617014"	174
+"Leichhardt"	"58 Renwick St"	2	"House"		"https://www.realestate.com.au/126728010"	5
+"Leichhardt"	"6/16 Jarrett St"	2	"Unit"		"https://www.realestate.com.au/126750034"	5
+"Leichhardt"	"16/4 Jarrett St"	2	"Unit"		"https://www.realestate.com.au/126750034"	5
+"Leichhardt"	"15A Styles St"	3	"House"		"https://www.realestate.com.au/125495902"	5
+"Leichhardt"	"1 National St"	3	"House"		"https://www.realestate.com.au/126749890"	5
+"Lennox Head"	"10 Montwood Dr"	4	"House"	805000	""	un_known
+"Lennox Head"	"200 North Creek Rd"	5	"House"	1700000	"https://www.realestate.com.au/126768946"	un_known
+"Lennox Head"	"6 Alexander Cct"	3	"House"	700000	"https://www.realestate.com.au/126758942"	un_known
+"Lewisham"	"29 Cook Rd"	4	"House"	1191000	"https://www.realestate.com.au/126663334"	6.6
+"Lilli Pilli"	"4 Immarna Av"	3	"House"	1530000	"https://www.realestate.com.au/126757162"	24.1
+"Lilyfield"	"27 Frazer St"	2	"House"		"https://www.realestate.com.au/126779234"	3.9
+"Lilyfield"	"17 Frazer St"	3	"House"		"https://www.realestate.com.au/126432026"	3.9
+"Lilyfield"	"26 Cecily St"	3	"House"		"https://www.realestate.com.au/126768926"	3.9
+"Lilyfield"	"27 Alfred St"	4	"House"		"https://www.realestate.com.au/126742926"	3.9
+"Lindfield"	"8/468 Pacific Hwy"	3	"Unit"		""	10.7
+"Lindfield"	"14 Gladstone Pde"	5	"House"		"https://www.realestate.com.au/126782754"	10.7
+"Little Bay"	"102/7 Jenner St"	2	"Unit"	1375000	"https://www.realestate.com.au/126745162"	13.1
+"Little Bay"	"7/1 Gubbuteh Rd"	2	"Unit"		"https://www.realestate.com.au/126745054"	13.1
+"Liverpool"	"73 Congressional Dr"	3	"House"	690000	"https://www.realestate.com.au/126747194"	26.9
+"Lugarno"	"3/891 Forest Rd"	3	"Unit"		"https://www.realestate.com.au/126782774"	19.6
+"Lurnea"	"2 Taloma Av"	3	"House"		"https://www.realestate.com.au/126740654"	29.6
+"Lurnea"	"9 Lions Av"	5	"House"		"https://www.realestate.com.au/126799338"	29.6
+"Maclean"	"4 Morven St"	3	"House"	320000	"https://www.realestate.com.au/126666958"	un_known
+"Malabar"	"17 Prince Edward St"	6	"House"	1925000	"https://www.realestate.com.au/126529570"	11.5
+"Malua Bay"	"32 Iluka Av"	5	"House"	1300000	"https://www.realestate.com.au/126607398"	un_known
+"Mangrove Mountain"	"62 Lillicrapps Rd"	4	"House"	1315000	""	un_known
+"Manly"	"738/22 Central Av"	1	"Unit"	831000	"https://www.realestate.com.au/126804474"	10.8
+"Manly"	"2/3 Craig Av"	3	"Unit"		"https://www.realestate.com.au/126787798"	10.8
+"Manly"	"23/84A Darley Rd"	2	"Unit"	1070000	"https://www.realestate.com.au/126783386"	10.8
+"Manly"	"59 Alexander St"	3	"House"		"https://www.realestate.com.au/126793490"	10.8
+"Manly"	"1/38 Eurobin Av"	3	"Unit"	2235000	"https://www.realestate.com.au/126778878"	10.8
+"Manly"	"6/84 North Steyne"	1	"Unit"		"https://www.realestate.com.au/126795946"	10.8
+"Manly Vale"	"13/25 Parkes St"	2	"Unit"		"https://www.realestate.com.au/126777338"	10.8
+"Manly Vale"	"2/50 Roseberry St"	3	"Unit"	950000	"https://www.realestate.com.au/126791806"	10.8
+"Manly Vale"	"9/56 Gordon St"	2	"Unit"	950000	"https://www.realestate.com.au/126787646"	10.8
+"Maroubra"	"17 Camira St"	3	"House"		"https://www.realestate.com.au/126698474"	9.4
+"Maroubra"	"567 Malabar Rd"	4	"House"		""	9.4
+"Maroubra"	"103/178 Marine Pde"	1	"Unit"		"https://www.realestate.com.au/126630874"	9.4
+"Maroubra"	"26 Cobham St"	2	"House"		""	9.4
+"Maroubra"	"264 Storey St"	4	"House"	3100000	"https://www.realestate.com.au/126745550"	9.4
+"Maroubra"	"2/85 Duncan St"	2	"Unit"	1300000	"https://www.realestate.com.au/126725558"	9.4
+"Maroubra"	"5/899 Anzac Pde"	2	"Unit"		"https://www.realestate.com.au/126602518"	9.4
+"Maroubra"	"13/1 Brown Rd"	2	"Unit"	950000	""	9.4
+"Maroubra"	"29 Keating St"	3	"House"	1475000	"https://www.realestate.com.au/126773090"	9.4
+"Marrickville"	"4/136 Livingstone Rd"	1	"Unit"	693000	""	6.7
+"Marrickville"	"91 Addison Rd"	2	"House"	1300000	"https://www.realestate.com.au/126763666"	6.7
+"Marrickville"	"57 Petersham Rd"	3	"House"	1200500	"https://www.realestate.com.au/126761222"	6.7
+"Marrickville"	"123 Warren Rd"	5	"House"	1075000	"https://www.realestate.com.au/126790778"	6.7
+"Marsfield"	"19/150 Crimea Rd"	2	"Unit"	800000	"https://www.realestate.com.au/126763018"	13.9
+"Marsfield"	"20 Forester Dr"	4	"House"	1530000	"https://www.realestate.com.au/126780874"	13.9
+"Marsfield"	"1/241 Vimiera Rd"	5	"Unit"	1550000	"https://www.realestate.com.au/126755754"	13.9
+"Maryville"	"46 Lewis St"	2	"House"	705000	"https://www.realestate.com.au/126841710"	un_known
+"Mascot"	"196 King St"	2	"House"	1225000	"https://www.realestate.com.au/126796522"	7.2
+"Mascot"	"163/12 Church Av"	2	"Unit"		"https://www.realestate.com.au/126764666"	7.2
+"Mayfield"	"11 Abel St"	3	"House"		"https://www.realestate.com.au/126717342"	164
+"Meadowbank"	"15/72 Constitution Rd W"	2	"Unit"	823000	"https://www.realestate.com.au/126790934"	12.2
+"Menai"	"58 The Woods Cct"	4	"House"	1070000	""	24
+"Menai"	"13 Kershaw Rd"	4	"House"	2215000	"https://www.realestate.com.au/126817718"	24
+"Merewether"	"47 Woodward St"	3	"House"	1710000	"https://www.realestate.com.au/126748534"	167
+"Merewether"	"95 Watkins St"	3	"House"	2050000	"https://www.realestate.com.au/126741062"	167
+"Merewether"	"139 Macquarie St"	4	"House"	1075000	"https://www.realestate.com.au/126662690"	167
+"Middle Cove"	"179 Eastern Valley Wy"	3	"House"	1765000	"https://www.realestate.com.au/126770138"	8.1
+"Middleton Grange"	"9 Connellan Av"	4	"House"	846000	"https://www.realestate.com.au/126755206"	34.4
+"Middleton Grange"	"13 Elevon St"	4	"House"		"https://www.realestate.com.au/126746702"	34.4
+"Middleton Grange"	"9 Travis St"	4	"House"		"https://www.realestate.com.au/126706166"	34.4
+"Middleton Grange"	"8 Kingsford Smith Av"	6	"House"	1000000	"https://www.realestate.com.au/126746498"	34.4
+"Middleton Grange"	"17 Bravo Av"	4	"House"	1010000	"https://www.realestate.com.au/126768986"	34.4
+"Milperra"	"9 Cowper Ct"	3	"House"		"https://www.realestate.com.au/126700034"	21.6
+"Milsons Point"	"1605/80 Alfred St"	2	"Unit"		"https://www.realestate.com.au/126746166"	2.2
+"Milsons Point"	"304/38 Alfred St S"	1	"Unit"		"https://www.realestate.com.au/126806962"	2.2
+"Milsons Point"	"17/98 Alfred St"	1	"Unit"	901000	"https://www.realestate.com.au/126737558"	2.2
+"Miranda"	"13/118 Karimbla Rd"	2	"Unit"		"https://www.realestate.com.au/126773890"	21
+"Miranda"	"21 Renown Av"	3	"House"	1320000	"https://www.realestate.com.au/124851050"	21
+"Moama"	"6 Tyro Ct"	3	"House"	420000	"https://www.realestate.com.au/126497682"	un_known
+"Mona Vale"	"5/20 Barrenjoey Rd"	2	"Unit"		"https://www.realestate.com.au/126555194"	22.8
+"Moorebank"	"10 Bradshaw Av"	3	"House"		"https://www.realestate.com.au/126733986"	24.5
+"Mosman"	"5 Water La"	0.5	"House"		""	5.4
+"Mosman"	"2 Gordon St"	3	"House"		"https://www.realestate.com.au/126614838"	5.4
+"Mosman"	"4/11 Royalist Rd"	3	"Unit"	2210000	"https://www.realestate.com.au/126775282"	5.4
+"Mosman"	"100 Cowles Rd"	2	"House"		"https://www.realestate.com.au/126742930"	5.4
+"Mosman"	"1/14 Clifford St"	1	"Unit"	700000	"https://www.realestate.com.au/126798994"	5.4
+"Mosman"	"5 Tivoli St"	3	"House"	3300000	""	5.4
+"Mount Druitt"	"35 Callagher St"	4	"House"	1120000	"https://www.realestate.com.au/126664198"	37.7
+"Mount Keira"	"161 Mt Keira Rd"	4	"House"	926000	"https://www.realestate.com.au/126744002"	un_known
+"Mount Pleasant"	"16 Parrish Av"	4	"House"	1225000	"https://www.realestate.com.au/126743854"	un_known
+"Mount Pritchard"	"63 Grainger Av"	3	"House"	570000	"https://www.realestate.com.au/126847358"	28.2
+"Mount Pritchard"	"22 Garden St"	4	"House"	790000	"https://www.realestate.com.au/126769826"	28.2
+"Mount Pritchard"	"14 South Pacific Av"	3	"House"		"https://www.realestate.com.au/126556718"	28.2
+"Mount Saint Thomas"	"7 Hill St"	4	"House"	752000	"https://www.realestate.com.au/126747230"	96
+"Murrumbateman"	"15 Nirta Dr"	3	"House"	770000	"https://www.realestate.com.au/126718242"	un_known
+"Muswellbrook"	"28 Cousins St"	3	"House"		"https://www.realestate.com.au/126738622"	un_known
+"Napoleon Reef"	"6 Valley View Cl"	5	"House"		"https://www.realestate.com.au/126752762"	un_known
+"Narara"	"93 Berrys Head Rd"	4	"House"		"https://www.realestate.com.au/126806678"	un_known
+"Narrabeen"	"2/1220 Pittwater Rd"	0.5	"Unit"	850000	"https://www.realestate.com.au/126753750"	17.6
+"Narrabeen"	"70 Clarke St"	3	"House"	1950000	"https://www.realestate.com.au/126739038"	17.6
+"Narrabeen"	"2/1192 Pittwater Rd"	3	"Unit"	1715000	"https://www.realestate.com.au/126788138"	17.6
+"Narrabeen"	"23/11 Ocean St"	3	"Unit"		"https://www.realestate.com.au/126717742"	17.6
+"Narwee"	"45 Grove Av"	3	"House"		"https://www.realestate.com.au/126738122"	15.6
+"Narwee"	"4 Berrille Rd"	3	"House"	995000	"https://www.realestate.com.au/126745566"	15.6
+"Nelson Bay"	"10 Mistral Cl"	5	"House"	900000	""	un_known
+"Neutral Bay"	"5 Yeo St"	5	"House"		"https://www.realestate.com.au/126726794"	4.2
+"Neutral Bay"	"8/1 Bennett St"	2	"Unit"	1447000	"https://www.realestate.com.au/126754054"	4.2
+"Neutral Bay"	"2/36 Wycombe Rd"	2	"Unit"	770000	"https://www.realestate.com.au/126786438"	4.2
+"New Lambton"	"49 Fay Av"	2	"House"	643000	"https://www.realestate.com.au/126746062"	un_known
+"Newington"	"4 Heidelberg Av"	3	"House"	1350000	"https://www.realestate.com.au/126679942"	14.4
+"Newport"	"47 Attunga Rd"	4	"House"		"https://www.realestate.com.au/126507670"	24.9
+"Newport"	"122 Irrubel Rd"	4	"House"		"https://www.realestate.com.au/126688554"	24.9
+"Newport"	"16 De Lauret Av"	3	"House"	1350000	"https://www.realestate.com.au/126713254"	24.9
+"Newtown"	"5 Phillip St"	3	"House"		"https://www.realestate.com.au/126640710"	4.1
+"Newtown"	"177 Australia St"	3	"House"		"https://www.realestate.com.au/126788258"	4.1
+"Newtown"	"55/20 Fitzgerald St"	1	"Unit"		"https://www.realestate.com.au/126774606"	4.1
+"Newtown"	"5 Alice Av"	3	"House"	1700000	"https://www.realestate.com.au/126707898"	4.1
+"Newtown"	"2/33 Fitzgerald St"	4	"House"		"https://www.realestate.com.au/126105862"	4.1
+"Newtown"	"49 Dickson St"	2	"House"		"https://www.realestate.com.au/126761258"	4.1
+"Newtown"	"34A Baltic St"	4	"House"	2163000	"https://www.realestate.com.au/126758670"	4.1
+"Newtown"	"33 Fitzgerald St"	4	"House"		""	4.1
+"Norah Head"	"30 Soldiers Point Dr"	2	"House"		"https://www.realestate.com.au/126773774"	un_known
+"North Albury"	"421 Bellevue St"	3	"House"	395000	"https://www.realestate.com.au/126771382"	un_known
+"North Avoca"	"110 Lake Shore Dr"	4	"House"	855000	"https://www.realestate.com.au/126764694"	un_known
+"North Balgowlah"	"69 Woodbine St"	4	"House"	1800000	"https://www.realestate.com.au/126718462"	9.8
+"North Bondi"	"39 Wairoa Av"	4	"House"		"https://www.realestate.com.au/126792086"	7
+"North Bondi"	"8/126 Ramsgate Av"	0.5	"Unit"		""	7
+"North Curl Curl"	"104 Headland Rd"	4	"House"		"https://www.realestate.com.au/126714702"	14.3
+"North Epping"	"12 Grayson Rd"	5	"House"	1585000	"https://www.realestate.com.au/126767106"	16.3
+"North Epping"	"6 Coventry Cr"	4	"House"		"https://www.realestate.com.au/126768890"	16.3
+"North Narrabeen"	"121 Gondola Rd"	3	"House"	1440000	"https://www.realestate.com.au/126716142"	20
+"North Parramatta"	"6/15 Brickfield St"	3	"Unit"	835000	"https://www.realestate.com.au/126611174"	19.7
+"North Parramatta"	"12/116 Oconnell St"	2	"Unit"	526000	"https://www.realestate.com.au/126780286"	19.7
+"North Rocks"	"48 Somerset Dr"	6	"House"	1260000	"https://www.realestate.com.au/126758570"	19.8
+"North Strathfield"	"4/6 Napier St"	3	"Unit"	775000	"https://www.realestate.com.au/126746986"	10.7
+"North Turramurra"	"6/404 Bobbin Head Rd"	3	"Unit"	1205000	"https://www.realestate.com.au/126653234"	18
+"North Turramurra"	"4 Hartley Cl"	4	"House"		""	18
+"North Turramurra"	"9 Mcrae Pl"	5	"House"		"https://www.realestate.com.au/126726170"	18
+"North Willoughby"	"6/147 Sydney St"	2	"Unit"		"https://www.realestate.com.au/126595002"	8.3
+"North Willoughby"	"24 Cambridge St"	4	"House"		"https://www.realestate.com.au/126790866"	8.3
+"Northbridge"	"90 Sailors Bay Rd"	2	"House"		""	6.3
+"Northbridge"	"16 Kiola Rd"	3	"House"		"https://www.realestate.com.au/126783474"	6.3
+"Northmead"	"G07/12 Howard Av"	2	"Unit"		"https://www.realestate.com.au/126776710"	21.7
+"Northwood"	"9 Upper Cliff Rd"	4	"House"		"https://www.realestate.com.au/126708826"	5
+"Oatley"	"7/53 Rosa St"	2	"Unit"		"https://www.realestate.com.au/126772638"	17.2
+"Oatley"	"4 Algernon St"	6	"House"		"https://www.realestate.com.au/126769762"	17.2
+"Oatley"	"155 Hurstville Rd"	2	"House"	1200000	"https://www.realestate.com.au/126749750"	17.2
+"Oatley"	"87 Woronora Pde"	3	"House"	1900000	"https://www.realestate.com.au/126789274"	17.2
+"Orange"	"89 Falvey Rd"	5	"House"		"https://www.realestate.com.au/126729062"	un_known
+"Orange"	"33 Rosemary La"	4	"House"		"https://www.realestate.com.au/126684338"	un_known
+"Orange"	"43 Kenna St"	3	"House"		"https://www.realestate.com.au/126769338"	un_known
+"Orange"	"74 Clinton St"	3	"House"	480000	"https://www.realestate.com.au/126738418"	un_known
+"Orange"	"98 Clinton St"	3	"House"	570000	"https://www.realestate.com.au/126716658"	un_known
+"Paddington"	"11/17 Cecil St"	3	"Unit"		""	2.7
+"Paddington"	"59 Harris St"	6	"House"	5160000	""	2.7
+"Paddington"	"59/14 Sutherland Av"	6	"House"	5160000	"https://www.realestate.com.au/126720598"	2.7
+"Padstow"	"22 Springfield Rd"	3	"House"	1110000	"https://www.realestate.com.au/126797778"	18.3
+"Padstow"	"2 Treatt Av"	3	"House"	1255000	"https://www.realestate.com.au/126747306"	18.3
+"Pagewood"	"208 Banksia St"	3	"House"	1825000	"https://www.realestate.com.au/126770930"	8.3
+"Palmers Island"	"111 School Rd"	3	"House"	238000	"https://www.realestate.com.au/126682314"	un_known
+"Panania"	"38 Drake St"	5	"House"	1110000	"https://www.realestate.com.au/126784738"	21.7
+"Panania"	"35 Garnsey Av"	3	"House"	1100000	""	21.7
+"Panania"	"2/14 Truscott St"	3	"House"		"https://www.realestate.com.au/126681974"	21.7
+"Parramatta"	"1002A/8 Cowper St"	2	"Unit"		"https://www.realestate.com.au/126775742"	19.6
+"Parramatta"	"7/23 Napier St"	1	"Unit"	524500	"https://www.realestate.com.au/126770082"	19.6
+"Pennant Hills"	"24 Cecil Av"	4	"House"		"https://www.realestate.com.au/126426178"	19
+"Pennant Hills"	"8 Harold Av"	5	"House"	2060000	"https://www.realestate.com.au/126783890"	19
+"Penshurst"	"2/5 Nelson St"	2	"Unit"		""	15.4
+"Petersham"	"3/49 New Canterbury Rd"	1	"Unit"		"https://www.realestate.com.au/126763334"	5.9
+"Petersham"	"12 Railway St"	4	"House"	2270000	"https://www.realestate.com.au/126754274"	5.9
+"Petersham"	"5 Fishers Res"	3	"House"	1380000	"https://www.realestate.com.au/126752354"	5.9
+"Phegans Bay"	"6 Raymond Rd"	4	"House"		"https://www.realestate.com.au/126705974"	43.1
+"Port Macquarie"	"39 Ackroyd St"	0.5	"House"		"https://www.realestate.com.au/201939526"	391
+"Port Macquarie"	"6 Geary St"	3	"House"		""	391
+"Port Macquarie"	"64 Grant St"	4	"House"		"https://www.realestate.com.au/126612978"	391
+"Port Macquarie"	"82 Savoy St"	3	"House"		"https://www.realestate.com.au/126698274"	391
+"Port Macquarie"	"15 Ocean Dr"	0.5	"House"		""	391
+"Port Macquarie"	"13 Talofa Cr"	4	"House"		""	391
+"Port Macquarie"	"304/72 Pacific Dr"	3	"Unit"		"https://www.realestate.com.au/126753398"	391
+"Port Macquarie"	"33 Home Ridge Tce"	4	"House"		"https://www.realestate.com.au/126779606"	391
+"Potts Point"	"16/4 Macleay St"	1	"Unit"	735000	"https://www.realestate.com.au/126725066"	1.7
+"Potts Point"	"801/9 Bayswater Rd"	2	"Unit"		"https://www.realestate.com.au/126585406"	1.7
+"Prestons"	"45 Dalmeny Dr"	5	"House"	1186000	""	32
+"Prospect"	"32 Witney St"	4	"House"	815000	"https://www.realestate.com.au/126756206"	27.8
+"Punchbowl"	"58 Catherine St"	5	"House"		""	15.5
+"Punchbowl"	"1/17A Mooral Av"	3	"Unit"		"https://www.realestate.com.au/126763474"	15.5
+"Punchbowl"	"5 Charlescotte Av"	4	"House"	1000000	"https://www.realestate.com.au/126748466"	15.5
+"Punchbowl"	"64 Joyce St"	2	"House"		"https://www.realestate.com.au/126751538"	15.5
+"Pymble"	"67A Pentecost Av"	3	"Unit"		"https://www.realestate.com.au/126784158"	15
+"Pyrmont"	"40/1 Bunn St"	2	"Unit"		"https://www.realestate.com.au/126785730"	1.3
+"Pyrmont"	"11/15 Bowman St"	2	"Unit"	2610000	"https://www.realestate.com.au/126781238"	1.3
+"Pyrmont"	"B12/40 Saunders St"	2	"Unit"		"https://www.realestate.com.au/126790874"	1.3
+"Quakers Hill"	"29 Morrell Cr"	4	"House"	940000	"https://www.realestate.com.au/126696298"	33.8
+"Quakers Hill"	"42 Alamar Cr"	4	"House"	940000	"https://www.realestate.com.au/126756234"	33.8
+"Queanbeyan"	"73 Campbell St"	3	"House"	876000	"https://www.realestate.com.au/126714494"	un_known
+"Queens Park"	"225 Denison St"	4	"House"		"https://www.realestate.com.au/126697562"	5.5
+"Queenscliff"	"6/89 Queenscliff Rd"	2	"Unit"	885000	"https://www.realestate.com.au/126788562"	11.8
+"Queenscliff"	"16/85 Queenscliff Rd"	2	"Unit"	900000	"https://www.realestate.com.au/126798830"	11.8
+"Raglan"	"87 Nile St"	3	"House"		"https://www.realestate.com.au/126726354"	un_known
+"Ramsgate Beach"	"10/93 Alfred St"	2	"Unit"		"https://www.realestate.com.au/126765350"	13.8
+"Ramsgate Beach"	"1/77 Alfred St"	2	"Unit"		""	13.8
+"Ramsgate Beach"	"2/62 Chuter Av"	2	"Unit"	841000	"https://www.realestate.com.au/126775342"	13.8
+"Randwick"	"9/1 Ada St"	1	"Unit"	770000	"https://www.realestate.com.au/126752874"	6
+"Randwick"	"20 Cook St"	4	"House"	1630000	"https://www.realestate.com.au/126728666"	6
+"Randwick"	"17/124 Carrington Rd"	1	"Unit"		"https://www.realestate.com.au/126830398"	6
+"Randwick"	"19 Govett St"	2	"House"	1975000	"https://www.realestate.com.au/126763866"	6
+"Randwick"	"317/34 Alison Rd"	1	"Unit"		"https://www.realestate.com.au/126782822"	6
+"Randwick"	"3/4 Burton St"	2	"Unit"	960000	"https://www.realestate.com.au/126740766"	6
+"Randwick"	"7/268 Carrington Rd"	1	"Unit"		"https://www.realestate.com.au/126717782"	6
+"Redfern"	"68 Hugo St"	3	"House"		""	2.9
+"Redfern"	"201/1A Great Buckingham St"	3	"Unit"		"https://www.realestate.com.au/126697490"	2.9
+"Redfern"	"10 Great Buckingham St"	4	"House"		"https://www.realestate.com.au/126789866"	2.9
+"Redfern"	"109 Baptist St"	3	"House"		"https://www.realestate.com.au/126684790"	2.9
+"Redfern"	"46 Boronia St"	3	"House"	1340000	"https://www.realestate.com.au/126684762"	2.9
+"Regents Park"	"2 Dempster Cr"	4	"House"	950000	"https://www.realestate.com.au/126768838"	17
+"Revesby"	"56 Vega St"	4	"House"	1060000	"https://www.realestate.com.au/126782374"	19.9
+"Revesby"	"7 Haddon Cr"	3	"House"	1315000	"https://www.realestate.com.au/126747274"	19.9
+"Rodd Point"	"14 Princess Av"	6	"House"		"https://www.realestate.com.au/126574038"	6
+"Rose Bay"	"1/21 Balfour Rd"	2	"Unit"		"https://www.realestate.com.au/126720474"	5.7
+"Rose Bay"	"6/40 Wilberforce Av"	3	"Unit"	2400000	"https://www.realestate.com.au/126745090"	5.7
+"Rose Bay"	"5 Caledonian Rd"	3	"House"	4550000	"https://www.realestate.com.au/126657394"	5.7
+"Rose Bay"	"2/20 Wilberforce Av"	2	"Unit"	1030000	"https://www.realestate.com.au/126722390"	5.7
+"Rosedale"	"17 Knowlman Rd"	3	"House"	1250000	"https://www.realestate.com.au/126545282"	un_known
+"Roselands"	"87 Stoddart St"	3	"House"	1335000	"https://www.realestate.com.au/126699678"	14.4
+"Roseville"	"2A Wandella Av"	4	"House"		"https://www.realestate.com.au/126655898"	9.6
+"Roseville"	"458 Penshurst St"	4	"House"		"https://www.realestate.com.au/126449858"	9.6
+"Royalla"	"410 Royalla Dr"	5	"House"		"https://www.realestate.com.au/126226350"	un_known
+"Royalla"	"108 Valley Dr"	4	"House"		"https://www.realestate.com.au/126606646"	un_known
+"Rozelle"	"27 Cambridge St"	3	"House"	1600000	"https://www.realestate.com.au/126793262"	3.4
+"Rozelle"	"9 Cashman St"	2	"House"	1310000	"https://www.realestate.com.au/126764078"	3.4
+"Rozelle"	"7 Burt St"	3	"House"	1610000	"https://www.realestate.com.au/126742922"	3.4
+"Rushcutters Bay"	"16/4 Waratah St"	1	"Unit"	650000	"https://www.realestate.com.au/126798938"	2.2
+"Russell Lea"	"14 Liege St"	4	"House"		"https://www.realestate.com.au/126784682"	6.2
+"Ryde"	"3 Minga St"	3	"House"	1330000	"https://www.realestate.com.au/126732814"	11.2
+"Ryde"	"4/17 Goulding Rd"	2	"Unit"		"https://www.realestate.com.au/126808118"	11.2
+"Ryde"	"22 Pooley St"	3	"House"	1755000	"https://www.realestate.com.au/126715182"	11.2
+"Salamander Bay"	"260/265 Sandy Point Rd"	2	"Unit"	336000	"https://www.realestate.com.au/126690670"	un_known
+"Sanctuary Point"	"328 The Park Dr"	2	"House"		""	un_known
+"Sanctuary Point"	"36 Walmer Av"	3	"House"		"https://www.realestate.com.au/126653002"	un_known
+"Sans Souci"	"25 Robert St"	3	"House"	1485000	"https://www.realestate.com.au/126707326"	15.3
+"Saratoga"	"74A Steyne Rd"	3	"House"	743000	"https://www.realestate.com.au/126749498"	45.6
+"Seaforth"	"22 Alto Av"	5	"House"		"https://www.realestate.com.au/126788594"	8.8
+"Seaforth"	"41 Clontarf St"	5	"House"		"https://www.realestate.com.au/126765166"	8.8
+"Seven Hills"	"100 Johnson Av"	4	"House"		"https://www.realestate.com.au/126699702"	27.2
+"Seven Hills"	"14 Cascade St"	4	"House"	945000	"https://www.realestate.com.au/126689066"	27.2
+"Shoal Bay"	"10/83 Ronald Av"	2	"Unit"	425000	"https://www.realestate.com.au/125617434"	un_known
+"Silverwater"	"114/3 Carnarvon St"	2	"Unit"	630000	"https://www.realestate.com.au/126757734"	15.1
+"Skennars Head"	"74 Headlands Dr"	4	"House"		"https://www.realestate.com.au/126665538"	un_known
+"Smithfield"	"799 The Horsley Dr"	3	"House"	662000	"https://www.realestate.com.au/126720994"	24.7
+"Smithfield"	"71A Eton St"	3	"House"		"https://www.realestate.com.au/126813166"	24.7
+"Smithfield"	"53 Bourke St"	4	"House"	1025000	"https://www.realestate.com.au/126765410"	24.7
+"South Bathurst"	"40 Bant St"	4	"House"	380000	"https://www.realestate.com.au/126546726"	un_known
+"South Coogee"	"73 Denning St"	3	"House"		"https://www.realestate.com.au/126688666"	8.4
+"South Hurstville"	"38 Grosvenor Rd"	3	"House"	1200000	"https://www.realestate.com.au/126767042"	15.5
+"South Hurstville"	"81 West St"	4	"House"	1650000	"https://www.realestate.com.au/126729926"	15.5
+"South Hurstville"	"6/9 Greenacre Rd"	2	"Unit"		"https://www.realestate.com.au/126766238"	15.5
+"South Wentworthville"	"84 Centenary Rd"	5	"House"	1160000	"https://www.realestate.com.au/126752794"	22.5
+"South Wentworthville"	"23 Brotherton St"	3	"House"	1034000	"https://www.realestate.com.au/126753270"	22.5
+"South Wentworthville"	"60 Alto St"	3	"House"		"https://www.realestate.com.au/126783766"	22.5
+"South Wentworthville"	"118 Centenary Rd"	4	"House"	2500000	"https://www.realestate.com.au/126757762"	22.5
+"South Windsor"	"681 George St"	4	"House"		"https://www.realestate.com.au/126748078"	46.3
+"Splitters Creek"	"2243 Riverina Hwy"	1	"House"	1000000	"https://www.realestate.com.au/125296114"	un_known
+"Springfield"	"43 Newcastle St"	4	"House"	684000	"https://www.realestate.com.au/126772090"	un_known
+"Springside"	"163 Berrilee Rd"	5	"Unit"	2500000	""	un_known
+"Springwood"	"9 Edna Av"	3	"House"		"https://www.realestate.com.au/126765726"	un_known
+"St Clair"	"51 Arundel Park Dr"	3	"House"	707000	"https://www.realestate.com.au/126794950"	39.3
+"St Ives"	"52 Alvona Av"	4	"House"		""	15.8
+"St Ives"	"3 Matthew Cl"	5	"House"	4028000	""	15.8
+"St Ives"	"6 Karoom Av"	4	"House"		"https://www.realestate.com.au/126720330"	15.8
+"St Ives"	"1/17 Newhaven Pl"	2	"Unit"		"https://www.realestate.com.au/126719578"	15.8
+"St Ives"	"39 Killeaton St"	4	"House"	1730000	"https://www.realestate.com.au/126697866"	15.8
+"St Ives"	"19 Walker Av"	6	"House"		"https://www.realestate.com.au/126467642"	15.8
+"St Ives"	"14 Woodward Pl"	3	"House"		"https://www.realestate.com.au/126721178"	15.8
+"St Ives"	"10 Briar St"	5	"House"		"https://www.realestate.com.au/126724614"	15.8
+"St Leonards"	"502/40 Atchison St"	2	"Unit"	1080000	"https://www.realestate.com.au/126722322"	5
+"St Marys"	"46 Caines Cr"	3	"House"	710000	"https://www.realestate.com.au/126737318"	41.5
+"St Peters"	"55 Goodsell St"	2	"House"	1113000	"https://www.realestate.com.au/126681866"	5.5
+"St Peters"	"32/19 Hutchinson St"	1	"Unit"		"https://www.realestate.com.au/126784902"	5.5
+"St Peters"	"17/19 Hutchinson St"	1	"Unit"		"https://www.realestate.com.au/126738762"	5.5
+"Stanmore"	"63 Cardigan St"	3	"House"		"https://www.realestate.com.au/126663970"	5.1
+"Stanwell Tops"	"24 Annesley Av"	4	"House"	1100000	"https://www.realestate.com.au/126743398"	44.7
+"Stockton"	"21 Maitland St"	2	"House"	700000	"https://www.realestate.com.au/126857170"	189
+"Strathfield"	"5/2 Duke St"	2	"Unit"		"https://www.realestate.com.au/126670082"	10.5
+"Strathfield"	"103/9 Hilts Rd"	2	"Unit"		"https://www.realestate.com.au/126705522"	10.5
+"Strathfield"	"16/4 Morwick St"	2	"Unit"	648000	"https://www.realestate.com.au/126692818"	10.5
+"Suffolk Park"	"28/12 Hazelwood Cl"	3	"House"	850000	""	un_known
+"Suffolk Park"	"7 Alcorn St"	3	"House"		"https://www.realestate.com.au/126789818"	un_known
+"Summer Hill"	"39 Herbert St"	5	"House"		"https://www.realestate.com.au/126774458"	7
+"Summer Hill"	"15 Spencer St"	2	"House"		"https://www.realestate.com.au/126757730"	7
+"Sunshine"	"119 Sunshine Pde"	3	"House"		""	un_known
+"Sunshine Bay"	"27 Sunshine Bay Rd"	4	"House"	450000	"https://www.realestate.com.au/126561134"	un_known
+"Surry Hills"	"302/105 Campbell St"	1	"Unit"		"https://www.realestate.com.au/126694494"	2.5
+"Surry Hills"	"148 Reservoir St"	3	"House"	1700000	"https://www.realestate.com.au/126699394"	2.5
+"Surry Hills"	"37/300 Riley St"	2	"Unit"		"https://www.realestate.com.au/126768954"	2.5
+"Sutherland"	"2/44 Clio St"	2	"Unit"		"https://www.realestate.com.au/126656702"	22.9
+"Sutherland"	"21/10 Robertson St"	2	"Unit"		"https://www.realestate.com.au/126776346"	22.9
+"Sutherland"	"110/68 Eton St"	2	"Unit"	690000	""	22.9
+"Sydney"	"613/45 Shelley St"	2	"Unit"	920000	"https://www.realestate.com.au/126740406"	1
+"Sydney"	"1701/5 York St"	1	"Unit"		"https://www.realestate.com.au/126752002"	1
+"Sylvania"	"44 Leichhardt Cr"	4	"House"	1420000	"https://www.realestate.com.au/126790150"	18.3
+"Sylvania"	"43/2 Corea St"	3	"Unit"		"https://www.realestate.com.au/126746154"	18.3
+"Sylvania"	"379 Princes Hwy"	5	"House"		"https://www.realestate.com.au/126772590"	18.3
+"Sylvania"	"100 Port Hacking Rd"	5	"House"		"https://www.realestate.com.au/126565086"	18.3
+"Sylvania Waters"	"31 Barcoo Island"	5	"House"		"https://www.realestate.com.au/126441390"	18.9
+"Sylvania Waters"	"185 Belgrave Esp"	5	"House"		"https://www.realestate.com.au/126786454"	18.9
+"Tamarama"	"3/5 Carlisle St"	3	"Unit"	1940000	"https://www.realestate.com.au/126780786"	6.9
+"Tamarama"	"18 Illawong Av"	4	"House"	3800000	"https://www.realestate.com.au/126688526"	6.9
+"Taree"	"37 Stevenson St"	3	"House"	305000	""	un_known
+"Terrigal"	"50 Hillcrest St"	3	"House"	1500000	"https://www.realestate.com.au/126740734"	94
+"Terrigal"	"54 Hillcrest St"	5	"House"		"https://www.realestate.com.au/126728614"	94
+"Terrigal"	"170 Hastings Rd"	5	"House"		""	94
+"Thirroul"	"26 High St"	3	"House"	790000	"https://www.realestate.com.au/126766946"	81
+"Thirroul"	"28 George St"	3	"House"	1446000	"https://www.realestate.com.au/126546198"	81
+"Thornleigh"	"127 Kooringal Av"	4	"House"	1425000	"https://www.realestate.com.au/126791442"	19.1
+"Thornleigh"	"44 Kooringal Av"	4	"House"	1100000	"https://www.realestate.com.au/126714706"	19.1
+"Tintenbar"	"140 Phoenix Dr"	4	"House"	1250000	"https://www.realestate.com.au/126357438"	un_known
+"Toongabbie"	"6 Bond Av"	2	"House"		"https://www.realestate.com.au/126757246"	25.2
+"Towradgi"	"25 Henrietta St"	3	"House"		"https://www.realestate.com.au/126742994"	un_known
+"Tumbi Umbi"	"3 Pierre Cl"	4	"House"		"https://www.realestate.com.au/126791622"	un_known
+"Turramurra"	"4 Ku-ring-gai Av"	5	"House"		""	16.5
+"Turramurra"	"7 Georgann St"	5	"House"		""	16.5
+"Turramurra"	"41 Monteith St"	3	"House"	1000000	"https://www.realestate.com.au/125929206"	16.5
+"Turramurra"	"44 Princes St"	5	"House"		"https://www.realestate.com.au/126790278"	16.5
+"Turrella"	"1 Wilkins St"	3	"House"	1115000	"https://www.realestate.com.au/126757530"	9.3
+"Turvey Park"	"1 Sunshine Av"	4	"House"		"https://www.realestate.com.au/126736206"	459
+"Ultimo"	"902/349 Bulwara Rd"	2	"Unit"		"https://www.realestate.com.au/126591730"	1.5
+"Ultimo"	"B404/448 Harris St"	1	"Unit"	790000	"https://www.realestate.com.au/126745274"	1.5
+"Umina Beach"	"8 Numby Cl"	3	"House"		"https://www.realestate.com.au/126783706"	38.8
+"Urunga"	"11 Bowra St"	3	"House"		"https://www.realestate.com.au/126689406"	un_known
+"Valentine"	"133 Dilkera Av"	4	"House"	2300000	"https://www.realestate.com.au/126775118"	un_known
+"Valley Heights"	"20 Green Pde"	4	"House"	732500	""	un_known
+"Vaucluse"	"7 Jensen Av"	3	"House"		""	6.6
+"Vaucluse"	"8/2 Oceanview Av"	3	"Unit"		"https://www.realestate.com.au/126687206"	6.6
+"Vaucluse"	"15 Cambridge Av"	4	"House"	3550000	""	6.6
+"Vaucluse"	"132 Old South Head Rd"	4	"House"		""	6.6
+"Wagga Wagga"	"42 Docker St"	3	"House"		"https://www.realestate.com.au/126331498"	un_known
+"Wagga Wagga"	"57 Thorne St"	5	"House"	685000	"https://www.realestate.com.au/126790718"	un_known
+"Wahroonga"	"21 Kokoda Av"	5	"House"		"https://www.realestate.com.au/126790270"	18.7
+"Wahroonga"	"68 Burns Rd"	5	"House"	3280000	"https://www.realestate.com.au/126726478"	18.7
+"Wahroonga"	"20A Russell Av"	4	"House"	1750000	"https://www.realestate.com.au/126725010"	18.7
+"Wahroonga"	"66 Westbrook Av"	3	"House"	1635000	"https://www.realestate.com.au/126790266"	18.7
+"Wahroonga"	"14/11 Woniora Av"	1	"Unit"		"https://www.realestate.com.au/126755810"	18.7
+"Wangi Wangi"	"295 Dobell Dr"	3	"House"	596000	""	un_known
+"Wangi Wangi"	"296 Dobell Dr"	3	"House"		"https://www.realestate.com.au/126645750"	un_known
+"Waratah West"	"31 Acacia Av"	3	"House"	380000	"https://www.realestate.com.au/126724618"	un_known
+"Wareemba"	"48 Wareemba St"	3	"House"	3015000	""	7.1
+"Warriewood"	"5 Watergum Dr"	0.5	"House"		"https://www.realestate.com.au/126763398"	20.6
+"Warwick Farm"	"12/10 Drummond St"	2	"Unit"	4200000	""	25.8
+"Warwick Farm"	"11/10 Drummond St"	2	"Unit"	4200000	""	25.8
+"Warwick Farm"	"7/10 Drummond St"	2	"Unit"	4200000	""	25.8
+"Warwick Farm"	"8/10 Drummond St"	2	"Unit"	4200000	""	25.8
+"Warwick Farm"	"9/10 Drummond St"	2	"Unit"	4200000	""	25.8
+"Warwick Farm"	"10/10 Drummond St"	2	"Unit"	4200000	""	25.8
+"Warwick Farm"	"5/10 Drummond St"	2	"Unit"	4200000	""	25.8
+"Warwick Farm"	"6/10 Drummond St"	2	"Unit"	4200000	""	25.8
+"Warwick Farm"	"3/10 Drummond St"	2	"Unit"	4200000	""	25.8
+"Warwick Farm"	"4/10 Drummond St"	2	"Unit"	4200000	""	25.8
+"Warwick Farm"	"1/10 Drummond St"	2	"Unit"	4200000	""	25.8
+"Warwick Farm"	"2/10 Drummond St"	2	"Unit"	4200000	""	25.8
+"Waterloo"	"344/9 Crystal St"	2	"Unit"	815000	"https://www.realestate.com.au/126707826"	3.7
+"Waterloo"	"214/9 Archibald Av"	1	"Unit"		"https://www.realestate.com.au/126740714"	3.7
+"Waverton"	"1/73 Bay Rd"	2	"Unit"		"https://www.realestate.com.au/126773938"	3.2
+"Wentworthville"	"44 Monash St"	3	"House"		"https://www.realestate.com.au/126619350"	22.9
+"Werrington"	"227 Victoria St"	4	"House"		""	44.8
+"West Hoxton"	"4 Winnaleah St"	3	"House"		"https://www.realestate.com.au/126769414"	33.9
+"West Pennant Hills"	"16 Kingfisher Pl"	4	"House"		"https://www.realestate.com.au/126747226"	20
+"West Pymble"	"5 The Comenarra Pky"	4	"House"		"https://www.realestate.com.au/126724902"	14
+"West Pymble"	"34 The Comenarra Pky"	4	"House"		"https://www.realestate.com.au/126782790"	14
+"West Ryde"	"39 Melville St"	7	"House"		""	12.8
+"West Ryde"	"27 Moss St"	4	"House"	2390000	"https://www.realestate.com.au/126769438"	12.8
+"Willoughby"	"14 Hudson Av"	3	"House"		"https://www.realestate.com.au/126793030"	7.3
+"Windsor"	"1 Mileham St"	5	"House"		"https://www.realestate.com.au/126589674"	46.1
+"Winston Hills"	"11 Woodberry Rd"	3	"House"		"https://www.realestate.com.au/126816578"	22.6
+"Wolli Creek"	"228/16 Lusty St"	2	"Unit"		"https://www.realestate.com.au/126763306"	8.5
+"Wollongbar"	"12 Gilmore Cl"	4	"House"		"https://www.realestate.com.au/126670710"	un_known
+"Wollongong"	"212/30 Gladstone Av"	2	"Unit"	620000	"https://www.realestate.com.au/126743862"	99
+"Wombarra"	"553B Lawrence Hargrave Dr"	3	"House"		""	un_known
+"Woolloomooloo"	"31/10 Lincoln Cr"	4	"Unit"	1	"https://www.realestate.com.au/126754558"	1.3
+"Woolooware"	"8 Hyndman Pde"	3	"House"		"https://www.realestate.com.au/126631398"	21
+"Woolooware"	"2/9 Pandala Pl"	3	"Unit"		"https://www.realestate.com.au/126645882"	21
+"Woolwich"	"37C The Point Rd"	4	"House"	5650000	""	4.5
+"Woonona"	"36 Kathleen Cr"	3	"House"	935000	"https://www.realestate.com.au/126691434"	un_known
+"Yagoona"	"61 Alan St"	3	"House"	770000	"https://www.realestate.com.au/126720566"	17.3
+"Yagoona"	"1 George St"	5	"House"	970000	"https://www.realestate.com.au/126753470"	17.3
+"Yagoona"	"29 Worland St"	3	"House"		"https://www.realestate.com.au/126746914"	17.3
+"Yagoona"	"10 Waruda St"	4	"House"		"https://www.realestate.com.au/126745386"	17.3
+"Yagoona"	"34 Wilkins St"	5	"House"		"https://www.realestate.com.au/126759982"	17.3
+"Yamba"	"12 Convent La"	3	"House"	830000	"https://www.realestate.com.au/126657078"	un_known
+"Yarrawarrah"	"6 Meekatharra Pl"	4	"House"		"https://www.realestate.com.au/126716754"	26.7
+"Yarrawarrah"	"7 Merredin Cl"	5	"House"		"https://www.realestate.com.au/126765030"	26.7
+"Young"	"30 Kellys Rd"	5	"House"		"https://www.realestate.com.au/126765578"	un_known
+"Yowie Bay"	"4A Forest Rd"	3	"House"		"https://www.realestate.com.au/126740738"	22.4
+"Zetland"	"145/6C Defries Av"	2	"Unit"		"https://www.realestate.com.au/126493078"	4.8
